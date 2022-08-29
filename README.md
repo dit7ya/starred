@@ -100,6 +100,7 @@
 
 ## Agda 
 
+- [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 
 ## Arc 
@@ -297,6 +298,7 @@
 
 ## C++ 
 
+- [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
@@ -397,6 +399,7 @@
 
 ## CSS 
 
+- [phil294/density-userstyle](https://github.com/phil294/density-userstyle) - Removing padding from websites
 - [Neikon/AutoColor-Minimal-Proton](https://github.com/Neikon/AutoColor-Minimal-Proton) - A few CSS settings to join with Vivaldifox add-ons and create a minimal theme
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [cobcobs/tridactyl](https://github.com/cobcobs/tridactyl) - Soho vibes for Tridactyl
@@ -930,6 +933,7 @@
 
 ## Go 
 
+- [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 - [benchkram/bob](https://github.com/benchkram/bob) - A build system for microservices - Nix Inside™
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
@@ -1410,6 +1414,7 @@
 
 ## JavaScript 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [ncase/nutshell](https://github.com/ncase/nutshell) - Make expandable explanations!
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
@@ -1966,6 +1971,7 @@
 
 ## Lua 
 
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
@@ -2043,6 +2049,7 @@
 
 ## Nix 
 
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [gytis-ivaskevicius/neovitality](https://github.com/gytis-ivaskevicius/neovitality) - 
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
@@ -2196,6 +2203,7 @@
 
 ## Others 
 
+- [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [ceramicnetwork/ceramic](https://github.com/ceramicnetwork/ceramic) - Home of the Ceramic Protocol
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
@@ -3178,6 +3186,8 @@
 
 ## Rust 
 
+- [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - Kindelia: an efficient, secure cryptocomputer
+- [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - Kind refactor based on HVM
 - [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [eliaperantoni/Koi](https://github.com/eliaperantoni/Koi) - A friendly companion for your shell scripting journeys.
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
@@ -3769,6 +3779,8 @@
 
 ## TypeScript 
 
+- [breck7/pldb](https://github.com/breck7/pldb) - The Programming Language Database
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
 - [siraben/nix-lint](https://github.com/siraben/nix-lint) - Semantic linter for Nix using tree-sitter 🌳 + ❄️
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
