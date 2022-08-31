@@ -17,6 +17,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [CUE](#cue)
+- [CWeb](#cweb)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
@@ -299,6 +300,8 @@
 
 ## C++ 
 
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
+- [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -444,6 +447,10 @@
 ## CUE 
 
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+
+## CWeb 
+
+- [ganelson/inweb](https://github.com/ganelson/inweb) - A modern system for literate programming.
 
 ## Clojure 
 
@@ -935,6 +942,10 @@
 
 ## Go 
 
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
+- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 - [benchkram/bob](https://github.com/benchkram/bob) - A build system for microservices - Nix Inside™
@@ -1129,7 +1140,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [ExpediaGroup/flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
 - [iron-io/functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
@@ -1272,6 +1283,7 @@
 
 ## Haskell 
 
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
@@ -2467,7 +2479,7 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - Chess!
 - [nikhita/tech-conferences-india](https://github.com/nikhita/tech-conferences-india) - A comprehensive list of tech conferences in India :india:
-- [zxcV32/indian-wordlist](https://github.com/zxcV32/indian-wordlist) - Commonly used passwords in Indian demography
+- [zxcv32/indian-wordlist](https://github.com/zxcv32/indian-wordlist) - Commonly used passwords in Indian demography
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [rishiloyola/Awesome-GRE-Materials](https://github.com/rishiloyola/Awesome-GRE-Materials) - A curated list of materials to prepare for the GRE.
 - [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
@@ -2550,6 +2562,9 @@
 
 ## Python 
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+- [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
@@ -3192,6 +3207,7 @@
 
 ## Rust 
 
+- [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - Kindelia: an efficient, secure cryptocomputer
 - [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - Kind refactor based on HVM
@@ -3271,7 +3287,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebookexperimental/eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -3787,8 +3803,9 @@
 
 ## TypeScript 
 
+- [polterguy/magic](https://github.com/polterguy/magic) - Create a CRUD API wrapping your database in seconds
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
 - [siraben/nix-lint](https://github.com/siraben/nix-lint) - Semantic linter for Nix using tree-sitter 🌳 + ❄️
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
