@@ -942,6 +942,7 @@
 
 ## Go 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -1291,7 +1292,7 @@
 - [gren-lang/compiler](https://github.com/gren-lang/compiler) - 
 - [lamdu/lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
 - [hasura/kriti-lang](https://github.com/hasura/kriti-lang) - A minimal JSON templating language
-- [MonadicSystems/okapi](https://github.com/MonadicSystems/okapi) - A web microframework for Haskell based on monadic parsing
+- [monadicsystems/okapi](https://github.com/monadicsystems/okapi) - A web microframework for Haskell based on monadic parsing
 - [MondayMorningHaskell/haskellings](https://github.com/MondayMorningHaskell/haskellings) - An automated tutorial to teach you about Haskell!
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
@@ -1386,7 +1387,6 @@
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [eguller/hntoplinks](https://github.com/eguller/hntoplinks) - hntoplinks
 - [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-calculus
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [structurizr/cli](https://github.com/structurizr/cli) - A command line utility for Structurizr.
@@ -1646,7 +1646,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [RealPeha/This-Repo-Has-1759-Stars](https://github.com/RealPeha/This-Repo-Has-1759-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -1987,6 +1987,7 @@
 
 ## Lua 
 
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - 🌸 Catppuccin themed nixos configuration
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
@@ -2482,7 +2483,6 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - Chess!
 - [nikhita/tech-conferences-india](https://github.com/nikhita/tech-conferences-india) - A comprehensive list of tech conferences in India :india:
-- [zxcv32/indian-wordlist](https://github.com/zxcv32/indian-wordlist) - Commonly used passwords in Indian demography
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [rishiloyola/Awesome-GRE-Materials](https://github.com/rishiloyola/Awesome-GRE-Materials) - A curated list of materials to prepare for the GRE.
 - [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
@@ -2740,6 +2740,7 @@
 - [ASPP/pelita](https://github.com/ASPP/pelita) - Actor-based Toolkit for Interactive Language Education in Python
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [autosoft-dev/tree-hugger](https://github.com/autosoft-dev/tree-hugger) - A light-weight, extendable, high level, universal code parser built on top of tree-sitter
 - [lona-web-org/lona](https://github.com/lona-web-org/lona) - Write responsive web apps in full python
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
@@ -3212,6 +3213,7 @@
 
 ## Rust 
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [Kindelia/Kindelia](https://github.com/Kindelia/Kindelia) - Kindelia: an efficient, secure cryptocomputer
@@ -3734,6 +3736,7 @@
 - [alphapapa/org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [alphapapa/with-emacs.sh](https://github.com/alphapapa/with-emacs.sh) - Script to easily run Emacs with specified configurations
 - [glacambre/.dotfiles](https://github.com/glacambre/.dotfiles) - My dotfiles. Install with `./install.sh`.
+- [zxcv32/indian-wordlist](https://github.com/zxcv32/indian-wordlist) - Commonly used passwords in Indian demography
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
