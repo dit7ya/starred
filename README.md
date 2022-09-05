@@ -131,6 +131,7 @@
 
 ## C 
 
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -1601,7 +1602,7 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dylanlrrb/Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - A Docker tutorial written for people who don't actually know Docker already.
-- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -2235,6 +2236,7 @@
 
 ## Others 
 
+- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) - 💡 A curated list of delightful Figma resources
 - [kunsteak/kunst_keyboard](https://github.com/kunsteak/kunst_keyboard) - Custom 18-key keyboard
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
@@ -2585,6 +2587,7 @@
 
 ## Python 
 
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [cursorless-dev/cursorless-talon](https://github.com/cursorless-dev/cursorless-talon) - The cursor never loved you anyway
 - [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2628,7 +2631,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [timokau/nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds. Status: alpha/proof of concept. You'll probably have to dig into the implementation if you want to use it. Built for personal use, lightly maintained. PRs welcome. Issues welcome, b
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging state-of-the-art optimization techniques.
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Accelerate AI models inference leveraging best-of-breed optimization techniques 🚀
 - [AnubisLMS/Anubis](https://github.com/AnubisLMS/Anubis) - Distributed LMS for automating Computing Science Courses From NYU
 - [mody5bundle/capps](https://github.com/mody5bundle/capps) - Run containerized, rootless applications with podman
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
@@ -3122,7 +3125,7 @@
 - [zuoxingdong/mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments
 - [alexander-turner/attainable-utility-preservation](https://github.com/alexander-turner/attainable-utility-preservation) - 
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) - This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
-- [Farama-Foundation/gym-minigrid](https://github.com/Farama-Foundation/gym-minigrid) - Minimalistic Gridworld Package for Gym maintained by the Farama Foundation
+- [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid) - Simple and easily configurable grid world environments for reinforcement learning
 - [riceissa/ea-forum-reader](https://github.com/riceissa/ea-forum-reader) - EA Forum Reader: a fast and JavaScript-free way to browse the Effective Altruism Forum (and LessWrong 2.0)
 - [instillai/Generative-Adversarial-Networks-Roadmap](https://github.com/instillai/Generative-Adversarial-Networks-Roadmap) - The Roadmap to Learn Generative Adversarial Networks (GANs)
 - [hiwonjoon/ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX) - 
@@ -3234,6 +3237,8 @@
 
 ## Rust 
 
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lf-/nix-doc](https://github.com/lf-/nix-doc) - An interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
 - [irdest/irdest](https://github.com/irdest/irdest) - A mirror of the Irdest monorepo. Find the upstream at https://git.irde.st/we/irdest
@@ -3318,7 +3323,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebookexperimental/eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
-- [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -3527,7 +3532,7 @@
 - [advancedresearch/poi](https://github.com/advancedresearch/poi) - a pragmatic point-free theorem prover assistant
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
@@ -4182,6 +4187,7 @@
 
 ## Vue 
 
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
