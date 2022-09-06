@@ -582,6 +582,8 @@
 
 ## Emacs Lisp 
 
+- [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
+- [emacs-eask/eask](https://github.com/emacs-eask/eask) - Command-line tool for building and testing Emacs Lisp packages
 - [spacekookie/learning-nix](https://github.com/spacekookie/learning-nix) - Freely licensed training material for the Nix expression language and ecosystem. Contact me to book on-site and remote training sessions
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [minad/consult](https://github.com/minad/consult) - consult.el - Consulting completing-read
@@ -1440,6 +1442,7 @@
 
 ## JavaScript 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -2236,6 +2239,7 @@
 
 ## Others 
 
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) - 💡 A curated list of delightful Figma resources
 - [kunsteak/kunst_keyboard](https://github.com/kunsteak/kunst_keyboard) - Custom 18-key keyboard
@@ -3125,7 +3129,7 @@
 - [zuoxingdong/mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments
 - [alexander-turner/attainable-utility-preservation](https://github.com/alexander-turner/attainable-utility-preservation) - 
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) - This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
-- [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid) - Simple and easily configurable grid world environments for reinforcement learning
+- [Farama-Foundation/MiniGrid](https://github.com/Farama-Foundation/MiniGrid) - Simple and easily configurable grid world environments for reinforcement learning
 - [riceissa/ea-forum-reader](https://github.com/riceissa/ea-forum-reader) - EA Forum Reader: a fast and JavaScript-free way to browse the Effective Altruism Forum (and LessWrong 2.0)
 - [instillai/Generative-Adversarial-Networks-Roadmap](https://github.com/instillai/Generative-Adversarial-Networks-Roadmap) - The Roadmap to Learn Generative Adversarial Networks (GANs)
 - [hiwonjoon/ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX) - 
@@ -3237,6 +3241,7 @@
 
 ## Rust 
 
+- [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lf-/nix-doc](https://github.com/lf-/nix-doc) - An interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script
@@ -3294,7 +3299,7 @@
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [aaronleopold/stump](https://github.com/aaronleopold/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [Relm4/Relm4](https://github.com/Relm4/Relm4) - An idiomatic GUI library inspired by Elm and based on gtk4-rs
+- [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [moustacheful/glimmer](https://github.com/moustacheful/glimmer) - A small tool to use along with i3/Sway to add CSS-powered decorations to your focused windows, for better usability.
