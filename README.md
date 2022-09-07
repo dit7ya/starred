@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [Arc](#arc)
 - [AsciiDoc](#asciidoc)
@@ -71,7 +72,6 @@
 - [PureBasic](#purebasic)
 - [PureScript](#purescript)
 - [Python](#python)
-- [QML](#qml)
 - [R](#r)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -102,6 +102,10 @@
 - [Zig](#zig)
 - [hoon](#hoon)
 
+## Adblock Filter List 
+
+- [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
+
 ## Agda 
 
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -131,6 +135,7 @@
 
 ## C 
 
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
@@ -303,6 +308,7 @@
 
 ## C++ 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [thepowersgang/mrustc](https://github.com/thepowersgang/mrustc) - Alternative rust compiler (re-implementation)
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -310,6 +316,7 @@
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -487,6 +494,7 @@
 
 ## Common Lisp 
 
+- [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 - [rabbibotton/clog](https://github.com/rabbibotton/clog) - CLOG - The Common Lisp Omnificent GUI
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [ultralisp/ultralisp](https://github.com/ultralisp/ultralisp) - The software behind a Ultralisp.org Common Lisp repository
@@ -955,6 +963,9 @@
 
 ## Go 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1221,6 +1232,7 @@
 
 ## HTML 
 
+- [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [EanNewton/Awesome-Keebs](https://github.com/EanNewton/Awesome-Keebs) - A collection of keyboards & things.
@@ -1299,6 +1311,7 @@
 
 ## Haskell 
 
+- [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -1388,6 +1401,7 @@
 
 ## Java 
 
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
@@ -1442,6 +1456,7 @@
 
 ## JavaScript 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
@@ -2239,6 +2254,7 @@
 
 ## Others 
 
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) - 💡 A curated list of delightful Figma resources
@@ -2419,7 +2435,6 @@
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [prathyvsh/lambda-calculus-visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations) - Catalog of visual lambda calculi
-- [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -2452,6 +2467,7 @@
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [chasedooley/mostly-free-resources-for-almost-everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - A list of mostly free resources for almost anyone.
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
+- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [mbiesiad/awesome-chess](https://github.com/mbiesiad/awesome-chess) - :trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [sw-yx/gpt3-list](https://github.com/sw-yx/gpt3-list) - List of things that people are claiming is enabled by GPT3. unverified but links to sources.
@@ -2591,10 +2607,11 @@
 
 ## Python 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI/TUI applications
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [cursorless-dev/cursorless-talon](https://github.com/cursorless-dev/cursorless-talon) - The cursor never loved you anyway
-- [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
@@ -3180,10 +3197,6 @@
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [dit7ya/codingground](https://github.com/dit7ya/codingground) - Main Repository for Coding Ground
 
-## QML 
-
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
-
 ## R 
 
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
@@ -3241,6 +3254,11 @@
 
 ## Rust 
 
+- [marhkb/pods](https://github.com/marhkb/pods) - A podman desktop application
+- [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
+- [oknozor/onagre](https://github.com/oknozor/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
+- [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -3848,6 +3866,8 @@
 
 ## TypeScript 
 
+- [batram/once](https://github.com/batram/once) - Collect and deduplicate stories (RSS, Hacker News, Lobsters or Reddit) and look at them once.
+- [looker-open-source/malloy](https://github.com/looker-open-source/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [Holllo/web-ext-template](https://github.com/Holllo/web-ext-template) - An opinionated WebExtension template.
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Browser Extensions
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
@@ -4114,7 +4134,6 @@
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
-- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A super fast dictionary for Chrome/Firefox
@@ -4192,6 +4211,7 @@
 
 ## Vue 
 
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
