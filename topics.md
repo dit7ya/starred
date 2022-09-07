@@ -275,6 +275,7 @@
 
 ## android 
 
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
@@ -440,6 +441,7 @@
 
 ## awesome 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI/TUI applications
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) - 💡 A curated list of delightful Figma resources
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
@@ -574,6 +576,7 @@
 
 ## awesome-list 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI/TUI applications
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) - 💡 A curated list of delightful Figma resources
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
@@ -1301,6 +1304,7 @@
 
 ## cpp 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
@@ -1341,6 +1345,7 @@
 
 ## css 
 
+- [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [moustacheful/glimmer](https://github.com/moustacheful/glimmer) - A small tool to use along with i3/Sway to add CSS-powered decorations to your focused windows, for better usability.
@@ -1477,6 +1482,7 @@
 
 ## database 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
@@ -1607,6 +1613,7 @@
 
 ## devops 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [envkey/envkey](https://github.com/envkey/envkey) - Magical secure app config
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A DevSecOps framework powered by Nix.
@@ -2346,6 +2353,7 @@
 
 ## github 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
 - [thatvegandev/gh-eco](https://github.com/thatvegandev/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -3129,6 +3137,7 @@
 
 ## javascript 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
@@ -3440,6 +3449,7 @@
 
 ## kubernetes 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -3593,6 +3603,8 @@
 
 ## linux 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI/TUI applications
+- [marhkb/pods](https://github.com/marhkb/pods) - A podman desktop application
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - 🌸 Catppuccin themed nixos configuration
@@ -3978,6 +3990,7 @@
 
 ## mastodon 
 
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
@@ -4053,6 +4066,7 @@
 
 ## mysql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [polterguy/magic](https://github.com/polterguy/magic) - Create a CRUD API wrapping your database in seconds
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -4297,6 +4311,7 @@
 
 ## open-source 
 
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
@@ -4338,6 +4353,16 @@
 
 ## others 
 
+- [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
+- [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
+- [batram/once](https://github.com/batram/once) - Collect and deduplicate stories (RSS, Hacker News, Lobsters or Reddit) and look at them once.
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
+- [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
+- [oknozor/onagre](https://github.com/oknozor/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
+- [looker-open-source/malloy](https://github.com/looker-open-source/malloy) - Malloy is an experimental language for describing data relationships and transformations.
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [Holllo/web-ext-template](https://github.com/Holllo/web-ext-template) - An opinionated WebExtension template.
@@ -4353,7 +4378,7 @@
 - [spacekookie/learning-nix](https://github.com/spacekookie/learning-nix) - Freely licensed training material for the Nix expression language and ecosystem. Contact me to book on-site and remote training sessions
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [inkandswitch/potluck](https://github.com/inkandswitch/potluck) - 
-- [hlky/stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) - Stable Diffusion web UI
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
@@ -6071,6 +6096,7 @@
 
 ## postgresql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [polterguy/magic](https://github.com/polterguy/magic) - Create a CRUD API wrapping your database in seconds
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
@@ -6141,6 +6167,7 @@
 
 ## pwa 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -6773,6 +6800,8 @@
 
 ## rust 
 
+- [marhkb/pods](https://github.com/marhkb/pods) - A podman desktop application
+- [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -7214,6 +7243,8 @@
 
 ## sql 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -7496,6 +7527,7 @@
 
 ## typescript 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
