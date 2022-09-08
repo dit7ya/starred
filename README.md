@@ -135,6 +135,7 @@
 
 ## C 
 
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -1928,7 +1929,7 @@
 - [NeuromatchAcademy/course-content-dl](https://github.com/NeuromatchAcademy/course-content-dl) - NMA deep learning course
 - [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [bhattbhavesh91/cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) - Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India.
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [namangup/colab-terminal](https://github.com/namangup/colab-terminal) - Open a shell in Google Colab
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [tallero/GNUColab](https://github.com/tallero/GNUColab) - A persistent Google Colab notebook that lets you run a full GNU desktop.
@@ -2367,7 +2368,7 @@
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
 - [componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features to be integrated into web applications
-- [railwayapp/starters](https://github.com/railwayapp/starters) - Railway starters
+- [railwayapp/templates](https://github.com/railwayapp/templates) - Railway starters
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Phantas0s/questions-job-interview](https://github.com/Phantas0s/questions-job-interview) - :office: List of questions I might ask during an interview for a software developer job
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
@@ -2607,7 +2608,9 @@
 
 ## Python 
 
-- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI/TUI applications
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
+- [botcity-dev/botcity-framework-core-python](https://github.com/botcity-dev/botcity-framework-core-python) - BotCity Framework - Python
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - Awesome Curated list of (mainly) CLI/TUI applications with source data organized into CSV files
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [cursorless-dev/cursorless-talon](https://github.com/cursorless-dev/cursorless-talon) - The cursor never loved you anyway
@@ -2704,7 +2707,7 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
@@ -3254,6 +3257,7 @@
 
 ## Rust 
 
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [marhkb/pods](https://github.com/marhkb/pods) - A podman desktop application
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [oknozor/onagre](https://github.com/oknozor/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
@@ -3982,7 +3986,7 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [practice-dev/practice-dev](https://github.com/practice-dev/practice-dev) - Practice programming at https://practice.dev!
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
