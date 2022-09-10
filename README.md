@@ -1528,7 +1528,7 @@
 - [fabcotech/dappy](https://github.com/fabcotech/dappy) - Dappy browser is a next-generation web browser that works without DNS and without TLS Certificate Authorities, instead it uses blockchain and co-resolution for ultra-accuracy and security. It is equip
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 36 plugins. 1204 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 37 plugins. 1236 rules. React, Vue, Node, and pure JS/TS.
 - [hmarr/grephub](https://github.com/hmarr/grephub) - 🔍 Search GitHub repositories with regexes
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -2785,7 +2785,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.6 and above with performance auto-tuning. Optionally with Alpine Linux.
 - [zedr/clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [edgedb/edgedb-vim](https://github.com/edgedb/edgedb-vim) - EdgeDB + Vim
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [msherry/flycheck-pycheckers](https://github.com/msherry/flycheck-pycheckers) - Multiple syntax checker for Python in Emacs, using Flycheck
 - [ASPP/pelita](https://github.com/ASPP/pelita) - Actor-based Toolkit for Interactive Language Education in Python
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
@@ -3259,6 +3259,7 @@
 
 ## Rust 
 
+- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [marhkb/pods](https://github.com/marhkb/pods) - A podman desktop application
@@ -3873,6 +3874,7 @@
 
 ## TypeScript 
 
+- [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
 - [batram/once](https://github.com/batram/once) - Collect and deduplicate stories (RSS, Hacker News, Lobsters or Reddit) and look at them once.
 - [looker-open-source/malloy](https://github.com/looker-open-source/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [Holllo/web-ext-template](https://github.com/Holllo/web-ext-template) - An opinionated WebExtension template.
