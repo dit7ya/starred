@@ -1501,7 +1501,7 @@
 - [troyp/.tridactyl](https://github.com/troyp/.tridactyl) - Tridactyl config folder
 - [mmguero/mirotalk](https://github.com/mmguero/mirotalk) - Real-time video call, chat and screen sharing. Purely browser-based, powered by WebRTC.
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
-- [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/BetterFox](https://github.com/yokoffing/BetterFox) - An up-to-date user.js to speed up and secure Firefox
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [accelerated-text/accelerated-text](https://github.com/accelerated-text/accelerated-text) - Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and str
@@ -3278,6 +3278,7 @@
 
 ## Rust 
 
+- [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - A Python package manager written in Rust inspired by Cargo.
 - [mindbeam/mindbase](https://github.com/mindbeam/mindbase) - A database for convergent intersubjectivity
