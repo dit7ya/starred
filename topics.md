@@ -1301,6 +1301,7 @@
 
 ## continuous-integration 
 
+- [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -1462,7 +1463,7 @@
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
-- [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
+- [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
@@ -1595,7 +1596,7 @@
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [zuoxingdong/lagom](https://github.com/zuoxingdong/lagom) - lagom: A PyTorch infrastructure for rapid prototyping of reinforcement learning algorithms.
 - [instillai/deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
-- [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
+- [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
@@ -2257,6 +2258,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
@@ -2548,7 +2550,6 @@
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
-- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
@@ -2711,9 +2712,11 @@
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie) - Yorkie is a document store for collaborative applications.
@@ -2726,6 +2729,9 @@
 - [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus(comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
+- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
+- [catppuccin/telegram](https://github.com/catppuccin/telegram) - 💬 (WIP) Soothing pastel theme for Telegram
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
@@ -2819,6 +2825,7 @@
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Project currently on an indefinite hiatus.
@@ -2947,6 +2954,7 @@
 
 ## haskell 
 
+- [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Course plan, video lectures, slides
@@ -3961,7 +3969,7 @@
 - [mimoralea/gdrl](https://github.com/mimoralea/gdrl) - Grokking Deep Reinforcement Learning
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [zuoxingdong/lagom](https://github.com/zuoxingdong/lagom) - lagom: A PyTorch infrastructure for rapid prototyping of reinforcement learning algorithms.
-- [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
+- [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
@@ -4093,6 +4101,7 @@
 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
+- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
 - [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb) - Jest preset for MongoDB in-memory server
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
@@ -4537,7 +4546,6 @@
 - [ztlevi/doom-config](https://github.com/ztlevi/doom-config) - Blazing fast Doom Emacs private configuration
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
 - [vlinkz/npkg](https://github.com/vlinkz/npkg) - A cross tool package management wrapper for NixOS
 - [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [binzcodes/new](https://github.com/binzcodes/new) - A remote reproducible, ephemeral, sandboxed and completely diposable nix based dev env
@@ -4640,7 +4648,6 @@
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3.
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
-- [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
 - [ornicar/chesshq.com-front](https://github.com/ornicar/chesshq.com-front) - Source code for the frontend of chesshq.com
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
@@ -4666,7 +4673,6 @@
 - [imperviousinc/beacon](https://github.com/imperviousinc/beacon) - Beacon browser for desktop
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [danielphan2003/flk](https://github.com/danielphan2003/flk) - Cold and spike-y ─ a perfect place to build your dotfiles from the ground up!
@@ -4872,7 +4878,7 @@
 - [phoenixframework/tailwind](https://github.com/phoenixframework/tailwind) - An installer for tailwind
 - [chatziko/location-guard](https://github.com/chatziko/location-guard) - Hide your geographic location from websites.
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
-- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [laffra/Ikke](https://github.com/laffra/Ikke) - Index and search your personal data quickly and privately.
 - [zielmicha/emacspy](https://github.com/zielmicha/emacspy) - Program Emacs in Python instead of ELisp (i.e. write dynamic modules for Emacs in Python)
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
@@ -5327,7 +5333,6 @@
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
 - [lucydsl/liblucy](https://github.com/lucydsl/liblucy) - Core Lucy compiler
 - [crazymykl/rust-koans](https://github.com/crazymykl/rust-koans) - Koans for the Rust programming language
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -6354,6 +6359,7 @@
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
+- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -6414,6 +6420,7 @@
 - [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
+- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -7383,7 +7390,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
-- [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
+- [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
 
 ## sql-server 
 
@@ -7396,7 +7403,7 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [ShuaiW/data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer) - A repo for data science related questions and answers
+- [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
 
 ## storybook 
 
