@@ -1478,6 +1478,7 @@
 
 ## JavaScript 
 
+- [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
@@ -3285,6 +3286,9 @@
 
 ## Rust 
 
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Cloud native log observability platform - ingest high volume logs and query the data in simple, efficient, low latency.
+- [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative written in rust.
+- [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
