@@ -656,6 +656,7 @@
 - [flashcode/impostman](https://github.com/flashcode/impostman) - Import of Postman collections in Emacs
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
 - [DaniruKun/siri-shortcuts.el](https://github.com/DaniruKun/siri-shortcuts.el) - A set of Emacs commands and functions for interacting with Siri Shortcuts.
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [wandersoncferreira/code-review](https://github.com/wandersoncferreira/code-review) - Code Reviews in Emacs
 - [Mstrodl/elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence / Gamebridge support for Emacs!
@@ -770,7 +771,7 @@
 - [tumashu/posframe](https://github.com/tumashu/posframe) - Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!
 - [org-mime/org-mime](https://github.com/org-mime/org-mime) - org-mime can be used to send HTML email using Org-mode HTML export.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
-- [daviderestivo/galactic-emacs](https://github.com/daviderestivo/galactic-emacs) - A Emacs distribution coming from the space ...
+- [daviderestivo/galactic-emacs](https://github.com/daviderestivo/galactic-emacs) - An Emacs distribution coming from the space ...
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
 - [jcaw/voicemacs](https://github.com/jcaw/voicemacs) - 🗣️ Utilities for controlling Emacs with your voice. Not production-ready, but you can use it as a reference.
 - [justinbarclay/elegant-agenda-mode](https://github.com/justinbarclay/elegant-agenda-mode) - My only agenda is to be more elegant.
@@ -1069,7 +1070,7 @@
 - [62726164/ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using an Ed25519 key
 - [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
 - [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox
-- [AkihiroSuda/buildkit-nix](https://github.com/AkihiroSuda/buildkit-nix) - Nix derivations as Dockerfiles (`docker build -f default.nix .`)
+- [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) - Nix derivations as Dockerfiles (`docker build -f default.nix .`)
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
@@ -1343,7 +1344,7 @@
 - [gren-lang/compiler](https://github.com/gren-lang/compiler) - 
 - [lamdu/lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
 - [hasura/kriti-lang](https://github.com/hasura/kriti-lang) - A minimal JSON templating language
-- [monadicsystems/okapi](https://github.com/monadicsystems/okapi) - A web microframework for Haskell based on monadic parsing
+- [monadicsystems/okapi](https://github.com/monadicsystems/okapi) - A micro web framework for Haskell based on monadic parsing
 - [MondayMorningHaskell/haskellings](https://github.com/MondayMorningHaskell/haskellings) - An automated tutorial to teach you about Haskell!
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
@@ -1481,6 +1482,7 @@
 
 ## JavaScript 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1620,7 +1622,6 @@
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [gcp/rchesspgn](https://github.com/gcp/rchesspgn) - WebExtensions port of r/chess PGN viewer
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [EMH333/esbuild-svelte](https://github.com/EMH333/esbuild-svelte) - An esbuild plugin to compile Svelte components
@@ -1944,6 +1945,7 @@
 
 ## Jupyter Notebook 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -2199,7 +2201,6 @@
 - [jonringer/AoC2021](https://github.com/jonringer/AoC2021) - Advent of Code for 2021
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
-- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
@@ -2310,7 +2311,7 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [catppuccin/telegram](https://github.com/catppuccin/telegram) - 💬 (WIP) Soothing pastel theme for Telegram
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
-- [Explosion-Scratch/abdeljalil-salhi-is-epic](https://github.com/Explosion-Scratch/abdeljalil-salhi-is-epic) - Star to change the repo title to your username!
+- [Explosion-Scratch/edom71-starred-this-repo](https://github.com/Explosion-Scratch/edom71-starred-this-repo) - Star to change the repo title to your username!
 - [e3w2q/su120-keyboard](https://github.com/e3w2q/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [garnix-io/issues](https://github.com/garnix-io/issues) - Public issue tracker for garnix.io
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -2350,7 +2351,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [no-cmyk/Search-Engine-Spam-Blocklist](https://github.com/no-cmyk/Search-Engine-Spam-Blocklist) - Blocklist to filter out spam and junk domains from search engines results
 - [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
-- [shaal/awesome-gitpod](https://github.com/shaal/awesome-gitpod) - A curated list of awesome Gitpod resources.
+- [gitpod-io/awesome-gitpod](https://github.com/gitpod-io/awesome-gitpod) - A curated list of awesome Gitpod resources.
 - [harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) - A curated list of awesome information retrieval resources
 - [open-guides/og-search-engineering](https://github.com/open-guides/og-search-engineering) - Want to build or improve a search experience? Start here.
 - [cointastical/P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges) - Person-to-Person bitcoin Trading Exchanges
@@ -2637,6 +2638,7 @@
 
 ## Python 
 
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
 - [tenzir/threatbus](https://github.com/tenzir/threatbus) - 🚌 Threat Bus – A threat intelligence dissemination layer for open-source security tools.
 - [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases & fixups
 - [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
@@ -3291,10 +3293,11 @@
 
 ## Rust 
 
+- [rraval/git-nomad](https://github.com/rraval/git-nomad) - Synchronize work-in-progress git branches in a light weight fashion
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [mre/zerocal](https://github.com/mre/zerocal) - 🚫📆 Serverless calendar built with shuttle.rs
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Free and open source replacement to Loki, Elastic, Splunk
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Free and open source alternative to Loki, Elastic, Splunk
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -3927,6 +3930,9 @@
 
 ## TypeScript 
 
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - a tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -3991,7 +3997,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [internxt/drive-mobile](https://github.com/internxt/drive-mobile) - 
-- [bitspook/spookfox](https://github.com/bitspook/spookfox) - Make Emacs speak with Firefox
+- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [domderen/playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -4090,6 +4096,7 @@
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [370417/fancyground](https://github.com/370417/fancyground) - Custom arrows and square highlights for lichess.org
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [fission-codes/webnative](https://github.com/fission-codes/webnative) - Fission's browser SDK
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
