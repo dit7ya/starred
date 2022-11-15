@@ -996,6 +996,8 @@
 
 ## Go 
 
+- [FlorianWoelki/kira](https://github.com/FlorianWoelki/kira) - A fast and scalable sandbox code execution engine.
+- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -1532,6 +1534,7 @@
 
 ## JavaScript 
 
+- [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
 - [AppThreat/cdxgen](https://github.com/AppThreat/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic s
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
@@ -1589,7 +1592,6 @@
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
 - [dit7ya/hnlinks](https://github.com/dit7ya/hnlinks) - Browse Links in HackerNews Threads, Fast!
@@ -2024,7 +2026,6 @@
 - [polakowo/gpt2bot](https://github.com/polakowo/gpt2bot) - Your new Telegram buddy powered by transformers
 - [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - NMA Computational Neuroscience course
 - [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [yisaienkov/Humans-Not-Invited-Problem](https://github.com/yisaienkov/Humans-Not-Invited-Problem) - Solve the Humans Not Invited problem
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
@@ -2106,6 +2107,7 @@
 
 ## Lua 
 
+- [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
@@ -2195,6 +2197,8 @@
 
 ## Nix 
 
+- [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [mpontus/templates](https://github.com/mpontus/templates) - 
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [madjam002/yarnpnp2nix](https://github.com/madjam002/yarnpnp2nix) - A performance focused and space efficient way of packaging NodeJS applications with Nix
@@ -2207,13 +2211,13 @@
 - [divnix/hive](https://github.com/divnix/hive) - The Hive
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - 🌸 Catppuccin themed nixos configuration
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - ⚠️ Mirror of https://git.sioodmy.dev/sioodmy/dotfiles
 - [litchipi/shix](https://github.com/litchipi/shix) - Nix-enhanced tailored made workspace shells
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [gytis-ivaskevicius/neovitality](https://github.com/gytis-ivaskevicius/neovitality) - 
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
-- [binzcodes/new](https://github.com/binzcodes/new) - A remote reproducible, ephemeral, sandboxed and completely diposable nix based dev env
+- [binzcodes/new](https://github.com/binzcodes/new) - A remote, reproducible, ephemeral, sandboxed and completely diposable nix-based dev env
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [serokell/nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
@@ -2231,7 +2235,7 @@
 - [ners/NixOS](https://github.com/ners/NixOS) - A feature-rich NixOS configuration that can double as a learning resource.
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules for Flakes: split your flakes into modules and get things done with community modules.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
 - [gytis-ivaskevicius/nix2vim](https://github.com/gytis-ivaskevicius/nix2vim) - [WIP] Nix to Lua parser meant to be used for configuring neovim
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
@@ -2722,6 +2726,7 @@
 
 ## Python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 - [conradbez/hstream](https://github.com/conradbez/hstream) - Hyper Stream
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler 5.1 - image/video deeplearning upscaler with any GPU [Pytorch]
@@ -2980,7 +2985,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [pomdtr/Lupin](https://github.com/pomdtr/Lupin) - 
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
-- [QQuick/Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
+- [QQuick/Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! -
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -2996,7 +3001,7 @@
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [learning-zone/python-interview-questions](https://github.com/learning-zone/python-interview-questions) - Python Interview Questions ( v3.x )
+- [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
@@ -3178,6 +3183,7 @@
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [ShoroukAziz/Beautify-Anki](https://github.com/ShoroukAziz/Beautify-Anki) - An Anki addon that attempts to give Anki's deck browser and deck overview pages a material design look.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -3579,6 +3585,7 @@
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
@@ -4145,7 +4152,7 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [envkey/envkey](https://github.com/envkey/envkey) - End-to-end encrypted configuration and secrets management
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
-- [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax. ~13KB
+- [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax ~13KB
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications
@@ -4155,7 +4162,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [acrazing/html5parser](https://github.com/acrazing/html5parser) - A super tiny and fast html5 AST parser.
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🖤
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [vector-im/element-call](https://github.com/vector-im/element-call) - Group calls powered by Matrix
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -4211,7 +4218,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [atek-cloud/statek](https://github.com/atek-cloud/statek) - An Atek application for hosting static websites from folders, git repos, or hyperdrives
 - [atek-cloud/spork](https://github.com/atek-cloud/spork) - [CLI app] Peer-to-peer socket magic in the air
-- [philippetedajo/codetree](https://github.com/philippetedajo/codetree) - ⚡️ Lightning fast online code playground, built on top of webAssembly 🔥.
+- [philippetedajo/codetree](https://github.com/philippetedajo/codetree) - ⚡️ Lightning fast off-on/line code playground, built with ♥️ on top of webAssembly.
 - [egoist/presite](https://github.com/egoist/presite) - A static site generator based on Puppeteer.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
@@ -4304,7 +4311,7 @@
 - [dabbott/javascript-playgrounds](https://github.com/dabbott/javascript-playgrounds) - An interactive JavaScript sandbox
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [dabbott/react-express](https://github.com/dabbott/react-express) - Learn React through interactive examples
-- [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
