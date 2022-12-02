@@ -1072,7 +1072,7 @@
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) - A lightweight, secure, and feature-rich Discord terminal client
 - [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie) - Yorkie is a document store for collaborative applications.
-- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for glue
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1550,6 +1550,7 @@
 
 ## JavaScript 
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [PDFTron/web-to-pdf](https://github.com/PDFTron/web-to-pdf) - Convert any web technology to PDF (HTML to PDF, html2pdf)
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
@@ -2222,6 +2223,7 @@
 
 ## Nix 
 
+- [flox/floxpkgs](https://github.com/flox/floxpkgs) - 
 - [jake-arkinstall/nozzle](https://github.com/jake-arkinstall/nozzle) - A build system for Nix
 - [foo-dogsquared/nix-overlay-guix](https://github.com/foo-dogsquared/nix-overlay-guix) - A package and module for using GNU Guix on Nix(OS).
 - [rikhuijzer/cache-install](https://github.com/rikhuijzer/cache-install) - Use the GitHub Actions cache for Nix packages
@@ -3445,6 +3447,9 @@
 
 ## Rust 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [edneville/please](https://github.com/edneville/please) - please, a sudo clone
+- [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
 - [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast 🚀
 - [DeterminateSystems/harmonic](https://github.com/DeterminateSystems/harmonic) - A prototype Nix installer experiment.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
@@ -3549,7 +3554,7 @@
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
-- [oxalica/nil](https://github.com/oxalica/nil) - Yet another language server for Nix
+- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 - [lpil/sonic-pi-tool](https://github.com/lpil/sonic-pi-tool) - 🎻 Controlling Sonic Pi from the command line
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [weihanglo/sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
@@ -3860,7 +3865,7 @@
 - [engstrand-config/guix-dotfiles](https://github.com/engstrand-config/guix-dotfiles) - Our GNU Guix system configuration and dotfiles
 - [yuriy-chumak/ol](https://github.com/yuriy-chumak/ol) - Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.
 - [aconchillo/guilescript](https://github.com/aconchillo/guilescript) - Guile to JavaScript compiler
-- [abcdw/rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/abcdw/rde/
+- [abcdw/rde](https://github.com/abcdw/rde) - Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
 - [pricly-yellow/guix](https://github.com/pricly-yellow/guix) - 
 - [alezost/guix-config](https://github.com/alezost/guix-config) - My config for GuixSD
 - [lispunion/code-formatter](https://github.com/lispunion/code-formatter) - Portable code formatting library. Format any Lisp from any Lisp.
@@ -4127,6 +4132,8 @@
 
 ## TypeScript 
 
+- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+- [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [georgestagg/webR](https://github.com/georgestagg/webR) - This project aims to compile the statistical language R into WASM for use in a browser, via Emscripten.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
