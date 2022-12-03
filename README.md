@@ -140,6 +140,7 @@
 
 ## C 
 
+- [Himujjal/tree-sitter-svelte](https://github.com/Himujjal/tree-sitter-svelte) - Tree sitter grammar for Svelte
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -348,6 +349,7 @@
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C++
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [browsermt/bergamot-translator](https://github.com/browsermt/bergamot-translator) - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
@@ -1004,6 +1006,7 @@
 
 ## Go 
 
+- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote caching, and remote build execution platform.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -1550,6 +1553,7 @@
 
 ## JavaScript 
 
+- [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [PDFTron/web-to-pdf](https://github.com/PDFTron/web-to-pdf) - Convert any web technology to PDF (HTML to PDF, html2pdf)
@@ -1738,7 +1742,7 @@
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [visionmedia/supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -2910,7 +2914,7 @@
 - [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
@@ -3172,7 +3176,6 @@
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
 - [rhgrant10/berserk](https://github.com/rhgrant10/berserk) - Python client for the lichess API
-- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [pghant/taskernet-collector](https://github.com/pghant/taskernet-collector) - Collects and search links to https://taskernet.com
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -3447,6 +3450,7 @@
 
 ## Rust 
 
+- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
 - [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
 - [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
@@ -3564,7 +3568,6 @@
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [aaronleopold/stump](https://github.com/aaronleopold/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
@@ -4083,6 +4086,7 @@
 
 ## Svelte 
 
+- [probablykasper/date-picker-svelte](https://github.com/probablykasper/date-picker-svelte) - Date and time picker for Svelte
 - [vega/svelte-vega](https://github.com/vega/svelte-vega) - Svelte component for Vega and Vega-Lite
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
@@ -4092,6 +4096,7 @@
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [pstanoev/simple-svelte-autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) - Simple Autocomplete / typeahead component for Svelte
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
@@ -4132,6 +4137,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
@@ -4458,6 +4464,7 @@
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘Super fast browser dictionary
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [plibither8/hn-faves-api](https://github.com/plibither8/hn-faves-api) - 🌐 Tiny API to get user's favorited items on Hacker News
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [Edgar-P-yan/google-it-telegram-bot](https://github.com/Edgar-P-yan/google-it-telegram-bot) - 🤖 @Google_itBot 🔎 Search and share LINKS/IMAGES/VIDEOS in inline mode
@@ -4549,7 +4556,6 @@
 ## WebAssembly 
 
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 ## Wren 
