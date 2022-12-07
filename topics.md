@@ -1481,6 +1481,7 @@
 
 ## css 
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1696,6 +1697,7 @@
 
 ## deep-learning 
 
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video deeplearning upscaler with any GPU (BSRGAN/Pytorch)
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian https://obsidian.md
@@ -1865,6 +1867,7 @@
 
 ## docker 
 
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [FlorianWoelki/kira](https://github.com/FlorianWoelki/kira) - A fast and scalable sandbox code execution engine.
 - [AppThreat/cdxgen](https://github.com/AppThreat/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic s
@@ -2061,7 +2064,7 @@
 - [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [elken/embark-vc](https://github.com/elken/embark-vc) - Blazing fast embark actions for various version control packages 🚀
-- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emacs
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Glossary, Acronyms, and Index capability within Org
 - [danielmartin/emacs-sourcegraph](https://github.com/danielmartin/emacs-sourcegraph) - Emacs integration with Sourcegraph (https://sourcegraph.com)
 - [rschmukler/doom.d](https://github.com/rschmukler/doom.d) - My Emacs Doom Config
@@ -3438,6 +3441,7 @@
 
 ## image-processing 
 
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -3476,7 +3480,7 @@
 
 ## ipfs 
 
-- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [ipns-link/ipns-link](https://github.com/ipns-link/ipns-link) - Expose local http-servers (web-apps) through IPNS-Link
 - [fission-codes/fission](https://github.com/fission-codes/fission) - Fission CLI & server
@@ -4458,6 +4462,7 @@
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
+- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Twitter app for Android
 
 ## material-design 
 
@@ -4872,6 +4877,8 @@
 
 ## others 
 
+- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
+- [ethereum/fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain.
 - [frameable/pigeon](https://github.com/frameable/pigeon) - Diff, patch, merge, and synchronize JSON documents with an Automerge-compatible interface
 - [algon-320/vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
 - [samyk/magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card n
@@ -4946,7 +4953,7 @@
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
 - [galkatz373/svelte-apexcharts](https://github.com/galkatz373/svelte-apexcharts) - Svelte wrapper for ApexCharts
-- [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
+- [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
 - [tyler-dodge/eglot-copilot](https://github.com/tyler-dodge/eglot-copilot) - Emacs eglot integration for copilot
 - [tyler-dodge/company-tailwindcss](https://github.com/tyler-dodge/company-tailwindcss) - Company
 - [Couchers-org/couchers](https://github.com/Couchers-org/couchers) - The next-generation couch surfing platform. Free forever. Community‑led. Non‑profit. Modern. Chuck us a star :)
@@ -7190,6 +7197,7 @@
 
 ## pytorch 
 
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video deeplearning upscaler with any GPU (BSRGAN/Pytorch)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
@@ -7492,6 +7500,7 @@
 
 ## rust 
 
+- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
