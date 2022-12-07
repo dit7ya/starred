@@ -649,7 +649,7 @@
 - [elken/embark-vc](https://github.com/elken/embark-vc) - Blazing fast embark actions for various version control packages 🚀
 - [ginqi7/global-interactive-emacs](https://github.com/ginqi7/global-interactive-emacs) - Global Interactive Emacs
 - [psibi/dhall-mode](https://github.com/psibi/dhall-mode) - 
-- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emacs
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Glossary, Acronyms, and Index capability within Org
 - [jojojames/matcha](https://github.com/jojojames/matcha) - Collection of transients with a generic interface to launch them
 - [Vidianos-Giannitsis/zetteldesk.el](https://github.com/Vidianos-Giannitsis/zetteldesk.el) - Zetteldesk.el is an emacs library built on top of org-roam with the purpose of easier revision on various subjects and a better outliner tool for emacs
@@ -1007,6 +1007,7 @@
 
 ## Go 
 
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote caching, and remote build execution platform.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1208,6 +1209,7 @@
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1318,6 +1320,7 @@
 
 ## HTML 
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
@@ -2774,6 +2777,7 @@
 
 ## Python 
 
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - 
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser) - Lightweight package to query popular search engines and scrape for result titles, links and descriptions
@@ -3457,6 +3461,9 @@
 
 ## Rust 
 
+- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
+- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
+- [ethereum/fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain.
 - [algon-320/vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
 - [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
@@ -4034,7 +4041,6 @@
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
@@ -4146,7 +4152,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
@@ -4173,7 +4179,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
+- [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -4338,7 +4344,6 @@
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [SunderJS/kit](https://github.com/SunderJS/kit) - 
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
@@ -4501,6 +4506,7 @@
 - [WorldBrain/storex-hub](https://github.com/WorldBrain/storex-hub) - Server application managing user data through Storex
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [supertorpe/chessendgametraining](https://github.com/supertorpe/chessendgametraining) - Chess Endgame Traininng: app to practice a variety of well organized set of chess endgames. From elementary to the most complex endgames, you can practice until you learn how to face all of them.
