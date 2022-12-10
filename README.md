@@ -283,7 +283,7 @@
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [gitclear/libinput](https://github.com/gitclear/libinput) - A fork of libinput that incubates solutions to user-voted problems with Linux touchpads, and prepares pull requests to be submitted to the official libinput project.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [MadRabbit/halmak](https://github.com/MadRabbit/halmak) - The final version of the AI designed keyboard layout
+- [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp RDBMS front-end
 - [politza/pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [leahneukirchen/snooze](https://github.com/leahneukirchen/snooze) - run a command at a particular time
@@ -571,6 +571,7 @@
 
 ## Elixir 
 
+- [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained and transformer Neural Network models in Axon (+ 🤗 Models integration)
 - [DockYard-Academy/beta_curriculum](https://github.com/DockYard-Academy/beta_curriculum) - 
 - [puemos/overbooked](https://github.com/puemos/overbooked) - Overbooked is a self-hosted flexible workplace platform for indie co-working owners.
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
@@ -2865,6 +2866,7 @@
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Accelerate AI models inference leveraging best-of-breed optimization techniques 🚀
 - [AnubisLMS/Anubis](https://github.com/AnubisLMS/Anubis) - Distributed LMS for automating Computing Science Courses From NYU
 - [mody5bundle/capps](https://github.com/mody5bundle/capps) - Run containerized, rootless applications with podman
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [samuela/cuda-nix-testsuite](https://github.com/samuela/cuda-nix-testsuite) - 
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
@@ -3543,7 +3545,7 @@
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
-- [Kindelia/Kindelia-Chain](https://github.com/Kindelia/Kindelia-Chain) - An efficient, secure cryptocomputer
+- [Kindelia/K-Chan](https://github.com/Kindelia/K-Chan) - An efficient, secure cryptocomputer
 - [Kindelia/Kind2-before-merge](https://github.com/Kindelia/Kind2-before-merge) - Kind refactor based on HVM
 - [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
@@ -3555,7 +3557,7 @@
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine for the next generation of AI applications
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [euclio/fm](https://github.com/euclio/fm) - Small, general purpose file manager built with GTK4.
@@ -3759,7 +3761,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
 - [meilisearch/milli](https://github.com/meilisearch/milli) - Search engine library for Meilisearch ⚡️
-- [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - A next-gen functional language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
 - [yatima-inc/yatima-lang-alpha](https://github.com/yatima-inc/yatima-lang-alpha) - A programming language for the decentralized web
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -4161,6 +4163,8 @@
 
 ## TypeScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
@@ -4260,7 +4264,6 @@
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
