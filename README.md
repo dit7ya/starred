@@ -1284,7 +1284,7 @@
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [vufa/homo](https://github.com/vufa/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
 - [Igglybuff/awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
-- [Math-Codex-Initiative/mathlingua](https://github.com/Math-Codex-Initiative/mathlingua) - MathLingua is a language used to describe mathematical definitions, theorems, conjectures, and axioms in a way that can be easily written, read, and understood by both people and computers.
+- [mathlore/mathlingua](https://github.com/mathlore/mathlingua) - MathLingua is a language used to describe mathematical definitions, theorems, conjectures, and axioms in a way that can be easily written, read, and understood by both people and computers.
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [deta/deta-cli](https://github.com/deta/deta-cli) - Command line interface for managing Deta micros and deployments
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
@@ -1564,7 +1564,6 @@
 - [frameable/pigeon](https://github.com/frameable/pigeon) - Diff, patch, merge, and synchronize JSON documents with an Automerge-compatible interface
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [PDFTron/web-to-pdf](https://github.com/PDFTron/web-to-pdf) - Convert any web technology to PDF (HTML to PDF, html2pdf)
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
@@ -2045,6 +2044,7 @@
 
 ## Jupyter Notebook 
 
+- [deepmind/dramatron](https://github.com/deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
 - [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - Declarative and reproducible Jupyter environments - powered by Nix
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2148,6 +2148,7 @@
 
 ## Lua 
 
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
@@ -2415,6 +2416,8 @@
 
 ## Others 
 
+- [saadeghi/design-systems](https://github.com/saadeghi/design-systems) - A list of famous design systems, design languages and guidelines
+- [divriots/backlight.dev](https://github.com/divriots/backlight.dev) - Design Systems, Code-side
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -4171,6 +4174,7 @@
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
