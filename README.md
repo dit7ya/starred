@@ -447,6 +447,7 @@
 
 ## CSS 
 
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [clickette/main](https://github.com/clickette/main) - Code for main site (clickette.net)
 - [phil294/density-userstyle](https://github.com/phil294/density-userstyle) - Removing padding from websites
 - [Neikon/AutoColor-Minimal-Proton](https://github.com/Neikon/AutoColor-Minimal-Proton) - A few CSS settings to join with Vivaldifox add-ons and create a minimal theme
@@ -990,6 +991,7 @@
 
 ## Fennel 
 
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 
@@ -1561,6 +1563,8 @@
 
 ## JavaScript 
 
+- [pqina/svelte-filepond](https://github.com/pqina/svelte-filepond) - 🔌 A handy FilePond adapter component for Svelte
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [frameable/pigeon](https://github.com/frameable/pigeon) - Diff, patch, merge, and synchronize JSON documents with an Automerge-compatible interface
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
@@ -2153,7 +2157,6 @@
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -2788,6 +2791,7 @@
 
 ## Python 
 
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - 
@@ -2939,7 +2943,7 @@
 - [quakkels/rssdiscoveryengine](https://github.com/quakkels/rssdiscoveryengine) - The RSS Discovery Engine exists to encourage people to use RSS for finding and consuming their news and current events.
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
@@ -3476,6 +3480,7 @@
 
 ## Rust 
 
+- [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [raine/tgreddit](https://github.com/raine/tgreddit) - Get the top posts of your favorite subreddits to Telegram
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -3485,7 +3490,7 @@
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [ethereum/fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain.
 - [algon-320/vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
 - [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
 - [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast 🚀
@@ -4126,6 +4131,7 @@
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
+- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - a tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
@@ -4169,6 +4175,8 @@
 
 ## TypeScript 
 
+- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze super-structured data. Powered by Zed.
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -4218,7 +4226,6 @@
 - [sveltinio/components-library](https://github.com/sveltinio/components-library) - Svelte components collection
 - [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - a tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
