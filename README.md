@@ -337,7 +337,7 @@
 - [havogt/cmakels](https://github.com/havogt/cmakels) - A language server for CMake and an LSP implementation in C++
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tenzir/vast](https://github.com/tenzir/vast) - :crystal_ball: Visibility Across Space and Time – The network telemetry engine for data-driven security investigations.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern OSS Key-Value store built for today's hardware
@@ -450,7 +450,6 @@
 ## CSS 
 
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
-- [clickette/main](https://github.com/clickette/main) - Code for main site (clickette.net)
 - [phil294/density-userstyle](https://github.com/phil294/density-userstyle) - Removing padding from websites
 - [Neikon/AutoColor-Minimal-Proton](https://github.com/Neikon/AutoColor-Minimal-Proton) - A few CSS settings to join with Vivaldifox add-ons and create a minimal theme
 - [cobcobs/tridactyl](https://github.com/cobcobs/tridactyl) - Soho vibes for Tridactyl
@@ -1333,6 +1332,7 @@
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
+- [clickette/main](https://github.com/clickette/main) - Code for main site (clickette.net)
 - [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -3508,7 +3508,7 @@
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
 - [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
 - [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast 🚀
-- [DeterminateSystems/harmonic](https://github.com/DeterminateSystems/harmonic) - A prototype Nix installer experiment.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - A prototype Nix installer experiment.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [stencila/stencila](https://github.com/stencila/stencila) - Author, collaborate on, and publish beautiful interactive documents
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
@@ -4292,7 +4292,7 @@
 - [jycouet/kitql](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way. &gt;&gt; SvelteKit & GraphQL &lt;&lt;
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [envkey/envkey](https://github.com/envkey/envkey) - End-to-end encrypted configuration and secrets management
-- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 - [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax ~13KB
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
