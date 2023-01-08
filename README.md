@@ -91,7 +91,6 @@
 - [Solidity](#solidity)
 - [SourcePawn](#sourcepawn)
 - [Standard ML](#standard-ml)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -390,6 +389,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [chrisbutner/ChessCoach](https://github.com/chrisbutner/ChessCoach) - Neural network-based chess engine capable of natural language commentary
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -1840,7 +1840,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [RealPeha/This-Repo-Has-1761-Stars](https://github.com/RealPeha/This-Repo-Has-1761-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -3713,7 +3713,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -4194,10 +4194,6 @@
 
 - [deepmind/cartesian-frames](https://github.com/deepmind/cartesian-frames) - A formalisation of Cartesian Frames, a perspective on embedded agency, in the HOL theorem prover.
 
-## Starlark 
-
-- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
-
 ## Svelte 
 
 - [yekta/stablecog](https://github.com/yekta/stablecog) - 
@@ -4255,7 +4251,7 @@
 ## TypeScript 
 
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 💠 BlockSuite provides building blocks for collaborative applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 💠 BlockSuite is an open-source editor project behind the AFFiNE knowledge base.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [samrum/vite-plugin-web-extension](https://github.com/samrum/vite-plugin-web-extension) - A vite plugin for generating cross browser platform, ES module based web extensions.
 - [Dakad/sveltesse-webext](https://github.com/Dakad/sveltesse-webext) - ⚡️ WebExtension + Vite + Svelte Starter Template
