@@ -1590,6 +1590,7 @@
 
 ## JavaScript 
 
+- [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [samrum/create-vite-plugin-web-extension](https://github.com/samrum/create-vite-plugin-web-extension) - An easy way to start a Vite Web Extension project using @samrum/vite-plugin-web-extension
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by http://thoughtworks.com/radar/
@@ -2275,6 +2276,7 @@
 
 ## Nix 
 
+- [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS sytems
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
@@ -2523,7 +2525,7 @@
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
-- [Explosion-Scratch/TheBugCoder-is-awesome](https://github.com/Explosion-Scratch/TheBugCoder-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/e-coders-is-a-unicorn](https://github.com/Explosion-Scratch/e-coders-is-a-unicorn) - Star to change the repo title to your username!
 - [e3w2q/su120-keyboard](https://github.com/e3w2q/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [garnix-io/issues](https://github.com/garnix-io/issues) - Public issue tracker for garnix.io
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -2847,6 +2849,7 @@
 
 ## Python 
 
+- [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - The vetting tool 🚀 behind our "dependency firewall" to block malicious/risky open-source packages in your software supply chain
 - [ethyca/fides](https://github.com/ethyca/fides) - Privacy as Code for your CI and runtime environment
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
@@ -2924,7 +2927,7 @@
 - [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
-- [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3.
+- [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK3
 - [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
@@ -3602,7 +3605,7 @@
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [mre/zerocal](https://github.com/mre/zerocal) - 🚫📆 Serverless calendar built with shuttle.rs
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Lightweight, high performance, cloud native alternative to Elasticsearch.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic.
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -4250,6 +4253,9 @@
 
 ## TypeScript 
 
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
+- [zirbest/unocss-preset-primitives](https://github.com/zirbest/unocss-preset-primitives) - Utilities and variants for styling headlessui, radix-ui, kobalte state or custom one ;)
+- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 💠 BlockSuite is an open-source collaborative editor project behind the AFFiNE knowledge base.
