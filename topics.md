@@ -320,7 +320,6 @@
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [rwst/Lichess-by-Voice](https://github.com/rwst/Lichess-by-Voice) - Play casual chess on lichess.org via voice commands
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [internxt/drive-mobile](https://github.com/internxt/drive-mobile) - 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -554,7 +553,7 @@
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [gitpod-samples/awesome-gitpod](https://github.com/gitpod-samples/awesome-gitpod) - A curated list of awesome Gitpod resources.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [0dataapp/awesome-0data](https://github.com/0dataapp/awesome-0data) - Resources around owning your data 100%
@@ -706,7 +705,7 @@
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [aaronhayes/awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - A curated list of awesome things relating to the hasura ecosystem.
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [gitpod-samples/awesome-gitpod](https://github.com/gitpod-samples/awesome-gitpod) - A curated list of awesome Gitpod resources.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -944,7 +943,7 @@
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
@@ -1760,8 +1759,6 @@
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to boost the performances of your AI systems 🚀
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning peersonalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
-- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
@@ -2383,7 +2380,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -2939,7 +2936,7 @@
 ## google 
 
 - [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser) - Lightweight package to query popular search engines and scrape for result titles, links and descriptions
-- [hnhx/librex](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google, popular torrent sites and tor hidden services
+- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine for Google, popular torrent sites and tor hidden services
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
@@ -3007,7 +3004,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
 
 ## hackathon 
@@ -3559,7 +3556,6 @@
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [internxt/drive-mobile](https://github.com/internxt/drive-mobile) - 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -3579,7 +3575,6 @@
 
 ## iot 
 
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
@@ -3602,7 +3597,6 @@
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [emacs-lsp/lsp-sonarlint](https://github.com/emacs-lsp/lsp-sonarlint) - lsp-mode :heart: sonarlint
@@ -3691,7 +3685,6 @@
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [accelerated-text/accelerated-text](https://github.com/accelerated-text/accelerated-text) - Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and str
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
@@ -4878,7 +4871,6 @@
 - [envkey/envkey](https://github.com/envkey/envkey) - End-to-end encrypted configuration and secrets management
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13.
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -5059,6 +5051,7 @@
 
 ## others 
 
+- [skeeto/u-config](https://github.com/skeeto/u-config) - a smaller, simpler, portable pkg-config clone
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
@@ -5507,6 +5500,7 @@
 - [boldreader/boldreader](https://github.com/boldreader/boldreader) - 
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [nixbuild/nixbuild-action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
@@ -5552,6 +5546,7 @@
 - [teamniteo/nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.
 - [contrun/infra](https://github.com/contrun/infra) - 
 - [TeXitoi/keyseebee](https://github.com/TeXitoi/keyseebee) - KeySeeBee is a split ergo keyboard. It is only 2 PCB (so the name) with (almost) only SMD components on it. It's only a keyboard, no LED, no display, nothing more than keys and USB.
+- [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
 - [ChanderG/toodoo.el](https://github.com/ChanderG/toodoo.el) - A magical interface to manage Todos built ontop of Org
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
@@ -6203,7 +6198,7 @@
 - [dit7ya/starlist](https://github.com/dit7ya/starlist) - Get all your GitHub stars as an easy to navigate table in one HTML page
 - [seanbreckenridge/oh-my-stars](https://github.com/seanbreckenridge/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [mut-ex/awesome-wm-nice](https://github.com/mut-ex/awesome-wm-nice) - An Awesome WM module that add MacOS-like window decorations, with seamless titlebars, double click to maximize, and window shade feature
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1759-Stars](https://github.com/RealPeha/This-Repo-Has-1759-Stars) - Yes, it's true :purple_heart:
 - [hyotang666/trivial-formatter](https://github.com/hyotang666/trivial-formatter) - Code formatter for common lisp.
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
@@ -6933,7 +6928,7 @@
 
 ## php 
 
-- [hnhx/librex](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google, popular torrent sites and tor hidden services
+- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine for Google, popular torrent sites and tor hidden services
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 - [autosoft-dev/tree-hugger](https://github.com/autosoft-dev/tree-hugger) - A light-weight, extendable, high level, universal code parser built on top of tree-sitter
@@ -7111,7 +7106,6 @@
 - [on-nix/python](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix!
 - [AnubisLMS/Anubis](https://github.com/AnubisLMS/Anubis) - Distributed LMS for automating Computing Science Courses From NYU
 - [TyberiusPrime/anysnake2](https://github.com/TyberiusPrime/anysnake2) - Leverage nix to build fully reproducible containers for scientific work
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
@@ -7499,7 +7493,6 @@
 ## raspberry-pi 
 
 - [jcard0na/haxo-hw](https://github.com/jcard0na/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -8264,7 +8257,7 @@
 
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -8343,7 +8336,6 @@
 
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [partho-maple/coding-interview-gym](https://github.com/partho-maple/coding-interview-gym) - leetcode.com , algoexpert.io solutions in python and swift
