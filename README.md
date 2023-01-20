@@ -223,7 +223,6 @@
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -338,7 +337,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Quick, easy, and pretty.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
 - [poacpm/poac](https://github.com/poacpm/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -831,7 +830,7 @@
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or me
 - [edrx/eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
-- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An evil way to edit Lisp symbolic expressions ("symexes") as trees in Emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
 - [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [landakram/org-z](https://github.com/landakram/org-z) - Lightweight, Org-mode flavored zettelkasten links.
 - [dustinlacewell/linkmarks](https://github.com/dustinlacewell/linkmarks) - Emacs bookmarks that can be any org-mode link-type!
@@ -1594,6 +1593,7 @@
 
 ## JavaScript 
 
+- [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - An AI-powered debugger
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -2474,6 +2474,7 @@
 
 ## Others 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
@@ -2822,7 +2823,7 @@
 
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine for Google, popular torrent sites and tor hidden services
+- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -2863,7 +2864,7 @@
 
 ## Python 
 
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - The vetting tool 🚀 behind our "dependency firewall" to block malicious/risky open-source packages in your software supply chain
 - [ethyca/fides](https://github.com/ethyca/fides) - Privacy as Code for your CI and runtime environment
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -3805,6 +3806,7 @@
 - [remram44/syncfast](https://github.com/remram44/syncfast) - A clone of rsync in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
@@ -4269,6 +4271,7 @@
 
 ## TypeScript 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
 - [pilcrowOnPaper/lucia-auth](https://github.com/pilcrowOnPaper/lucia-auth) - Authentication, simple and clean
