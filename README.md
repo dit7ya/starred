@@ -757,6 +757,7 @@
 - [oantolin/orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
 - [dustinlacewell/tower-of-babix](https://github.com/dustinlacewell/tower-of-babix) - Run snippets for many languages with Emacs and Nix
 - [axelf4/hotfuzz](https://github.com/axelf4/hotfuzz) - 🚓 Fuzzy Emacs completion style
+- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [daviwil/dotcrafter.el](https://github.com/daviwil/dotcrafter.el) - Manage your dotfiles with Emacs!
@@ -1850,7 +1851,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2199,7 +2200,6 @@
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
@@ -2542,7 +2542,7 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
-- [Explosion-Scratch/insolitum-is-a-unicorn](https://github.com/Explosion-Scratch/insolitum-is-a-unicorn) - Star to change the repo title to your username!
+- [Explosion-Scratch/egorgasay-is-epic](https://github.com/Explosion-Scratch/egorgasay-is-epic) - Star to change the repo title to your username!
 - [e3w2q/su120-keyboard](https://github.com/e3w2q/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [garnix-io/issues](https://github.com/garnix-io/issues) - Public issue tracker for garnix.io
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -2876,7 +2876,7 @@
 - [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [src-r-r/ink-in-time](https://github.com/src-r-r/ink-in-time) - The no-frills open source scheduling app alternative to candendly or cal.com
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -3139,7 +3139,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
-- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
+- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [davidbrochart/nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
@@ -3572,6 +3572,7 @@
 
 ## Rust 
 
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [snowflakelinux/icicle](https://github.com/snowflakelinux/icicle) - A gtk4/libadwaita installer for NixOS based distributions
@@ -3603,7 +3604,7 @@
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [stencila/stencila](https://github.com/stencila/stencila) - Author, collaborate on, and publish beautiful interactive documents
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed high-performance proxy built on top of the QUIC protocol
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
@@ -3666,6 +3667,7 @@
 - [Kindelia/Kindelia-Chain](https://github.com/Kindelia/Kindelia-Chain) - An efficient, secure cryptocomputer
 - [Kindelia/Kind2-before-merge](https://github.com/Kindelia/Kind2-before-merge) - Kind refactor based on HVM
 - [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
+- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [eliaperantoni/Koi](https://github.com/eliaperantoni/Koi) - A friendly companion for your shell scripting journeys.
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
@@ -4101,7 +4103,6 @@
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
-- [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [flancian/agora](https://github.com/flancian/agora) - A possible implementation of the Agora (flancia.org/agora).
 - [b0o/arch-lwc](https://github.com/b0o/arch-lwc) - 🚛 Create & run lightweight Arch Linux containers
@@ -4281,13 +4282,14 @@
 
 ## TypeScript 
 
+- [MikeBild/sveltekit-adapter-aws](https://github.com/MikeBild/sveltekit-adapter-aws) - A SvelteKit adapter for AWS using the AWS-CDK
 - [Julien-R44/unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of the Flowbite Tailwind plugin for UnoCSS
 - [fabien-ml/kobalte](https://github.com/fabien-ml/kobalte) - A UI toolkit for building accessible web apps and design systems with SolidJS.
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Popular, beautiful and fast UnoCSS component library.
 - [monoid-privacy/monoid](https://github.com/monoid-privacy/monoid) - Open-source data privacy
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Automate your work, Open source alternative to Zapier, Make, Tray.io
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
@@ -4474,7 +4476,7 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [nota-lang/nota](https://github.com/nota-lang/nota) - A document language for the browser
-- [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+- [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [octokit/graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries
