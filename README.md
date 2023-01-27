@@ -1027,6 +1027,7 @@
 
 ## Go 
 
+- [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [numtide/bld](https://github.com/numtide/bld) - Build nix targets based on git repository directories
 - [kiaedev/kiae](https://github.com/kiaedev/kiae) - Let's built an open-source cloud platform completely based on Kubernetes and Istio. alternative to Heroku / Vercel / Railway
@@ -1416,6 +1417,7 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [meditationstuff/protocol_1](https://github.com/meditationstuff/protocol_1) - a meditation protocol
 - [cstrobbe/languagelearning](https://github.com/cstrobbe/languagelearning) - :globe_with_meridians: Online and offline resources for learning foreign languages
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
@@ -3548,6 +3550,7 @@
 
 ## Ruby 
 
+- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 - [Sceptive/forgiva](https://github.com/Sceptive/forgiva) - The new-age password manager.
 - [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
 - [mlandauer/cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface
@@ -4282,6 +4285,8 @@
 
 ## TypeScript 
 
+- [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [MikeBild/sveltekit-adapter-aws](https://github.com/MikeBild/sveltekit-adapter-aws) - A SvelteKit adapter for AWS using the AWS-CDK
 - [Julien-R44/unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of the Flowbite Tailwind plugin for UnoCSS
 - [fabien-ml/kobalte](https://github.com/fabien-ml/kobalte) - A UI toolkit for building accessible web apps and design systems with SolidJS.
@@ -4664,7 +4669,6 @@
 - [rohit-gohri/zomato-telegram-bot](https://github.com/rohit-gohri/zomato-telegram-bot) - A simple inline telegram bot that searches for restaurants nearby, deployed using ZEIT now
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [ulangi/ulangi](https://github.com/ulangi/ulangi) - Ulangi is a language flashcards app with spaced repetition system and more.
 - [larskarbo/ankibot](https://github.com/larskarbo/ankibot) - Telegram Bot for Anki Sound Recording
 - [akosbalasko/zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper) - Zookeeper for your Zettelkasten folder
