@@ -59,6 +59,7 @@
 - [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -372,7 +373,7 @@
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2023: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [portaloffreedom/pipecontrol](https://github.com/portaloffreedom/pipecontrol) - Pipewire control GUI program in Qt (Kirigami2)
 - [alexandria-org/alexandria](https://github.com/alexandria-org/alexandria) - Full text search engine powering Alexandria.org - the open search engine.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -872,7 +873,7 @@
 - [lastquestion/explain-pause-mode](https://github.com/lastquestion/explain-pause-mode) - top, but for Emacs.
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [dandavison/magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
-- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
+- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD with org-mode
 - [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
 - [akirak/gcmh](https://github.com/akirak/gcmh) - The GNU Emacs Garbage Collector Magic Hack
 - [zaeph/.emacs.d](https://github.com/zaeph/.emacs.d) - Personal configuration for Emacs & Custom modules
@@ -1819,7 +1820,6 @@
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [xianmin/EveReader](https://github.com/xianmin/EveReader) - Epub Reader, focused on annotation.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [4GeeksAcademy/react-tutorial-exercises](https://github.com/4GeeksAcademy/react-tutorial-exercises) - Learn and practice React.js in this interactive tutorial with dozens of react exercises.
@@ -1854,7 +1854,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart:
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2097,7 +2097,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
 - [deepmind/dramatron](https://github.com/deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
-- [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - Declarative and reproducible Jupyter environments - powered by Nix
+- [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
@@ -2259,6 +2259,7 @@
 - [andrewjrae/rae-dux](https://github.com/andrewjrae/rae-dux) - Generated keyboard
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -2279,6 +2280,10 @@
 ## Mustache 
 
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
+
+## NCL 
+
+- [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 
 ## Nim 
 
@@ -2370,12 +2375,11 @@
 - [pta2002/nixvim](https://github.com/pta2002/nixvim) - Configure Neovim with Nix!
 - [blitz/tuxedo-nixos](https://github.com/blitz/tuxedo-nixos) - Tuxedo Control Center Derivation and Module for NixOS
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens,@Artturin]
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles) - My personal dotfiles
 - [NixOS/bundlers](https://github.com/NixOS/bundlers) - 
-- [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [teamniteo/nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.
 - [contrun/infra](https://github.com/contrun/infra) - 
 - [sudosubin/home-manager-secrets](https://github.com/sudosubin/home-manager-secrets) - Secrets management for home-manager
@@ -3672,8 +3676,8 @@
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
-- [Kindelia/Kindelia-Chain](https://github.com/Kindelia/Kindelia-Chain) - An efficient, secure cryptocomputer
-- [Kindelia/Kind2-before-merge](https://github.com/Kindelia/Kind2-before-merge) - Kind refactor based on HVM
+- [HigherOrderCO/Kindelia-Chain](https://github.com/HigherOrderCO/Kindelia-Chain) - An efficient, secure cryptocomputer
+- [HigherOrderCO/Kind2-before-merge](https://github.com/HigherOrderCO/Kind2-before-merge) - Kind refactor based on HVM
 - [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [eliaperantoni/Koi](https://github.com/eliaperantoni/Koi) - A friendly companion for your shell scripting journeys.
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
@@ -3790,7 +3794,7 @@
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
@@ -3886,7 +3890,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
 - [meilisearch/milli](https://github.com/meilisearch/milli) - Search engine library for Meilisearch ⚡️
-- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
 - [yatima-inc/yatima-lang-alpha](https://github.com/yatima-inc/yatima-lang-alpha) - A programming language for the decentralized web
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -4771,6 +4775,7 @@
 
 ## Zig 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight typed scripting language (in development)
 - [drcode/zek](https://github.com/drcode/zek) - 
 - [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
@@ -4783,7 +4788,6 @@
 - [greenfork/kisa](https://github.com/greenfork/kisa) - Text editor of the new world
 - [ifreund/waylock](https://github.com/ifreund/waylock) - A small screenlocker for Wayland compositors
 - [Javyre/wf-lua](https://github.com/Javyre/wf-lua) - Lua as an advanced configuration language for wayfire
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [zigtools/zls](https://github.com/zigtools/zls) - The officially unofficial @ziglang language server
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
