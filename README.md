@@ -509,6 +509,7 @@
 
 ## Clojure 
 
+- [rish987/trackswitch-manuform](https://github.com/rish987/trackswitch-manuform) - A Hyper-Ergonomic Dactyl Manuform with a Clickable Trackball
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [threatgrid/asami](https://github.com/threatgrid/asami) - A graph store for Clojure and ClojureScript
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
@@ -640,6 +641,7 @@
 
 ## Emacs Lisp 
 
+- [commercial-emacs/xlsp](https://github.com/commercial-emacs/xlsp) - A serious take on LSP for emacs.
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
@@ -1029,6 +1031,8 @@
 
 ## Go 
 
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+- [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Generate complex TUIs from simple scripts written in any language.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -1357,7 +1361,7 @@
 
 ## HTML 
 
-- [arc53/docsgpt](https://github.com/arc53/docsgpt) - Use documentation and ask questions directly with DocsGPT
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [eth-limo/eth.limo](https://github.com/eth-limo/eth.limo) - Infrastructure stack for eth.limo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
@@ -1377,7 +1381,6 @@
 - [abishekmuthian/startuptoolchain](https://github.com/abishekmuthian/startuptoolchain) - Best tool for your startup task, A toolchain for your entire startup.
 - [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
-- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
@@ -2228,7 +2231,7 @@
 - [K4rakara/awestore](https://github.com/K4rakara/awestore) - Sveltes store API for AwesomeWM.
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [categorille/emotd-awesome](https://github.com/categorille/emotd-awesome) - a simple awesome widget that helps you practice emotional literacy
 - [potamides/modalawesome](https://github.com/potamides/modalawesome) - Framework for modal, vi-like keybindings for the awesome window manager.
 - [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
@@ -2300,11 +2303,12 @@
 
 ## Nix 
 
+- [aakropotkin/flocoPackages](https://github.com/aakropotkin/flocoPackages) - A collection of Node.js+Nix packages created with `floco'.
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code!
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
-- [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS sytems
+- [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS systems
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
@@ -2490,6 +2494,7 @@
 
 ## Others 
 
+- [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -2880,9 +2885,10 @@
 
 ## Python 
 
+- [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
-- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.
+- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - The vetting tool 🚀 behind our "dependency firewall" to block malicious/risky open-source packages in your software supply chain
@@ -3005,6 +3011,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [keithasaurus/koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
@@ -3185,7 +3192,7 @@
 - [learning-zone/python-basics](https://github.com/learning-zone/python-basics) - Python Basics ( v3.x )
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
-- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
+- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for seashells.io 🐚
 - [grandchild/autohidewibox](https://github.com/grandchild/autohidewibox) - Execute awesome wm commands on ModKey press/release
 - [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -3587,6 +3594,7 @@
 
 ## Rust 
 
+- [flox/runix](https://github.com/flox/runix) - 
 - [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -3864,7 +3872,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [j0ru/kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -4345,7 +4353,7 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
-- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed Lake.
+- [brimdata/brim](https://github.com/brimdata/brim) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -4494,7 +4502,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
-- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ The CLI for Cloudflare Workers®
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
