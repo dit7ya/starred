@@ -1157,7 +1157,7 @@
 - [liamg/bearings](https://github.com/liamg/bearings) - :compass: A fast, clean, customisable shell prompt for zsh, bash, fish, and more...
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
@@ -2317,6 +2317,7 @@
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS systems
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
+- [mhwombat/nix-for-numbskulls](https://github.com/mhwombat/nix-for-numbskulls) - Tutorials and the like.
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
 - [fufexan/webcord-flake](https://github.com/fufexan/webcord-flake) - WebCord Nix flake
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
@@ -2513,7 +2514,6 @@
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers) - A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀
-- [mhwombat/nix-for-numbskulls](https://github.com/mhwombat/nix-for-numbskulls) - Tutorials and the like.
 - [nozaq/awesome-yubikey](https://github.com/nozaq/awesome-yubikey) - Curated list of awesome Yubikey resources, open source projects, tools and tutorials.
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [codecrafters-io/learning-stipends](https://github.com/codecrafters-io/learning-stipends) - Companies that support engineers with learning stipends
@@ -3678,7 +3678,7 @@
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution.
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Trust data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can trust all data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcemen
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
@@ -4327,6 +4327,7 @@
 
 ## TypeScript 
 
+- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
 - [envless/envless](https://github.com/envless/envless) - OpenSource, frictionless and secure way to share and manage app secrets across teams.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
