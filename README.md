@@ -1145,7 +1145,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -2469,7 +2469,7 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [maintainer=@figsoda]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [shapr/bloohm](https://github.com/shapr/bloohm) - visual bloom filter to display process status as neotrellis m4 output
@@ -2807,7 +2807,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [Emonshr/goti_layout](https://github.com/Emonshr/goti_layout) - Goti is a Bangla keyboard layout, inspired from Avro, Probhat and Boishakhi layout.
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
-- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -2899,7 +2899,7 @@
 
 ## Python 
 
-- [Ying1123/FlexGen](https://github.com/Ying1123/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Up to 100x faster than other offloading systems.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
@@ -3506,7 +3506,7 @@
 - [hiwonjoon/ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX) - 
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
 - [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
-- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
+- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Drive Storage by splitting binary files into base64
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
@@ -3654,7 +3654,7 @@
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, fast 🚀
+- [arlyon/stailwc](https://github.com/arlyon/stailwc) - Tailwind in SWC, Nextjs, and Vite, fast 🚀
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [stencila/stencila](https://github.com/stencila/stencila) - Author, collaborate on, and publish beautiful interactive documents
@@ -3742,7 +3742,7 @@
 - [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, deduplicated backups powered by pure Rust
-- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and repo management tool for the web ecosystem, written in Rust.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
 - [pentamassiv/gtk-layer-shell-gir](https://github.com/pentamassiv/gtk-layer-shell-gir) - Unsafe bindings and a safe wrapper for gtk-layer-shell, automatically generated from a .gir file
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
@@ -4287,7 +4287,7 @@
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
 - [MichaelKim/ag-grid-svelte](https://github.com/MichaelKim/ag-grid-svelte) - A Svelte wrapper for ag-grid
 - [micha-lmxt/svelte-window](https://github.com/micha-lmxt/svelte-window) - Svelte components for efficiently rendering large, scrollable lists and tabular data. Port of react-window to Svelte.
-- [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte.
+- [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - (v6 WIP) A responsive, draggable and resizable grid layout, for Svelte.
 - [muonw/powertable](https://github.com/muonw/powertable) - ▦ PowerTable is a Svelte component that turns JSON data into an interactive HTML table. Inspired by DataTables. Powered by Svelte.
 - [skayo/svelte-infinite-loading](https://github.com/skayo/svelte-infinite-loading) - An infinite scroll component for Svelte, to help you implement an infinite scroll list more easily.
 - [iondodon/manter](https://github.com/iondodon/manter) - Terminal with autocomplete suggestions
