@@ -297,6 +297,7 @@
 
 ## analytics 
 
+- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -1524,7 +1525,7 @@
 - [browsermt/bergamot-translator](https://github.com/browsermt/bergamot-translator) - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [autosoft-dev/tree-hugger](https://github.com/autosoft-dev/tree-hugger) - A light-weight, extendable, high level, universal code parser built on top of tree-sitter
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -4184,7 +4185,7 @@
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-calculus
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
 - [cotowali/cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
@@ -5303,7 +5304,7 @@
 - [algon-320/vime](https://github.com/algon-320/vime) - Using Vim as an input method for X11 apps
 - [samyk/magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card n
 - [Himujjal/tree-sitter-svelte](https://github.com/Himujjal/tree-sitter-svelte) - Tree sitter grammar for Svelte
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 10ms.
 - [flox/floxpkgs](https://github.com/flox/floxpkgs) - 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
@@ -7051,7 +7052,7 @@
 
 - [flox/flox](https://github.com/flox/flox) - Harness the power of Nix
 - [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
-- [poacpm/poac](https://github.com/poacpm/poac) - Package Manager for C++
+- [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
 - [Arsen6331/lure](https://github.com/Arsen6331/lure) - Linux User REpository
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
@@ -7868,7 +7869,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React. Maintained by @goodcodeus.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
@@ -8119,7 +8120,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.  Standing on the shoulders of giants.
 - [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
@@ -8543,6 +8544,7 @@
 
 ## storybook 
 
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -8882,6 +8884,7 @@
 
 ## typescript 
 
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded as a component in web apps.
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [muonw/powertable](https://github.com/muonw/powertable) - ▦ PowerTable is a Svelte component that turns JSON data into an interactive HTML table. Inspired by DataTables. Powered by Svelte.
@@ -8927,7 +8930,7 @@
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
