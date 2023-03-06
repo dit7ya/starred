@@ -163,6 +163,7 @@
 - [metheon/qmk_layout](https://github.com/metheon/qmk_layout) - My QMK layout
 - [andrewjrae/kyria-keymap](https://github.com/andrewjrae/kyria-keymap) - My QMK keymap for the SplitKB Kyria
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
@@ -907,7 +908,7 @@
 - [toshism/org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [Kungsgeten/hypothesis](https://github.com/Kungsgeten/hypothesis) - Import data from hypothes.is into Emacs
-- [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
+- [Zyrohex/.doom.d](https://github.com/Zyrohex/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [weirdNox/org-noter](https://github.com/weirdNox/org-noter) - Emacs document annotator, using Org-mode
 - [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
@@ -1098,6 +1099,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [shipyard-run/shipyard](https://github.com/shipyard-run/shipyard) - Modern cloud native development environments
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -2519,6 +2521,7 @@
 
 ## Others 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
@@ -2951,7 +2954,6 @@
 - [Couchers-org/couchers](https://github.com/Couchers-org/couchers) - The next-generation couch surfing platform. Free forever. Community‑led. Non‑profit. Modern. Chuck us a star :)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [shirayu/whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data analytics apps in Python
@@ -3073,7 +3075,7 @@
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [tmfink/i3-wk-switch](https://github.com/tmfink/i3-wk-switch) - Workspace switcher for i3 wm that emulates xmonad
@@ -3420,7 +3422,7 @@
 - [Austyns/sqlite-to-json-python](https://github.com/Austyns/sqlite-to-json-python) - Convert sqlite databases to JSON files
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [fonol/anki-search-inside-add-card](https://github.com/fonol/anki-search-inside-add-card) - An add-on providing full-text-search and PDF reading functionality to Anki's Add card dialog
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -3625,6 +3627,7 @@
 
 ## Rust 
 
+- [orhun/runst](https://github.com/orhun/runst) - A dead simple notification daemon 🦡
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
@@ -4319,7 +4322,6 @@
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A UI toolkit for Svelte + Tailwind.
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
-- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
@@ -4367,6 +4369,8 @@
 
 ## TypeScript 
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - The first isomorphic type system for TS/JS
+- [endigma/unocss-preset-radix](https://github.com/endigma/unocss-preset-radix) - 
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
@@ -4392,7 +4396,7 @@
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
-- [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
+- [unjs/nitro](https://github.com/unjs/nitro) - Build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [MikeBild/sveltekit-adapter-aws](https://github.com/MikeBild/sveltekit-adapter-aws) - A SvelteKit adapter for AWS using the AWS-CDK
 - [Julien-R44/unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of the Flowbite Tailwind plugin for UnoCSS
