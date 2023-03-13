@@ -146,6 +146,8 @@
 
 ## C 
 
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -933,7 +935,7 @@
 - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [zzkt/smog](https://github.com/zzkt/smog) - Analyse the writing style, word use and readability of prose in Emacs.
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
-- [arcticicestudio/nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
+- [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [charlesroelli/org-board](https://github.com/charlesroelli/org-board) - Org mode's web archiver.
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [ankurdave/color-identifiers-mode](https://github.com/ankurdave/color-identifiers-mode) - Emacs minor mode to highlight each source code identifier uniquely based on its name
@@ -1357,7 +1359,7 @@
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [curusarn/resh](https://github.com/curusarn/resh) - RESH - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [craigmulligan/sandy](https://github.com/craigmulligan/sandy) - A tiny "sandbox" to run untrusted code 🏖️
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
@@ -1741,7 +1743,7 @@
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
-- [cstrahan/tree-sitter-nix](https://github.com/cstrahan/tree-sitter-nix) - Nix grammar for tree-sitter
+- [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
 - [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
@@ -2331,6 +2333,7 @@
 
 ## Nix 
 
+- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [aakropotkin/flocoPackages](https://github.com/aakropotkin/flocoPackages) - A collection of Node.js+Nix packages created with `floco'.
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code!
@@ -2593,7 +2596,7 @@
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
-- [Explosion-Scratch/PurpleCube-starred-this-repo](https://github.com/Explosion-Scratch/PurpleCube-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/prplwtf-is-a-unicorn](https://github.com/Explosion-Scratch/prplwtf-is-a-unicorn) - Star to change the repo title to your username!
 - [e3w2q/su120-keyboard](https://github.com/e3w2q/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [garnix-io/issues](https://github.com/garnix-io/issues) - Public issue tracker for garnix.io
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -2918,7 +2921,8 @@
 
 ## Python 
 
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
@@ -3636,8 +3640,8 @@
 
 ## Rust 
 
-- [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Rollup Rust implementation with 100% API compatible
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler.
+- [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [orhun/runst](https://github.com/orhun/runst) - A dead simple notification daemon 🦡
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
@@ -4381,9 +4385,10 @@
 
 ## TypeScript 
 
+- [discord/focus-rings](https://github.com/discord/focus-rings) - A centralized system for displaying and stylizing focus indicators anywhere on a webpage.
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
 - [tldraw/signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.
-- [arktypeio/arktype](https://github.com/arktypeio/arktype) - The first isomorphic type system for TS/JS
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - A 1:1 type-safe syntax for optimized validation
 - [endigma/unocss-preset-radix](https://github.com/endigma/unocss-preset-radix) - 
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -4517,7 +4522,7 @@
 - [inkandswitch/potluck](https://github.com/inkandswitch/potluck) - 
 - [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [eeue56/derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [stephank/yarn-plugin-nixify](https://github.com/stephank/yarn-plugin-nixify) - Yarn v3 plugin to help with Nix packaging
@@ -4648,7 +4653,7 @@
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [SunderJS/kit](https://github.com/SunderJS/kit) - 
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
-- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
