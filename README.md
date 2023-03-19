@@ -346,7 +346,7 @@
 ## C++ 
 
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗿𝗲𝗮𝗹𝗹𝘆 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
 - [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -1636,6 +1636,7 @@
 
 ## JavaScript 
 
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication
@@ -2928,10 +2929,10 @@
 
 ## Python 
 
-- [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack、Web，计划继续接入企业微信、钉钉等。
+- [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5, Baidu Yiyan) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、文心一言 等对话模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack、Web，计划继续接入企业微
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [THUDM/GLM](https://github.com/THUDM/GLM) - GLM (General Language Model)
-- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [zed-industries/community](https://github.com/zed-industries/community) - Zed's official community
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [launchflow/buildflow](https://github.com/launchflow/buildflow) - buildflow is a unified batch and streaming framework that turns any python function into a scalable data pipeline.
@@ -3651,7 +3652,7 @@
 - [linrock/blitz-tactics](https://github.com/linrock/blitz-tactics) - Fast-paced chess tactics trainer
 - [iberianpig/fusuma-plugin-sendkey](https://github.com/iberianpig/fusuma-plugin-sendkey) - Fusuma plugin that sending virtual keyboard events
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
-- [benjaminoakes/maid](https://github.com/benjaminoakes/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
+- [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [iberianpig/fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
 
