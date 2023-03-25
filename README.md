@@ -680,7 +680,7 @@
 - [cursorless-everywhere/emacs-cursorless](https://github.com/cursorless-everywhere/emacs-cursorless) - making cursorless & emacs talk to each other?
 - [nemethf/eglot-x](https://github.com/nemethf/eglot-x) - Protocol extensions for Eglot
 - [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
-- [emacs-eask/cli](https://github.com/emacs-eask/cli) - Command-line tool for building and testing Emacs Lisp packages
+- [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, runing, testing, and managing your Emacs Lisp dependencies
 - [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
 - [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
 - [karthink/consult-dir](https://github.com/karthink/consult-dir) - Insert paths into the minibuffer prompt in Emacs
@@ -1734,6 +1734,7 @@
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [cypress-io/xvfb](https://github.com/cypress-io/xvfb) - Easily start and stop an X Virtual Frame Buffer from your node apps
+- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
@@ -2148,6 +2149,7 @@
 
 ## Jupyter Notebook 
 
+- [chris-alexiuk/alpaca-lora](https://github.com/chris-alexiuk/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [lxe/simple-llama-finetuner](https://github.com/lxe/simple-llama-finetuner) - Simple UI for LLaMA Model Finetuning
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
@@ -2348,6 +2350,7 @@
 
 ## Nix 
 
+- [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [Xe/iosevka](https://github.com/Xe/iosevka) - The Iosevka Iaso font set
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
@@ -2457,6 +2460,7 @@
 - [bnjmnt4n/system](https://github.com/bnjmnt4n/system) - My configuration files.
 - [numtide/nixpkgs-unfree](https://github.com/numtide/nixpkgs-unfree) - nixpkgs with the unfree bits enabled
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau]
+- [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [jonringer/AoC2021](https://github.com/jonringer/AoC2021) - Advent of Code for 2021
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
@@ -2829,7 +2833,7 @@
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [laz-aslam/CoVID--FREE-Premium-Resources](https://github.com/laz-aslam/CoVID--FREE-Premium-Resources) - Free or Extended Trials and Resouces for helping your quarantine times fruitful.
 - [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures. 🐚
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2939,8 +2943,9 @@
 
 ## Python 
 
+- [augustwester/searchthearxiv](https://github.com/augustwester/searchthearxiv) - The code powering searchthearxiv.com, a simple semantic search engine for more than 250,000 ML papers on arXiv.
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 Google-like Search engine for your organization. 🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [pycob/pyvibe](https://github.com/pycob/pyvibe) - Generate styled HTML pages from Python
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -2948,7 +2953,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
-- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
+- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [THUDM/GLM](https://github.com/THUDM/GLM) - GLM (General Language Model)
@@ -3678,6 +3683,7 @@
 
 ## Rust 
 
+- [typhon-ci/typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -3921,7 +3927,6 @@
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -4392,7 +4397,7 @@
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
-- [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [pstanoev/simple-svelte-autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) - Simple Autocomplete / typeahead component for Svelte
@@ -4631,7 +4636,6 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [internxt/drive-mobile](https://github.com/internxt/drive-mobile) - 
-- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [domderen/playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -4813,7 +4817,7 @@
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
-- [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
+- [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [offerspill/advent-of-chess](https://github.com/offerspill/advent-of-chess) - Offerspill's advent calendar
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
