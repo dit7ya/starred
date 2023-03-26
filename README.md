@@ -2280,7 +2280,7 @@
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
-- [categorille/emotd-awesome](https://github.com/categorille/emotd-awesome) - a simple awesome widget that helps you practice emotional literacy
+- [ajgae/emotd-awesome](https://github.com/ajgae/emotd-awesome) - a simple awesome widget that helps you practice emotional literacy
 - [potamides/modalawesome](https://github.com/potamides/modalawesome) - Framework for modal, vi-like keybindings for the awesome window manager.
 - [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -2943,6 +2943,7 @@
 
 ## Python 
 
+- [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [augustwester/searchthearxiv](https://github.com/augustwester/searchthearxiv) - The code powering searchthearxiv.com, a simple semantic search engine for more than 250,000 ML papers on arXiv.
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
@@ -4445,6 +4446,7 @@
 
 ## TypeScript 
 
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
