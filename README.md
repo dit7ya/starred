@@ -346,7 +346,7 @@
 ## C++ 
 
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -653,6 +653,7 @@
 
 ## Emacs Lisp 
 
+- [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [antonhibl/gptai](https://github.com/antonhibl/gptai) - OpenAI API toolings for emacs. Allows interacting with various GPT and DALL-E Models directly in emacs
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
@@ -1053,6 +1054,7 @@
 
 ## Go 
 
+- [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom) - A utility to generate SPDX-compliant Bill of Materials manifests
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -3684,9 +3686,11 @@
 
 ## Rust 
 
+- [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
+- [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) - Modern, performance focused unix commands
 - [typhon-ci/typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [farm-fe/farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 - [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 - [snowflakelinux/snow](https://github.com/snowflakelinux/snow) - A commandline wrapper for the Nix package manager
@@ -3786,7 +3790,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [mindbeam/mindbase](https://github.com/mindbeam/mindbase) - A database for convergent intersubjectivity
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -4446,6 +4450,7 @@
 
 ## TypeScript 
 
+- [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
@@ -4817,7 +4822,7 @@
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [offerspill/advent-of-chess](https://github.com/offerspill/advent-of-chess) - Offerspill's advent calendar
