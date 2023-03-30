@@ -655,6 +655,7 @@
 
 ## Emacs Lisp 
 
+- [idlip/d-nix](https://github.com/idlip/d-nix) - ❄️ Nixyfied Setup with the Power of Org-Mode 👑 Emacs
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - Minimal ChatGPT and DALL-E Emacs shells
 - [Fuco1/emacs-cats](https://github.com/Fuco1/emacs-cats) - Functors, Monads, Categories for Emacs
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted just-in-time spell-checker
@@ -1225,7 +1226,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
 - [maxmcd/bramble](https://github.com/maxmcd/bramble) - Purely functional build system and package manager
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
@@ -2559,6 +2560,7 @@
 
 ## Others 
 
+- [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources.
 - [IBM/CBOM](https://github.com/IBM/CBOM) - Cryptography Bill of Materials
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
@@ -2955,7 +2957,11 @@
 
 ## Python 
 
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
+- [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
@@ -3029,7 +3035,7 @@
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [shirayu/whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-- [datapane/datapane](https://github.com/datapane/datapane) - Build full-stack data analytics apps in Python
+- [datapane/datapane](https://github.com/datapane/datapane) - Build internal analytics products in minutes using Python
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -3431,7 +3437,7 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [algolia/algoliasearch-client-python](https://github.com/algolia/algoliasearch-client-python) - ⚡️ A fully-featured and blazing-fast Python API client to interact with Algolia.
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
 - [neuml/codequestion](https://github.com/neuml/codequestion) - 🔎 Semantic search for developers
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
@@ -3699,6 +3705,7 @@
 
 ## Rust 
 
+- [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
 - [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) - Modern, performance focused unix commands
 - [typhon-ci/typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration
@@ -4463,6 +4470,8 @@
 
 ## TypeScript 
 
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
+- [Mirrorful/mirrorful](https://github.com/Mirrorful/mirrorful) - Create the building blocks of your app
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -4654,7 +4663,7 @@
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [acrazing/html5parser](https://github.com/acrazing/html5parser) - A super tiny and fast html5 AST parser.
 - [Picovoice/leopard](https://github.com/Picovoice/leopard) - On-device speech-to-text engine powered by deep learning
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
