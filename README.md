@@ -1653,6 +1653,8 @@
 
 ## JavaScript 
 
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
+- [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 - [lezer-parser/lezer](https://github.com/lezer-parser/lezer) - Dev utils and issues for the Lezer core packages
 - [vadimkorr/svelte-carousel](https://github.com/vadimkorr/svelte-carousel) - The awesome carousel component for Svelte 3 :arrow_left: :art: :arrow_right:
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -1722,7 +1724,6 @@
 - [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [PostHog/squeak](https://github.com/PostHog/squeak) - A Q&A widget for your docs
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
@@ -1775,7 +1776,7 @@
 - [fabcotech/dappy](https://github.com/fabcotech/dappy) - Dappy browser is a next-generation web browser that works without DNS and without TLS Certificate Authorities, instead it uses blockchain and co-resolution for ultra-accuracy and security. It is equip
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 45 plugins. 1225 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 45 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
 - [hmarr/grephub](https://github.com/hmarr/grephub) - 🔍 Search GitHub repositories with regexes
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -2254,7 +2255,6 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
-- [Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 - [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 - [just-ai/aimybox-android-assistant](https://github.com/just-ai/aimybox-android-assistant) - Embeddable custom voice assistant for Android applications
@@ -2281,7 +2281,7 @@
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
 - [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [raksooo/poppin](https://github.com/raksooo/poppin) - An Awesome window manager module which makes it possible to have clients hide and show with a keyboard shortcut
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -2565,6 +2565,7 @@
 
 ## Others 
 
+- [prompthero/openjourney](https://github.com/prompthero/openjourney) - A fine-tuned model based on Stable Diffusion to create images in the style of Midjourney
 - [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources.
 - [IBM/CBOM](https://github.com/IBM/CBOM) - Cryptography Bill of Materials
@@ -2962,8 +2963,10 @@
 
 ## Python 
 
+- [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for GPT-powered bots and AI functions
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
@@ -4479,6 +4482,8 @@
 
 ## TypeScript 
 
+- [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
+- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [gridaco/code](https://github.com/gridaco/code) - Design to code engine. A design ✌️ code standard. Supports React, Flutter and more.
 - [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr) - 🔥 Svelte stale while revalidate (SWR) data fetching strategy
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -4656,6 +4661,7 @@
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate, boost your comment system with docker. 注重隐私保护和定制化的评论系统, 支持 docker 部署。
 - [chesspecker/chesspecker](https://github.com/chesspecker/chesspecker) - chesspecker is an open-source app to practice chess!
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [ornicar/chesshq.com-front](https://github.com/ornicar/chesshq.com-front) - Source code for the frontend of chesshq.com
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
