@@ -348,7 +348,7 @@
 
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 𝗲𝗮𝘀𝘆 way! :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦. Save time and effort the 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy way! :rocket:
 - [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -1061,6 +1061,7 @@
 
 ## Go 
 
+- [koki-develop/gat](https://github.com/koki-develop/gat) - 🐱 cat alternative written in Go.
 - [julien040/gut](https://github.com/julien040/gut) - An easy-to-use git client for Windows, macOS, and Linux
 - [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an Open Source Serverless NoSQL Database and Search Platform.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
@@ -1621,7 +1622,7 @@
 - [flide/8VIM](https://github.com/flide/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 - [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Twitter/Mastodon
 - [humzakh/removed](https://github.com/humzakh/removed) - An Android app for quickly viewing [removed] and [deleted] reddit comments.
-- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.
 - [comtel2000/fx-experience](https://github.com/comtel2000/fx-experience) - fx-experience -&gt; fx onscreen keyboard
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [jukefoxer/Signal-Android](https://github.com/jukefoxer/Signal-Android) - Fork from the JohanW fork of Signal, a private messenger for Android. It adds the option to import Whatsapp conversations. The purpose of this fork is to make the transition to Signal easier. It was c
@@ -2969,6 +2970,8 @@
 
 ## Python 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
 - [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
@@ -2978,7 +2981,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
@@ -4417,7 +4420,7 @@
 
 ## Svelte 
 
-- [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte) - 
+- [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte) - A port of Radix UI for Svelte
 - [zerodevx/svelte-json-view](https://github.com/zerodevx/svelte-json-view) - View JSON data prettily
 - [himynameisdave/svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - 📈 Svelte bindings for frappe-charts.
 - [ctwhome/top-sveltekit](https://github.com/ctwhome/top-sveltekit) - Top Sveltekit with all the features
@@ -4489,6 +4492,7 @@
 
 ## TypeScript 
 
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
@@ -4642,7 +4646,7 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [batram/once](https://github.com/batram/once) - Collect and deduplicate stories (RSS, Hacker News, Lobsters or Reddit) and look at them once.
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
@@ -4662,7 +4666,7 @@
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
-- [Bonsai-Desk/bonsai-browser](https://github.com/Bonsai-Desk/bonsai-browser) - 
+- [bonsai-desk/bonsai-browser](https://github.com/bonsai-desk/bonsai-browser) - 
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
