@@ -348,7 +348,7 @@
 
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦. Save time and effort the 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy way! :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
 - [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -560,7 +560,7 @@
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific feat
 - [tviti/next-cfg](https://github.com/tviti/next-cfg) - For version controlling my next-browser init/config file(s).
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Crystal 
 
@@ -659,14 +659,14 @@
 - [idlip/d-nix](https://github.com/idlip/d-nix) - ❄️ Nixyfied Setup with the Power of Org-Mode 👑 Emacs
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄
 - [Fuco1/emacs-cats](https://github.com/Fuco1/emacs-cats) - Functors, Monads, Categories for Emacs
-- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted just-in-time spell-checker
+- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [antonhibl/gptai](https://github.com/antonhibl/gptai) - OpenAI API toolings for emacs. Allows interacting with various GPT and DALL-E Models directly in emacs
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [renzmann/treesit-auto](https://github.com/renzmann/treesit-auto) - Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29
 - [Zilong-Li/org-tufte](https://github.com/Zilong-Li/org-tufte) - Export org file to beautiful Tufte html
-- [CarlQLange/chatgpt-arcana.el](https://github.com/CarlQLange/chatgpt-arcana.el) - Put ChatGPT in your emacs. Yer a space wizard now, Harry.
+- [CarlQLange/chatgpt-arcana.el](https://github.com/CarlQLange/chatgpt-arcana.el) - Put ChatGPT in your emacs and give yourself arcane powers 🔮
 - [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant using ChatGPT, DALL-E, Whisper
 - [joshcho/ChatGPT.el](https://github.com/joshcho/ChatGPT.el) - ChatGPT in Emacs
 - [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
@@ -1655,6 +1655,7 @@
 
 ## JavaScript 
 
+- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
@@ -1815,6 +1816,7 @@
 - [hypercore-protocol/cli](https://github.com/hypercore-protocol/cli) - A CLI for peer-to-peer file sharing using the Hypercore Protocol.
 - [theophilusx/icsorg](https://github.com/theophilusx/icsorg) - Import an ICS file into org to include events in your org agenda
 - [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
@@ -1948,7 +1950,7 @@
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [jethrokuan/srs.ly](https://github.com/jethrokuan/srs.ly) - SRS with Hypothes.is
@@ -2012,7 +2014,7 @@
 - [microsoft/beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [haritzmedina/hypothesis-api-client](https://github.com/haritzmedina/hypothesis-api-client) - A Hypothes.is API client for browser and server-side in javascript
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
@@ -2165,7 +2167,7 @@
 ## Jupyter Notebook 
 
 - [chris-alexiuk/alpaca-lora](https://github.com/chris-alexiuk/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [lxe/simple-llama-finetuner](https://github.com/lxe/simple-llama-finetuner) - Simple UI for LLaMA Model Finetuning
+- [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -2511,7 +2513,7 @@
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [chvp/nixos-config](https://github.com/chvp/nixos-config) - Configuration of my machines (main development happens at https://git.chvp.be/chvp/nixos-config these days)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configurations for all of my devices (desktop, Pinebook Pro, RPi4, cloud servers, etc). Like dotfiles, but way better. (née 'nixos-config')
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
 - [teto/home](https://github.com/teto/home) - Configurations
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
 - [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - My dotfiles
@@ -2972,9 +2974,12 @@
 
 ## Python 
 
+- [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -2983,7 +2988,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
@@ -3420,7 +3425,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [Zren/plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands in KDE Plasma through rofi, much like the Unity 7 Heads-Up Display (HUD).
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [hughrun/pocketsnack](https://github.com/hughrun/pocketsnack) - KonMari your Pocket tsundoku from the command line
 - [surskitt/poku](https://github.com/surskitt/poku) - Sync pocket bookmarks to buku
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -3727,6 +3732,7 @@
 
 ## Rust 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [RaitoBezarius/buildxyz](https://github.com/RaitoBezarius/buildxyz) - Build your Nix package automatically
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
@@ -4214,6 +4220,7 @@
 
 ## Shell 
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
@@ -4422,7 +4429,7 @@
 
 ## Svelte 
 
-- [michael/editable-website](https://github.com/michael/editable-website) - Editable Website
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte) - A port of Radix UI for Svelte
 - [zerodevx/svelte-json-view](https://github.com/zerodevx/svelte-json-view) - View JSON data prettily
 - [himynameisdave/svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - 📈 Svelte bindings for frappe-charts.
@@ -4495,7 +4502,12 @@
 
 ## TypeScript 
 
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Technical Spreadsheet
+- [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - An API to easily connect your data to ChatGPT
+- [neuledge/engine-js](https://github.com/neuledge/engine-js) - ⚡️ Neuledge simplifies database modeling, sharing, and interaction by providing clear data entity definitions, advanced business-logic representation, and customizable validation.
+- [neuledge/computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
@@ -4793,7 +4805,6 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [mat-1/metasearch](https://github.com/mat-1/metasearch) - A simple and useable metasearch engine.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [SunderJS/kit](https://github.com/SunderJS/kit) - 
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
