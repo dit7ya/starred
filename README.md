@@ -1064,7 +1064,7 @@
 
 ## Go 
 
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all API & CLI written in go
+- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all OpenAI compatible API & CLI written in go
 - [koki-develop/gat](https://github.com/koki-develop/gat) - 🐱 cat alternative written in Go.
 - [julien040/gut](https://github.com/julien040/gut) - An easy-to-use git client for Windows, macOS, and Linux
 - [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an Open Source Serverless NoSQL Database and Search Platform.
@@ -1138,7 +1138,6 @@
 - [Arsen6331/lure](https://github.com/Arsen6331/lure) - Linux User REpository
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
@@ -1660,6 +1659,7 @@
 
 ## JavaScript 
 
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [justinoverton/plottoriffic](https://github.com/justinoverton/plottoriffic) - Generate story plots based on Plotto
 - [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.
@@ -1719,6 +1719,7 @@
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [clickette/main](https://github.com/clickette/main) - Code for main site (clickette.net)
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1788,7 +1789,7 @@
 - [fabcotech/dappy](https://github.com/fabcotech/dappy) - Dappy browser is a next-generation web browser that works without DNS and without TLS Certificate Authorities, instead it uses blockchain and co-resolution for ultra-accuracy and security. It is equip
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 45 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 46 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
 - [hmarr/grephub](https://github.com/hmarr/grephub) - 🔍 Search GitHub repositories with regexes
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -2581,6 +2582,7 @@
 
 ## Others 
 
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and project around the awesome LangChain framework
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
 - [duckyb/urchin](https://github.com/duckyb/urchin) - 34 key ZMK keyboard, nice!view, nice!nano & hotswap supported.
@@ -2986,6 +2988,13 @@
 
 ## Python 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) - BabyAGI: an Autonomous and Self-Improving agent, or BASI
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -3021,7 +3030,7 @@
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
-- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT, DALL·E and Whisper APIs to provide answers, written in Python
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
@@ -3297,7 +3306,7 @@
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 - [zverok/wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Query language for efficient data extraction from Wikipedia
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - hyperpolyglot.org
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
@@ -4533,6 +4542,9 @@
 
 ## TypeScript 
 
+- [bfanger/svelte-preprocess-react](https://github.com/bfanger/svelte-preprocess-react) - Seamlessly use React components inside a Svelte app
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [danneu/telegram-chatgpt-bot](https://github.com/danneu/telegram-chatgpt-bot) - a Telegram ChatGPT bot that supports text prompts and two-way voice memos
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [lezer-parser/lr](https://github.com/lezer-parser/lr) - Incremental parsing system
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
