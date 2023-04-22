@@ -147,6 +147,7 @@
 
 ## C 
 
+- [lxe/wasm-gpt](https://github.com/lxe/wasm-gpt) - Tensor library for machine learning
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -348,7 +349,7 @@
 
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 - [poac-dev/poac](https://github.com/poac-dev/poac) - Package Manager for C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -1072,12 +1073,13 @@
 ## Go 
 
 - [otterize/intents-operator](https://github.com/otterize/intents-operator) - Manage network policies and Kafka ACLs in a Kubernetes cluster with ease.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :camel: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml comp
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml comp
 - [koki-develop/gat](https://github.com/koki-develop/gat) - 🐱 cat alternative written in Go.
-- [julien040/gut](https://github.com/julien040/gut) - An easy-to-use git client for Windows, macOS, and Linux
+- [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an Open Source Serverless NoSQL Database and Search Platform.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom) - A utility to generate SPDX-compliant Bill of Materials manifests
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -1343,7 +1345,7 @@
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
-- [lmorg/murex](https://github.com/lmorg/murex) - A better shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1668,6 +1670,7 @@
 
 ## JavaScript 
 
+- [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill.
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -1735,7 +1738,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
-- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a website and CSV file.
+- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A computable encyclopedia about programming languages.
 - [ncase/nutshell](https://github.com/ncase/nutshell) - Make expandable explanations!
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS
@@ -2998,7 +3001,7 @@
 
 ## Python 
 
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-prompted Generative Audio Model
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
@@ -3891,7 +3894,7 @@
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [mre/zerocal](https://github.com/mre/zerocal) - 🚫📆 Serverless calendar built with shuttle.rs
 - [ayrat555/fang](https://github.com/ayrat555/fang) - Background processing for Rust
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a lightweight log observability system written in Rust. It is built for cloud native environments.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
@@ -4490,6 +4493,7 @@
 
 ## Svelte 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [efstajas/svelte-stepper](https://github.com/efstajas/svelte-stepper) - 🚶 A simple library for building delightfully animated stepped flows with Svelte.
 - [sidharth-anand/teil-ui](https://github.com/sidharth-anand/teil-ui) - A high quality, comprehensive svelte headless low-level UI component library with an emphasis on accessibility, customisation, and developer experience.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
@@ -4565,6 +4569,7 @@
 
 ## TypeScript 
 
+- [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [poppa/sveltekit-svg](https://github.com/poppa/sveltekit-svg) - SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
@@ -4616,7 +4621,6 @@
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [discord/focus-rings](https://github.com/discord/focus-rings) - A centralized system for displaying and stylizing focus indicators anywhere on a webpage.
@@ -4937,7 +4941,7 @@
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb) - Jest preset for MongoDB in-memory server
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
@@ -5104,6 +5108,7 @@
 
 ## Vue 
 
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
