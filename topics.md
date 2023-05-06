@@ -470,7 +470,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 smart second brain :rocket:
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
@@ -1010,7 +1010,7 @@
 - [manilarome/rofi-spotlight](https://github.com/manilarome/rofi-spotlight) - Spotlight-like Rofi
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -1538,7 +1538,7 @@
 ## code 
 
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [crev-dev/crev](https://github.com/crev-dev/crev) - Socially scalable Code REView and recommendation system that we desperately need. See http://github.com/crev-dev/cargo-crev for real implemenation.
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1689,7 +1689,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [autosoft-dev/tree-hugger](https://github.com/autosoft-dev/tree-hugger) - A light-weight, extendable, high level, universal code parser built on top of tree-sitter
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
@@ -2155,7 +2155,7 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
@@ -2189,7 +2189,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [jamesroberts/fastwsgi](https://github.com/jamesroberts/fastwsgi) - An ultra fast WSGI server for Python 3
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
@@ -2809,7 +2809,7 @@
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [jamesroberts/fastwsgi](https://github.com/jamesroberts/fastwsgi) - An ultra fast WSGI server for Python 3
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -3170,7 +3170,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [micro/micro](https://github.com/micro/micro) - API first development platform
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -3190,6 +3190,7 @@
 
 ## golang 
 
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
@@ -3440,6 +3441,7 @@
 
 ## hacktoberfest 
 
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
@@ -3456,7 +3458,7 @@
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [ethyca/fides](https://github.com/ethyca/fides) - Privacy as Code for your CI and runtime environment
@@ -4092,7 +4094,7 @@
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
 - [envless/envless](https://github.com/envless/envless) - OpenSource, frictionless and secure way to share and manage app secrets across teams.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - If GraphQL were more like SQL: a query language for any combination of data sources.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -4173,7 +4175,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
-- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -4404,7 +4406,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
@@ -4564,7 +4566,7 @@
 - [willghatch/racket-rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell
 - [gilch/hissp](https://github.com/gilch/hissp) - It's Python with a Lissp. https://hissp.rtfd.io
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [naver/lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -4797,7 +4799,7 @@
 - [donniebreve/touchcursor-linux](https://github.com/donniebreve/touchcursor-linux) - TouchCursor style keyboard remapping for Linux.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [JoseExposito/touche](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
@@ -5072,7 +5074,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [joseluisq/paket](https://github.com/joseluisq/paket) - A simple and fast package manager for the Fish shell written in Rust. :tropical_fish:
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
@@ -5441,7 +5443,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [codesandbox/nodebox-runtime](https://github.com/codesandbox/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
@@ -5662,6 +5664,8 @@
 
 ## others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - 
 - [DreaM117er/Explorer-Keyboard-RxCT](https://github.com/DreaM117er/Explorer-Keyboard-RxCT) - Explorer series RxCT, 3D-Printed spilt keyboard
 - [kilipan/zilpzalp](https://github.com/kilipan/zilpzalp) - a wonky 28-key, column-staggered, unibody-split keyboard
 - [lezer-parser/import-tree-sitter](https://github.com/lezer-parser/import-tree-sitter) - Helps import tree-sitter grammars
@@ -5745,7 +5749,7 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compa
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for in
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
@@ -5870,7 +5874,7 @@
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
 - [stablecog/stablecog](https://github.com/stablecog/stablecog) - 
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS systems
@@ -7729,7 +7733,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -7908,7 +7912,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management
@@ -8208,7 +8212,7 @@
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [mody5bundle/capps](https://github.com/mody5bundle/capps) - Run containerized, rootless applications with podman
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
@@ -8365,7 +8369,7 @@
 - [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
@@ -8941,6 +8945,7 @@
 
 ## security 
 
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
@@ -9142,7 +9147,7 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -9172,7 +9177,7 @@
 ## sketch 
 
 - [gridaco/code](https://github.com/gridaco/code) - Design to code engine. A design ✌️ code standard. Supports React, Flutter and more.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
 ## software 
 
@@ -9240,7 +9245,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [jayinai/data-science-question-answer](https://github.com/jayinai/data-science-question-answer) - A repo for data science related questions and answers
@@ -9409,7 +9414,7 @@
 - [raine/tgreddit](https://github.com/raine/tgreddit) - Get the top posts of your favorite subreddits to Telegram
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [catppuccin/telegram](https://github.com/catppuccin/telegram) - 💬 Soothing pastel theme for Telegram
-- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [projectdiscovery/notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
@@ -9551,7 +9556,7 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [whatsplay/whatsapp-play](https://github.com/whatsplay/whatsapp-play) - Command line software through which you can play with your WhatsApp. It is having different options to play with your WhatsApp like message blast, online tracking, whatsapp chat..
@@ -9681,7 +9686,7 @@
 - [muonw/muonw-powertable](https://github.com/muonw/muonw-powertable) - ▦ PowerTable is a Svelte component that turns JSON data into an interactive HTML table. Inspired by DataTables. Powered by Svelte.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [tanem/react-svg](https://github.com/tanem/react-svg) - :art: A React component that injects SVG into the DOM.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -10004,7 +10009,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -10101,7 +10106,7 @@
 
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
-- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
