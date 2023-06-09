@@ -481,6 +481,7 @@
 
 ## CSS 
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/
 - [sveltinio/components-library](https://github.com/sveltinio/components-library) - Monorepo for Svelte components packages
 - [phil294/density-userstyle](https://github.com/phil294/density-userstyle) - Removing padding from websites
@@ -601,7 +602,6 @@
 
 ## Dockerfile 
 
-- [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self hosted cloud gaming with friends, right from the browser
 - [AnimMouse/frp-flyapp](https://github.com/AnimMouse/frp-flyapp) - Fast reverse proxy on fly.io
 - [itopia-inc/spaces-images](https://github.com/itopia-inc/spaces-images) - Pre-configured images for itopia Spaces (IDEs, CLIs, settings, etc.)
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
@@ -671,6 +671,7 @@
 
 ## Emacs Lisp 
 
+- [thread314/org-navigator](https://github.com/thread314/org-navigator) - A package for programmatically creating jump shortcuts in org-mode.
 - [ahmed-shariff/org-roam-ql](https://github.com/ahmed-shariff/org-roam-ql) - Use org-roam with org-ql
 - [ChanderG/orgish](https://github.com/ChanderG/orgish) - Org is HTML
 - [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
@@ -1091,6 +1092,8 @@
 
 ## Go 
 
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
@@ -1112,7 +1115,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [otterize/intents-operator](https://github.com/otterize/intents-operator) - Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compat
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [koki-develop/gat](https://github.com/koki-develop/gat) - 🐱 cat alternative written in Go.
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an Open Source Serverless NoSQL Database and Search Platform.
@@ -1181,7 +1184,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
-- [rilldata/rill-developer](https://github.com/rilldata/rill-developer) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
+- [rilldata/rill](https://github.com/rilldata/rill) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -1658,6 +1661,7 @@
 
 ## Java 
 
+- [SonarSource/sonarlint-language-server](https://github.com/SonarSource/sonarlint-language-server) - Language Server for SonarLint VSCode
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
 - [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - A voice IME for Android using the Vosk library.
@@ -1720,6 +1724,9 @@
 
 ## JavaScript 
 
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [microlinkhq/www](https://github.com/microlinkhq/www) - Browser as API
+- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
@@ -2335,6 +2342,7 @@
 
 ## Kotlin 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
@@ -2472,6 +2480,8 @@
 
 ## Nix 
 
+- [FlafyDev/combined-manager](https://github.com/FlafyDev/combined-manager) - NixOS personal configuration structure library
+- [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [Mic92/nix-index-database](https://github.com/Mic92/nix-index-database) - Weekly updated nix-index database
@@ -2772,7 +2782,7 @@
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
-- [ceramicnetwork/ceramic](https://github.com/ceramicnetwork/ceramic) - Home of the Ceramic Protocol
+- [ceramicnetwork/.github](https://github.com/ceramicnetwork/.github) - Home of the Ceramic Protocol
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -3117,6 +3127,7 @@
 
 ## Python 
 
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
@@ -3938,6 +3949,7 @@
 
 ## Rust 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@asymmetric]
 - [Kirottu/watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool.
@@ -3998,14 +4010,14 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-- [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
 - [orhun/runst](https://github.com/orhun/runst) - A dead simple notification daemon 🦡
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [mrmekon/circadian](https://github.com/mrmekon/circadian) - Suspend-On-Idle Daemon for GNU/Linux Power Management
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
@@ -4476,6 +4488,7 @@
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
+- [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self hosted cloud gaming with friends, right from the browser
 - [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
@@ -4767,6 +4780,16 @@
 
 ## TypeScript 
 
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
+- [capri-js/capri](https://github.com/capri-js/capri) - Build static sites with interactive islands
+- [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
+- [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching made easy! Supercharge your fetching with cache, deduplication, authentication, progress tracking, retries, architecture guidelines and much more. Take full control over requesting in your 
+- [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [un-ts/eslint-plugin-sonar](https://github.com/un-ts/eslint-plugin-sonar) - ESLint rules extracted from SonarJS
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) - Get type-safe access to any API, with a zero-bundle size option.
+- [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
 - [TanStack/bling](https://github.com/TanStack/bling) - 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
@@ -4878,7 +4901,7 @@
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [gridaco/code](https://github.com/gridaco/code) - Design to code engine. A design ✌️ code standard. Supports React, Flutter and more.
+- [gridaco/code](https://github.com/gridaco/code) - Design to code.
 - [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr) - 🔥 Svelte stale while revalidate (SWR) data fetching strategy
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
