@@ -2802,6 +2802,7 @@
 
 ## eslint 
 
+- [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [un-ts/eslint-plugin-sonar](https://github.com/un-ts/eslint-plugin-sonar) - ESLint rules extracted from SonarJS
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
@@ -2860,6 +2861,7 @@
 
 ## firebase 
 
+- [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching made easy! Supercharge your fetching with cache, deduplication, authentication, progress tracking, retries, architecture guidelines and much more. Take full control over requesting in your 
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -2957,6 +2959,7 @@
 
 ## font 
 
+- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
@@ -3583,6 +3586,7 @@
 
 ## hacktoberfest 
 
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
@@ -3703,7 +3707,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [dit7ya/hnlinks](https://github.com/dit7ya/hnlinks) - Browse Links in HackerNews Threads, Fast!
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -4217,6 +4221,7 @@
 
 ## javascript 
 
+- [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching made easy! Supercharge your fetching with cache, deduplication, authentication, progress tracking, retries, architecture guidelines and much more. Take full control over requesting in your 
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
@@ -4560,6 +4565,7 @@
 
 ## json 
 
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
@@ -5156,7 +5162,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml) - Machine Learning Framework for Operating Systems - Brings ML to Linux kernel
@@ -5654,6 +5660,7 @@
 
 ## nodejs 
 
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
@@ -5837,6 +5844,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [monoid-privacy/monoid](https://github.com/monoid-privacy/monoid) - Open-source data privacy
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
@@ -5902,6 +5910,11 @@
 
 ## others 
 
+- [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web-framework for COBOL
+- [ThePrimeagen/CHADstack](https://github.com/ThePrimeagen/CHADstack) - 
+- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage
+- [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
+- [samhh/fp-ts-std](https://github.com/samhh/fp-ts-std) - The missing pseudo-standard library for fp-ts.
 - [cssninjaStudio/unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Universal Webfont loader - Unfonts - based on https://web.dev/optimize-webfont-loading/
 - [bramstein/fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
@@ -5949,7 +5962,7 @@
 - [AaronErhardt/tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs) - Rust libraries for interacting with hardware from TUXEDO Computers
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
-- [Mic92/nix-index-database](https://github.com/Mic92/nix-index-database) - Weekly updated nix-index database
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Getting more from data
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types.
@@ -6894,7 +6907,7 @@
 - [krgn/desktopd](https://github.com/krgn/desktopd) - Browse sway/i3 windows and browser tabs.
 - [Difrex/swaymgr](https://github.com/Difrex/swaymgr) - Sway autotiling manager
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
-- [RAR27/swayhide](https://github.com/RAR27/swayhide) - A window swallower for swaywm
+- [rehanzo/swayhide](https://github.com/rehanzo/swayhide) - A window swallower for swaywm
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
@@ -8051,6 +8064,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
@@ -8267,7 +8281,7 @@
 - [keithasaurus/koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -9723,6 +9737,7 @@
 
 ## svelte 
 
+- [MacFJA/svelte-adapter-multi](https://github.com/MacFJA/svelte-adapter-multi) - A Svelte adapter that launch other adapters
 - [svelte-kits/store](https://github.com/svelte-kits/store) - A drop-in replacement for Svelte stores, safe to use with SvelteKit SSR.
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
@@ -10118,6 +10133,9 @@
 
 ## typescript 
 
+- [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+- [mobily/ts-belt](https://github.com/mobily/ts-belt) - 🔧 Fast, modern, and practical utility library for FP in TypeScript.
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og) - Generate Open Graph Images dynamically from HTML/CSS without a browser in SvelteKit
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
