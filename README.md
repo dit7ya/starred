@@ -681,6 +681,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-openai/openai](https://github.com/emacs-openai/openai) - Elisp library for the OpenAI API
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [emacs-openai/codegpt](https://github.com/emacs-openai/codegpt) - Use GPT-3 inside Emacs
 - [thread314/org-navigator](https://github.com/thread314/org-navigator) - A package for programmatically creating jump shortcuts in org-mode.
@@ -1318,7 +1319,7 @@
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp
@@ -1478,6 +1479,7 @@
 
 ## HTML 
 
+- [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [medialab/iwanthue](https://github.com/medialab/iwanthue) - Colors for data scientists.
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -3149,6 +3151,7 @@
 
 ## Python 
 
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal foundation for unifying human, AI, and other computing systems, in python
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
@@ -3258,7 +3261,7 @@
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
