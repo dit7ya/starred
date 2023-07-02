@@ -178,6 +178,7 @@
 - [cubzh/cubzh](https://github.com/cubzh/cubzh) - 
 - [samyk/magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card n
 - [Himujjal/tree-sitter-svelte](https://github.com/Himujjal/tree-sitter-svelte) - Tree sitter grammar for Svelte
+- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [JohnEarnest/Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.
@@ -1127,6 +1128,7 @@
 
 ## Go 
 
+- [sveltinio/sveltin](https://github.com/sveltinio/sveltin) - The Smartest Way to Create SvelteKit powered static websites: a powerful CLI with batteries included
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [hpcng/warewulf](https://github.com/hpcng/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
@@ -1827,7 +1829,7 @@
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - A Git-based lightweight headless CMS. A modern, open source alternative to Netlify CMS & Decap CMS.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - A Git-based lightweight headless CMS. A modern, free, open source alternative to Netlify CMS & Decap CMS.
 - [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - Add mdsvex to your Svelte project
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components
@@ -2658,7 +2660,7 @@
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOs configuration files. Only used for my self-hosted infra at the moment.
 - [danielphan2003/flk](https://github.com/danielphan2003/flk) - Cold and spike-y ─ a perfect place to build your dotfiles from the ground up!
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - A Nix library for building a set of locally-freezed elisp packages
-- [purcell/nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs installations for continuous integration
+- [purcell/nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs builds for continuous integration
 - [notgne2/continix](https://github.com/notgne2/continix) - Simple NixOS-like Docker containers with declarative config
 - [chessai/nix-std](https://github.com/chessai/nix-std) - no-nixpkgs standard library for the nix expression language
 - [arcnmx/nixexprs](https://github.com/arcnmx/nixexprs) - nix stuff
@@ -2792,6 +2794,7 @@
 
 ## Others 
 
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [inato/fp-ts-cheatsheet](https://github.com/inato/fp-ts-cheatsheet) - FP-TS Cheat Sheet
@@ -3230,6 +3233,7 @@
 
 ## Python 
 
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
@@ -4305,7 +4309,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [LutrisEng/datom-rs](https://github.com/LutrisEng/datom-rs) - An open-source database inspired by Datomic
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
@@ -4900,6 +4904,8 @@
 
 ## TypeScript 
 
+- [vasucp1207/sveltronics](https://github.com/vasucp1207/sveltronics) - Svelte utility functions for your project
+- [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your API
@@ -4988,7 +4994,7 @@
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
@@ -5191,7 +5197,6 @@
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Understand who is engaging with your open source project.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
