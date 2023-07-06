@@ -384,6 +384,7 @@
 ## android 
 
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
@@ -4226,6 +4227,7 @@
 ## ios 
 
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app v2
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -6045,6 +6047,7 @@
 
 ## others 
 
+- [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
 - [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all.
 - [thayakawa-gh/SlackLogViewer](https://github.com/thayakawa-gh/SlackLogViewer) - A viewer for json files exported from Slack workspaces.
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -8917,6 +8920,7 @@
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [UX-and-I/storybook-design-token](https://github.com/UX-and-I/storybook-design-token) - Display design token documentation generated from your stylesheets and icon files. Preview design token changes in the browser. Add your design tokens to your Storybook Docs pages using the custom Doc
@@ -10420,6 +10424,7 @@
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
