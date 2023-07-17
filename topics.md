@@ -1695,7 +1695,7 @@
 - [nim-works/nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [yuriy-chumak/ol](https://github.com/yuriy-chumak/ol) - Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
@@ -3538,7 +3538,7 @@
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
-- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -3793,7 +3793,7 @@
 - [qarax/qarax](https://github.com/qarax/qarax) - soon
 - [arcnmx/nixexprs](https://github.com/arcnmx/nixexprs) - nix stuff
 - [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard proxy in Rust
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
@@ -4527,7 +4527,7 @@
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
-- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
@@ -4876,7 +4876,7 @@
 - [nim-works/nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
 - [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with smart syntax
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [yuriy-chumak/ol](https://github.com/yuriy-chumak/ol) - Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism
 - [dundalek/liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig)
@@ -5659,7 +5659,7 @@
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
@@ -6412,7 +6412,7 @@
 - [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
 - [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
@@ -6457,7 +6457,7 @@
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [zirbest/unocss-preset-primitives](https://github.com/zirbest/unocss-preset-primitives) - Utilities and variants for styling headlessui, radix-ui, kobalte state or custom one ;)
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
-- [kushalkolar/fastplotlib](https://github.com/kushalkolar/fastplotlib) - A fast plotting library
+- [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - A fast plotting library
 - [stablecog/stablecog](https://github.com/stablecog/stablecog) - 
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
@@ -8608,7 +8608,7 @@
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
-- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - A roadmap for Boot.dev's CS curriculum for backend developers
+- [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
@@ -9455,7 +9455,7 @@
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easier and faster switching of applications/windows on Windows OS
 - [terhechte/postsack](https://github.com/terhechte/postsack) - Visually cluster your emails by sender, domain, and more to identify waste
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Automate reproducible packaging for various language ecosystems [maintainer=@DavHau]
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
@@ -10772,7 +10772,7 @@
 - [lpil/sonic-pi-tool](https://github.com/lpil/sonic-pi-tool) - 🎻 Controlling Sonic Pi from the command line
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
