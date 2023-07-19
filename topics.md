@@ -258,6 +258,7 @@
 
 ## ai 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
@@ -300,7 +301,7 @@
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - The testing framework dedicated to ML models, from tabular to LLMs 🛡️🧑‍🔬
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
 - [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
@@ -574,10 +575,10 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - The testing framework dedicated to ML models, from tabular to LLMs 🛡️🧑‍🔬
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -1363,7 +1364,7 @@
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool) - UI for create-web-ext
-- [jake-cryptic/AbsoluteDoubleTrace](https://github.com/jake-cryptic/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
+- [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [solobat/paodin](https://github.com/solobat/paodin) - Chrome / Firefox browser extension that integrates word translation, sentences collection, and words memory
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
@@ -1930,6 +1931,7 @@
 
 ## data 
 
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [igorkamyshev/farfetched](https://github.com/igorkamyshev/farfetched) - The advanced data fetching tool for web applications
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -2059,7 +2061,7 @@
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -2104,7 +2106,7 @@
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
@@ -2220,6 +2222,7 @@
 
 ## deno 
 
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -2298,7 +2301,7 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -2433,7 +2436,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -2566,6 +2569,7 @@
 
 ## elixir 
 
+- [Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) - A concise stack-based golfing language
 - [electric-sql/electric](https://github.com/electric-sql/electric) - ElectricSQL local-first SQL platform. Develop instantly reactive apps with realtime multi-user and conflict-free offline support. For web and mobile. With active-active replication between Postgres an
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
@@ -3684,6 +3688,7 @@
 
 ## hacktoberfest 
 
+- [Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) - A concise stack-based golfing language
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -3756,7 +3761,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [mre/zerocal](https://github.com/mre/zerocal) - 🚫📆 Serverless calendar built with shuttle.rs
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -4279,7 +4284,7 @@
 ## ipfs 
 
 - [FlashWeb3/flash-cli](https://github.com/FlashWeb3/flash-cli) - 🌻🌞 Ship for the new web
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [ipns-link/ipns-link](https://github.com/ipns-link/ipns-link) - Expose local http-servers (web-apps) through IPNS-Link
@@ -4333,6 +4338,8 @@
 
 ## javascript 
 
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
@@ -4836,7 +4843,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [dineshsonachalam/tech-courses-search-engine](https://github.com/dineshsonachalam/tech-courses-search-engine) - A real-time tech course finder, created using Elasticsearch, Python, React+Redux, Docker, and Kubernetes.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -5098,7 +5105,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
@@ -5287,7 +5294,7 @@
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - The testing framework dedicated to ML models, from tabular to LLMs 🛡️🧑‍🔬
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
@@ -5299,7 +5306,7 @@
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
@@ -5316,7 +5323,7 @@
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [sbu-fsl/kernel-ml](https://github.com/sbu-fsl/kernel-ml) - Machine Learning Framework for Operating Systems - Brings ML to Linux kernel
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -5523,7 +5530,7 @@
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - ElectricSQL local-first SQL platform. Develop instantly reactive apps with realtime multi-user and conflict-free offline support. For web and mobile. With active-active replication between Postgres an
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app v2
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
@@ -5553,7 +5560,7 @@
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
 - [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb) - Jest preset for MongoDB in-memory server
@@ -5588,7 +5595,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -5625,14 +5632,14 @@
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
@@ -5713,7 +5720,7 @@
 - [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
 - [Dan6erbond/share-me](https://github.com/Dan6erbond/share-me) - An image and video hosting platform for your server, with rich embed support and API.
 - [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -5766,8 +5773,9 @@
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix](https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix) - Using machine learning on your anki collection to enhance the scheduling via semantic clustering and semantic similarity
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -5784,7 +5792,7 @@
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [ggeop/Python-ai-assistant](https://github.com/ggeop/Python-ai-assistant) - Python AI assistant 🧠
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 
 ## node 
@@ -6024,7 +6032,7 @@
 - [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -6081,6 +6089,10 @@
 
 ## others 
 
+- [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
+- [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
+- [antifuchs/tsnsrv](https://github.com/antifuchs/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [booniepepper/dt](https://github.com/booniepepper/dt) - dt - duct tape for your unix pipes
 - [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
@@ -8334,7 +8346,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -8886,7 +8898,7 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -8949,7 +8961,7 @@
 - [jcard0na/haxo-hw](https://github.com/jcard0na/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -8960,6 +8972,7 @@
 
 ## react 
 
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [gcanti/elm-ts](https://github.com/gcanti/elm-ts) - A porting to TypeScript featuring fp-ts, rxjs6 and React
@@ -8985,7 +8998,7 @@
 - [components-ai/css.gui](https://github.com/components-ai/css.gui) - Visual development environment for CSS
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [bufbuild/connect-query](https://github.com/bufbuild/connect-query) - TypeScript-first expansion pack for TanStack Query that gives you Protobuf superpowers
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [bfanger/svelte-preprocess-react](https://github.com/bfanger/svelte-preprocess-react) - Seamlessly use React components inside a Svelte app
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
@@ -9293,6 +9306,8 @@
 
 ## rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
@@ -9316,7 +9331,7 @@
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
 - [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
 - [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) - Transform Linux Audit logs for SIEM usage
@@ -9721,7 +9736,7 @@
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [ntnj/tunwg](https://github.com/ntnj/tunwg) - Secure private tunnel to your local servers
-- [exposr/exposr-server](https://github.com/exposr/exposr-server) - 🚀 Horizontally scalable reverse tunnel relay server for exposing services behind NAT/Firewalls without port forwarding (Self-hosted ngrok alternative).
+- [exposr/exposrd](https://github.com/exposr/exposrd) - 🚀 Horizontally scalable reverse tunnel relay server for exposing services behind NAT/Firewalls without port forwarding (Self-hosted ngrok alternative).
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -9783,6 +9798,7 @@
 
 ## server 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
@@ -10377,6 +10393,7 @@
 
 ## terraform 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [garutilorenzo/k3s-oci-cluster](https://github.com/garutilorenzo/k3s-oci-cluster) - Deploy a Kubernetes cluster for free, using k3s and Oracle always free resources
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -10448,6 +10465,8 @@
 
 ## typescript 
 
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
