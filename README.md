@@ -82,6 +82,7 @@
 - [PureBasic](#purebasic)
 - [PureScript](#purescript)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -404,7 +405,6 @@
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -1135,6 +1135,7 @@
 
 ## Go 
 
+- [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️
 - [antifuchs/tsnsrv](https://github.com/antifuchs/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
@@ -1559,7 +1560,6 @@
 - [boldreader/boldreader](https://github.com/boldreader/boldreader) - 
 - [abishekmuthian/startuptoolchain](https://github.com/abishekmuthian/startuptoolchain) - Best tool for your startup task, A toolchain for your entire startup.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
@@ -2428,7 +2428,7 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course) - Course materials and handouts for #100DaysOfCode in Python course
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [NGRThomson/ADL_RL](https://github.com/NGRThomson/ADL_RL) - Advanced Deep Learning and Reinforcement Learning 2018 Assignments
@@ -2832,6 +2832,7 @@
 - [samuba/awesome-svelte-stores](https://github.com/samuba/awesome-svelte-stores) - A list of awesome Svelte stores
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+- [tembo-io/tembo](https://github.com/tembo-io/tembo) - Postgres for Everything
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming
 - [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
@@ -3361,7 +3362,7 @@
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [pycob/pyvibe](https://github.com/pycob/pyvibe) - Generate styled HTML pages from Python
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
@@ -3507,6 +3508,7 @@
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [jdemaeyer/spoqify](https://github.com/jdemaeyer/spoqify) - Spotify playlist anonymizer.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -4029,6 +4031,10 @@
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [dit7ya/codingground](https://github.com/dit7ya/codingground) - Main Repository for Coding Ground
 
+## QML 
+
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+
 ## R 
 
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
@@ -4062,6 +4068,7 @@
 
 ## Ruby 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
@@ -4110,7 +4117,6 @@
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [adaszko/complgen](https://github.com/adaszko/complgen) - Generate {bash,fish,zsh} completions from a single EBNF-like grammar
-- [tembo-io/tembo](https://github.com/tembo-io/tembo) - Postgres for Everything
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable gtk-layer-shell wlroots/sway bar written in rust.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
@@ -4149,7 +4155,7 @@
 - [javierhonduco/sweeper](https://github.com/javierhonduco/sweeper) - 🧹🧹🧹 File expiration for any filesystem
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-- [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) - Transform Linux Audit logs for SIEM usage
 - [rwx-research/abq](https://github.com/rwx-research/abq) - ABQ is a universal test runner that runs test suites in parallel. It’s the best tool for splitting test suites into parallel jobs locally or on CI
 - [queer/peckish](https://github.com/queer/peckish) - peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
@@ -4546,7 +4552,7 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
@@ -4947,6 +4953,9 @@
 
 ## TypeScript 
 
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [david-tejada/rango](https://github.com/david-tejada/rango) - 🦎 The cross browser extension that helps you control your browser by voice. It blends in!
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
