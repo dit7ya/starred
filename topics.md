@@ -432,7 +432,7 @@
 - [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android
 - [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 - [SimpleMobileTools/Simple-SMS-Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - An easy and quick way of managing SMS and MMS messages without ads.
-- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Twitter/Mastodon
+- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Mastodon
 - [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [humzakh/removed](https://github.com/humzakh/removed) - An Android app for quickly viewing [removed] and [deleted] reddit comments.
@@ -1117,7 +1117,7 @@
 
 ## blockchain 
 
-- [StauroXYZ/flash-cli](https://github.com/StauroXYZ/flash-cli) - 🌻🌞 Ship for the new web
+- [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
@@ -1630,7 +1630,6 @@
 
 ## code 
 
-- [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [crev-dev/crev](https://github.com/crev-dev/crev) - Socially scalable Code REView and recommendation system that we desperately need. See http://github.com/crev-dev/cargo-crev for real implemenation.
@@ -2372,7 +2371,7 @@
 
 ## docker 
 
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -2585,7 +2584,7 @@
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [puemos/overbooked](https://github.com/puemos/overbooked) - Overbooked is a self-hosted flexible workplace platform for indie co-working owners.
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
@@ -2901,7 +2900,7 @@
 
 ## ethereum 
 
-- [StauroXYZ/flash-cli](https://github.com/StauroXYZ/flash-cli) - 🌻🌞 Ship for the new web
+- [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
@@ -3072,7 +3071,7 @@
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
@@ -3371,7 +3370,7 @@
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
@@ -3429,7 +3428,7 @@
 
 ## golang 
 
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Accurate and real-time usage metering for AI, DevOps, billing and analytics.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
@@ -3501,7 +3500,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
@@ -3698,7 +3697,7 @@
 ## hacktoberfest 
 
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) - A concise stack-based golfing language
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
@@ -4294,7 +4293,7 @@
 
 ## ipfs 
 
-- [StauroXYZ/flash-cli](https://github.com/StauroXYZ/flash-cli) - 🌻🌞 Ship for the new web
+- [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -4323,7 +4322,6 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
-- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Twitter/Mastodon
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.
@@ -4811,7 +4809,7 @@
 
 ## kubernetes 
 
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is an intelligent, frictionless message broker. Made to enable developers to build real-time and streaming features fast.
@@ -5527,7 +5525,7 @@
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
-- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Twitter/Mastodon
+- [nuclearfog/Shitter](https://github.com/nuclearfog/Shitter) - Lightweight Android app for Mastodon
 
 ## material-design 
 
@@ -6226,7 +6224,6 @@
 - [TanStack/bling](https://github.com/TanStack/bling) - 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
-- [bartektelec/svelte-svg-transform](https://github.com/bartektelec/svelte-svg-transform) - Easily transform SVG files inside of Svelte components
 - [cpojer/remdx](https://github.com/cpojer/remdx) - Beautiful Minimalist React & MDX Presentations
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
@@ -9849,7 +9846,7 @@
 
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
-- [StauroXYZ/flash-cli](https://github.com/StauroXYZ/flash-cli) - 🌻🌞 Ship for the new web
+- [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
@@ -10094,6 +10091,7 @@
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
 - [PixievoltNo1/svelte-writable-derived](https://github.com/PixievoltNo1/svelte-writable-derived) - Two-way data-transforming stores for Svelte
 - [MacFJA/svelte-adapter-multi](https://github.com/MacFJA/svelte-adapter-multi) - A Svelte adapter that launch other adapters
+- [bartektelec/svelte-svg-transform](https://github.com/bartektelec/svelte-svg-transform) - Easily transform SVG files inside of Svelte components
 - [svelte-kits/store](https://github.com/svelte-kits/store) - A drop-in replacement for Svelte stores, safe to use with SvelteKit SSR.
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
@@ -10496,7 +10494,7 @@
 ## typescript 
 
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce. 🌟 You can star to support our work!
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
