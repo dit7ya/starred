@@ -201,7 +201,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [wmww/gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
@@ -1130,7 +1130,7 @@
 
 ## Gleam 
 
-- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Getting more from data
+- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Experiments in building "better" languages and tools; for some measure of better.
 - [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
 - [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
 
@@ -1939,7 +1939,7 @@
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [PostHog/squeak](https://github.com/PostHog/squeak) - A Q&A widget for your docs
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [btholt/complete-intro-to-react-v7](https://github.com/btholt/complete-intro-to-react-v7) - The Complete Intro to React v7 and Intermediate React v4 as taught on Frontend Masters
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -2713,7 +2713,7 @@
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
 - [kittywitch/anicca](https://github.com/kittywitch/anicca) - A helper for transitioning to impermanence
-- [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of Nix flake templates
+- [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of basic Nix flake templates
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [Quoteme/mach-nix-template](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix
 - [nix-community/npmlock2nix](https://github.com/nix-community/npmlock2nix) - nixify npm based packages [maintainer=@andir]
@@ -2791,7 +2791,7 @@
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [jacobaustin123/Coral](https://github.com/jacobaustin123/Coral) - The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.
-- [AbstractMachinesLab/caramel](https://github.com/AbstractMachinesLab/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
+- [ostera/caramel](https://github.com/ostera/caramel) - :candy: a functional language for building type-safe, scalable, and maintainable applications
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [logseq/mldoc](https://github.com/logseq/mldoc) - Another Emacs Org-mode and Markdown parser.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
@@ -3349,7 +3349,7 @@
 - [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
@@ -3441,7 +3441,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases and applications.
 - [botcity-dev/botcity-framework-core-python](https://github.com/botcity-dev/botcity-framework-core-python) - BotCity Framework - Python
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
@@ -3596,7 +3596,7 @@
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
@@ -3766,7 +3766,7 @@
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [scastillo/not-youtube-dl](https://github.com/scastillo/not-youtube-dl) - This is not youtube-dl
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [WassimBenzarti/colab-ssh](https://github.com/WassimBenzarti/colab-ssh) - Connect to Google Colab using SSH
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
@@ -4955,6 +4955,7 @@
 
 ## TypeScript 
 
+- [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [david-tejada/rango](https://github.com/david-tejada/rango) - 🦎 The cross browser extension that helps you control your browser by voice. It blends in!
