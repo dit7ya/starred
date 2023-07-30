@@ -254,7 +254,7 @@
 - [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [fubark/cosmic](https://github.com/fubark/cosmic) - A platform for computing and creating applications.
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 
 ## ai 
@@ -1502,7 +1502,7 @@
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
+- [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
@@ -1667,6 +1667,7 @@
 
 ## compiler 
 
+- [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
@@ -1834,6 +1835,7 @@
 
 ## css 
 
+- [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [canopas/tailwind-animations](https://github.com/canopas/tailwind-animations) - Tailwind animations examples
@@ -2227,6 +2229,7 @@
 
 ## deno 
 
+- [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
@@ -2288,7 +2291,7 @@
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [iondodon/manter](https://github.com/iondodon/manter) - Terminal with autocomplete suggestions
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
@@ -2385,7 +2388,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -3087,7 +3090,7 @@
 - [lona-web-org/lona](https://github.com/lona-web-org/lona) - Write responsive web apps in full python
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS framework.
+- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS view-library/framework-ish-thing.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -3156,21 +3159,21 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [golota60/fixelart](https://github.com/golota60/fixelart) - Tool to fix AI-generated pixelart!
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 ## game-engine 
 
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 
 ## gamedev 
 
 - [golota60/fixelart](https://github.com/golota60/fixelart) - Tool to fix AI-generated pixelart!
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
@@ -3734,7 +3737,7 @@
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -4557,7 +4560,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AlbertoMontalesi/The-complete-guide-to-modern-JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) - A comprehensive, easy-to-follow ebook to learn everything from the basics of JavaScript to ES2022. Read more on my blog https://inspiredwebdev.com or buy it here https://www.amazon.com/dp/B09FNNVY1Y?r
-- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS framework.
+- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS view-library/framework-ish-thing.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [GGKapanadze/markdownise](https://github.com/GGKapanadze/markdownise) - Simple Markdown editor built with Svelte
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -4946,6 +4949,7 @@
 
 ## latex 
 
+- [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [shaunsingh/nyoom.emacs](https://github.com/shaunsingh/nyoom.emacs) - Configurable, Minimal, Fast emacs config based on Nano-emacs and Doom
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
@@ -5017,6 +5021,9 @@
 
 ## linux 
 
+- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
+- [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
+- [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
@@ -6050,7 +6057,7 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [PayDevs/awful-oss-incidents](https://github.com/PayDevs/awful-oss-incidents) - 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!
 - [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
@@ -6109,6 +6116,7 @@
 
 ## others 
 
+- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive images for SvelteKit
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [david-tejada/rango](https://github.com/david-tejada/rango) - 🦎 The cross browser extension that helps you control your browser by voice. It blends in!
@@ -8465,6 +8473,7 @@
 
 ## python 
 
+- [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -9335,6 +9344,10 @@
 
 ## rust 
 
+- [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
+- [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
+- [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
+- [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
@@ -10082,6 +10095,7 @@
 
 ## svelte 
 
+- [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [kenoxa/svelte-htm](https://github.com/kenoxa/svelte-htm) - tagged template syntax for svelte to simplify testing
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
@@ -10503,6 +10517,7 @@
 
 ## typescript 
 
+- [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
@@ -11014,7 +11029,7 @@
 - [componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features to be integrated into web applications
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
-- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS framework.
+- [skruv/skruv](https://github.com/skruv/skruv) - No-dependency, no-build, small JS view-library/framework-ish-thing.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
