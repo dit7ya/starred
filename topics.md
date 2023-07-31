@@ -328,6 +328,7 @@
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [ggeop/Python-ai-assistant](https://github.com/ggeop/Python-ai-assistant) - Python AI assistant 🧠
 - [patrickjquinn/P-Brain.ai](https://github.com/patrickjquinn/P-Brain.ai) - Natural language virtual assistant using Node.js + Bootstrap
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
@@ -385,6 +386,7 @@
 
 ## android 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
@@ -530,7 +532,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [tartiflette/tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
 - [flashcode/impostman](https://github.com/flashcode/impostman) - Import of Postman collections in Emacs
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -596,6 +598,7 @@
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [thepirat000/spleeter-api](https://github.com/thepirat000/spleeter-api) - Audio separation API using Spleeter from Deezer
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 - [danaugrs/huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms
 - [andri27-ts/Reinforcement-Learning](https://github.com/andri27-ts/Reinforcement-Learning) - Learn Deep Reinforcement Learning in 60 days! Lectures & Code in Python. Reinforcement Learning + Deep Learning
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -1066,7 +1069,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [willghatch/racket-rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell
@@ -1479,7 +1482,7 @@
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -1667,6 +1670,7 @@
 
 ## compiler 
 
+- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -1783,6 +1787,7 @@
 
 ## cpp 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
@@ -2076,6 +2081,7 @@
 
 ## database 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - ElectricSQL local-first SQL platform. Develop instantly reactive apps with realtime multi-user and conflict-free offline support. For web and mobile. With active-active replication between Postgres an
@@ -2307,7 +2313,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -2552,6 +2558,7 @@
 
 ## electron 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
@@ -3013,6 +3020,7 @@
 
 ## flask 
 
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
@@ -3061,6 +3069,7 @@
 
 ## framework 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
@@ -3323,6 +3332,7 @@
 
 ## go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [hyprland-community/Hyprkeys](https://github.com/hyprland-community/Hyprkeys) - A simple, scriptable keybind retrieval utility for Hyprland  [maintainer=@NotAShelf]
@@ -3426,6 +3436,7 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [vufa/homo](https://github.com/vufa/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -3434,6 +3445,8 @@
 
 ## golang 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Accurate and real-time usage metering for AI, DevOps, billing and analytics.
@@ -3577,6 +3590,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
@@ -3702,6 +3716,7 @@
 
 ## hacktoberfest 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) - A concise stack-based golfing language
@@ -4204,6 +4219,7 @@
 
 ## http 
 
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
@@ -4216,7 +4232,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
@@ -4266,6 +4282,7 @@
 
 ## ios 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
@@ -4312,6 +4329,7 @@
 
 ## java 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
@@ -4353,6 +4371,8 @@
 
 ## javascript 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
@@ -4728,6 +4748,7 @@
 
 ## json 
 
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [doseofted/prim-rpc](https://github.com/doseofted/prim-rpc) - Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
@@ -4747,7 +4768,7 @@
 - [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
 - [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [scikit-hep/awkward](https://github.com/scikit-hep/awkward) - Manipulate JSON-like data with NumPy-like idioms.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -4882,6 +4903,7 @@
 
 ## language 
 
+- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [Kipper-Lang/Kipper](https://github.com/Kipper-Lang/Kipper) - The Kipper programming language for Browsers and Node.js 🦊✨ Made at HTL Leonding
@@ -5859,6 +5881,7 @@
 
 ## nodejs 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -6116,6 +6139,7 @@
 
 ## others 
 
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive images for SvelteKit
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -8238,6 +8262,7 @@
 
 ## p2p 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -8473,6 +8498,8 @@
 
 ## python 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
@@ -8584,7 +8611,7 @@
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [Quoteme/mach-nix-template](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [keithasaurus/koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
@@ -8994,7 +9021,7 @@
 ## raspberry-pi 
 
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
-- [jcard0na/haxo-hw](https://github.com/jcard0na/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
+- [cardonabits/haxo-hw](https://github.com/cardonabits/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
@@ -9301,7 +9328,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [cryptlex/rest-api-response-format](https://github.com/cryptlex/rest-api-response-format) - REST API response format using HTTP status codes
@@ -9344,6 +9371,7 @@
 
 ## rust 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
@@ -9574,7 +9602,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [bytecodealliance/lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
 - [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
@@ -9862,6 +9890,7 @@
 
 ## serverless 
 
+- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
@@ -9947,7 +9976,7 @@
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [TatriX/tshell](https://github.com/TatriX/tshell) - Experimental alternative shell for Emacs
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
@@ -10232,6 +10261,7 @@
 
 ## swift 
 
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -10376,7 +10406,7 @@
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - Expedite your navigation of Linux filesystem.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -10980,7 +11010,9 @@
 
 ## web 
 
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce. 🌟 You can star to support our work!
 - [electric-sql/electric](https://github.com/electric-sql/electric) - ElectricSQL local-first SQL platform. Develop instantly reactive apps with realtime multi-user and conflict-free offline support. For web and mobile. With active-active replication between Postgres an
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -11013,7 +11045,7 @@
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [domderen/playwright-session](https://github.com/domderen/playwright-session) - Visual Debugger for Playwright automation.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [WesleyAC/deeplinks](https://github.com/WesleyAC/deeplinks) - Simple deep links to any selection of text on your website.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
