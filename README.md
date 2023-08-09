@@ -2013,7 +2013,6 @@
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [torus-tools/stack](https://github.com/torus-tools/stack) - Deploy static websites to the AWS Cloud using a single command.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [mymindwentblvnk/mental-health-mode-for-lichess](https://github.com/mymindwentblvnk/mental-health-mode-for-lichess) - ♟ A browser plugin to make Lichess less stressing in regards of mental health.
@@ -2220,6 +2219,7 @@
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [geekprojects/nuTensor](https://github.com/geekprojects/nuTensor) - nuTensor: Point and click matrix to filter net requests according to source, destination and type
+- [wilfredinni/javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [isomorphic-git/lightning-fs](https://github.com/isomorphic-git/lightning-fs) - A lean and fast 'fs' for the browser
@@ -2522,6 +2522,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [samrxth/kyoto.nvim](https://github.com/samrxth/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
 - [frioux/charitable](https://github.com/frioux/charitable) - Shared tags for multi-monitor system
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -3658,7 +3659,7 @@
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [kenkeiras/org-rw](https://github.com/kenkeiras/org-rw) - A python library to parse, modify and save Org-mode files.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
@@ -4127,6 +4128,7 @@
 
 ## Rust 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
 - [meeting-rs/meeting.rs](https://github.com/meeting-rs/meeting.rs) - Private one to one realtime video meeting.⚡
 - [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
@@ -5211,7 +5213,7 @@
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms easier than ever!
 - [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
-- [Mirrorful/mirrorful](https://github.com/Mirrorful/mirrorful) - Create the building blocks of your app
+- [Mirrorful/mirrorful](https://github.com/Mirrorful/mirrorful) - Mirrorful UI is a free, customizable, production-ready React component library,
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
@@ -5619,7 +5621,6 @@
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
-- [wilfredinni/javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [azu/korefile](https://github.com/azu/korefile) - File System API for Local/GitHub.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
