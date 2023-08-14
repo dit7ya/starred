@@ -261,7 +261,6 @@
 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
@@ -649,6 +648,7 @@
 
 ## awesome 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -812,6 +812,7 @@
 
 ## awesome-list 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [samuba/awesome-svelte-stores](https://github.com/samuba/awesome-svelte-stores) - A list of awesome Svelte stores
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -1121,7 +1122,7 @@
 - [jlopp/lopp.net](https://github.com/jlopp/lopp.net) - Personal web site of Jameson Lopp
 - [zkSNACKs/WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 
 ## blockchain 
 
@@ -1752,7 +1753,7 @@
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
@@ -1794,7 +1795,6 @@
 
 ## cpp 
 
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
@@ -1851,7 +1851,7 @@
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [canopas/tailwind-animations-examples](https://github.com/canopas/tailwind-animations-examples) - Cool animations implemented with tailwindcss
-- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system 🎨
+- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system 🎨 🩷
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [lissomware/css](https://github.com/lissomware/css) - Lissom.CSS is a classless, minimalist, accessible, and themeable CSS library
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -1941,7 +1941,7 @@
 - [BillDietrich/fake_contacts](https://github.com/BillDietrich/fake_contacts) - Create fake phone contacts, to do data-poisoning.
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app v2
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
@@ -2019,7 +2019,7 @@
 - [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2088,7 +2088,7 @@
 
 ## database 
 
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fastest search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, on Linux, MacOS, Windows, iOS, Android, Docker, and WebAssembly
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - ElectricSQL local-first SQL platform. Develop instantly reactive apps with realtime multi-user and conflict-free offline support. For web and mobile. With active-active replication between Postgres an
@@ -2196,7 +2196,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
 - [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [szymonmaszke/torchlambda](https://github.com/szymonmaszke/torchlambda) - Lightweight tool to deploy PyTorch models to AWS Lambda
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
@@ -2242,6 +2242,7 @@
 
 ## deno 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
@@ -2466,7 +2467,7 @@
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -2512,7 +2513,7 @@
 
 ## documentation 
 
-- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [jacob-8/kitbook](https://github.com/jacob-8/kitbook) - Monorepo for Kitbook (SvelteKit Storybook alternative) + Svelte-Pieces (Useful Svelte UI pieces for building web apps)
 - [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
@@ -2644,6 +2645,7 @@
 
 ## emacs 
 
+- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - Emacs support for Typst.
 - [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
 - [catppuccin/emacs](https://github.com/catppuccin/emacs) - 🍄 Soothing pastel theme for Emacs
 - [mmcjimsey26/yuck-mode](https://github.com/mmcjimsey26/yuck-mode) - A minimal Emacs major mode for editing yuck config files.
@@ -3056,7 +3058,7 @@
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [meditohq/medito-app](https://github.com/meditohq/medito-app) - The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
@@ -3464,7 +3466,6 @@
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
@@ -3737,6 +3738,7 @@
 
 ## hacktoberfest 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
@@ -3746,7 +3748,7 @@
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [statelyai/xstate-viz](https://github.com/statelyai/xstate-viz) - Visualizer for XState machines
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system 🎨
+- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system 🎨 🩷
 - [Labs64/GuideChimp](https://github.com/Labs64/GuideChimp) - Create interactive guided product tours in minutes with the most non-technical friendly, lightweight and extendable library.
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
@@ -4352,7 +4354,6 @@
 
 ## java 
 
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
@@ -4394,9 +4395,10 @@
 
 ## javascript 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
+- [openziti/ziti-sdk-nodejs](https://github.com/openziti/ziti-sdk-nodejs) - An SDK for embedding zero trust into Node.JS applications and web servers to improve security.
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites :tada:
 - [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
@@ -5201,7 +5203,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -5284,7 +5286,7 @@
 - [rodgomesc/avell-unofficial-control-center](https://github.com/rodgomesc/avell-unofficial-control-center) - This is a Unofficial Control Center for Avell Laptops with Linux System
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [MArpogaus/awesome-ayu](https://github.com/MArpogaus/awesome-ayu) - Minimalistic awesome window manager theme using the gorgeous ayu color palette.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -5411,7 +5413,7 @@
 - [zszazi/Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of Deep Learning Cloud Providers
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [szymonmaszke/torchlambda](https://github.com/szymonmaszke/torchlambda) - Lightweight tool to deploy PyTorch models to AWS Lambda
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
@@ -5494,7 +5496,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [terhechte/postsack](https://github.com/terhechte/postsack) - Visually cluster your emails by sender, domain, and more to identify waste
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -5873,6 +5875,7 @@
 
 ## node 
 
+- [openziti/ziti-sdk-nodejs](https://github.com/openziti/ziti-sdk-nodejs) - An SDK for embedding zero trust into Node.JS applications and web servers to improve security.
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
@@ -5911,6 +5914,7 @@
 
 ## nodejs 
 
+- [openziti/ziti-sdk-nodejs](https://github.com/openziti/ziti-sdk-nodejs) - An SDK for embedding zero trust into Node.JS applications and web servers to improve security.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries. Apps can even communicate directly with Modern P2P, no cloud required!
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
@@ -6169,6 +6173,12 @@
 
 ## others 
 
+- [Xe/nixexpr](https://github.com/Xe/nixexpr) - Nix expressions for JavaScript
+- [MatrixAI/Polykey](https://github.com/MatrixAI/Polykey) - Polykey Core Library - Open Source Decentralized Secret Sharing System for Zero Trust Workflows
+- [nix-community/talon-nix](https://github.com/nix-community/talon-nix) - Auto packaging for Talon Voice [maintainer=@adisbladis]
+- [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) - Narrowlink securely connects devices and services together, even when both nodes are behind separate NAT
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
+- [filNaj/tree-setter](https://github.com/filNaj/tree-setter) - A treesitter-module which will place equals, semicolons, commas and double points automatically for you!
 - [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -6337,7 +6347,7 @@
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [SigNoz/Awesome-OpenTelemetry](https://github.com/SigNoz/Awesome-OpenTelemetry) - Repository of open source content on opentelemetry
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -7323,7 +7333,7 @@
 - [axlebedev/vim-footprints](https://github.com/axlebedev/vim-footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
@@ -7919,7 +7929,7 @@
 - [swyxio/gpt3-list](https://github.com/swyxio/gpt3-list) - List of things that people are claiming is enabled by GPT3. unverified but links to sources.
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [Igglybuff/awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
 - [EvilInsultGenerator/telegram-bot-ruby](https://github.com/EvilInsultGenerator/telegram-bot-ruby) - Evil Insult Generator Telegram Bot In Ruby
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [joshmedeski/org-roam-spacemacs-layer](https://github.com/joshmedeski/org-roam-spacemacs-layer) - An org-roam spacemacs configuration layer
@@ -8323,7 +8333,7 @@
 - [hypercore-protocol/cli](https://github.com/hypercore-protocol/cli) - A CLI for peer-to-peer file sharing using the Hypercore Protocol.
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
@@ -8543,8 +8553,8 @@
 
 ## python 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [nate-xyz/conjure](https://github.com/nate-xyz/conjure) - Magically transform your images.
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST & JSON-RPC over io_uring and SIMDJSON ☎️
 - [lcompilers/lpython](https://github.com/lcompilers/lpython) - Python compiler
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
@@ -8799,7 +8809,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [brunoarine/org-similarity](https://github.com/brunoarine/org-similarity) - Emacs package that helps org-mode users (re)discover similar documents
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -8893,7 +8903,7 @@
 - [SlavikMIPT/tgcloud](https://github.com/SlavikMIPT/tgcloud) - Opensource Telegram based cloud storage
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [dcervenkov/ulauncher-z-search](https://github.com/dcervenkov/ulauncher-z-search) - Fast z-style directory search extension for Ulauncher
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
@@ -9018,7 +9028,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [szymonmaszke/torchlambda](https://github.com/szymonmaszke/torchlambda) - Lightweight tool to deploy PyTorch models to AWS Lambda
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -9073,7 +9083,7 @@
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -9082,6 +9092,7 @@
 
 ## react 
 
+- [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️ You can star to support our work!
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -9421,7 +9432,6 @@
 
 - [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
 - [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
@@ -9644,7 +9654,7 @@
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly from Elixir
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
@@ -9754,6 +9764,8 @@
 
 ## security 
 
+- [openziti/ziti-sdk-nodejs](https://github.com/openziti/ziti-sdk-nodejs) - An SDK for embedding zero trust into Node.JS applications and web servers to improve security.
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -9897,7 +9909,7 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [fmeringdal/nettu-scheduler](https://github.com/fmeringdal/nettu-scheduler) - A self-hosted calendar and scheduler server.
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
@@ -9947,6 +9959,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [StauroXYZ/cli](https://github.com/StauroXYZ/cli) - 🌻🌞 Ship for the new web
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
@@ -10317,7 +10330,6 @@
 
 ## swift 
 
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -10410,7 +10422,7 @@
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [lucleray/tensorflow-lambda](https://github.com/lucleray/tensorflow-lambda) - run tensorflow on lambdas (aws, vercel, ...)
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -10603,6 +10615,7 @@
 
 ## typescript 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [Cubxity/typstudio](https://github.com/Cubxity/typstudio) - A W.I.P desktop application for a new typesetting language, typst.
