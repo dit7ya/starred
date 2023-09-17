@@ -4392,7 +4392,7 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
-- [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
+- [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust inspired by Cargo.
@@ -4548,7 +4548,7 @@
 - [wucke13/nix-autobahn](https://github.com/wucke13/nix-autobahn) - 
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [trishume/telefork](https://github.com/trishume/telefork) - Like fork() but teleports the forked process to a different computer!
 - [raffomania/songsonar](https://github.com/raffomania/songsonar) - 📻 A smart spotify playlist with new releases from artists you follow
 - [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
@@ -4680,7 +4680,7 @@
 - [teesloane/firn](https://github.com/teesloane/firn) - Org Mode Static Site Generator
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [ngirard/lolcate-rs](https://github.com/ngirard/lolcate-rs) - Lolcate -- A comically fast way of indexing and querying your filesystem. Replaces locate / mlocate / updatedb. Written in Rust.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
@@ -5666,7 +5666,7 @@
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb) - Jest preset for MongoDB in-memory server
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
