@@ -1916,7 +1916,7 @@
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based lightweight headless CMS. A modern, free alternative to Netlify CMS & Decap CMS. Open source. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. A modern, free alternative to Netlify CMS & Decap CMS. Open source. Lightweight. Made with Svelte.
 - [svelte-add/mdsvex](https://github.com/svelte-add/mdsvex) - Add mdsvex to your Svelte project
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components
@@ -2193,7 +2193,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [RealPeha/This-Repo-Has-1752-Stars](https://github.com/RealPeha/This-Repo-Has-1752-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart:
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2377,7 +2377,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [solobat/paodin](https://github.com/solobat/paodin) - Chrome / Firefox browser extension that integrates word translation, sentences collection, and words memory
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
-- [corbindavenport/peek](https://github.com/corbindavenport/peek) - Preview dozens of types of documents in your browser with a mouse hover
+- [corbindavenport/peek](https://github.com/corbindavenport/peek) - Preview documents, videos, music, and more with a mouse hover.
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [mozilla-extensions/firefox-voice](https://github.com/mozilla-extensions/firefox-voice) - Firefox Voice is an experiment in a voice-controlled web user agent
 - [rhardih/ekill](https://github.com/rhardih/ekill) - Chrome/Firefox extension to nuke annoying elements in a web page
