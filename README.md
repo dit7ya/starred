@@ -63,6 +63,7 @@
 - [Makefile](#makefile)
 - [Mako](#mako)
 - [Markdown](#markdown)
+- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -2644,6 +2645,10 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
+## Mustache 
+
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
+
 ## Nim 
 
 - [nim-works/nimskull](https://github.com/nim-works/nimskull) - An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.
@@ -2751,7 +2756,6 @@
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - NixOS configuration files
 - [ceedubs/unison-nix](https://github.com/ceedubs/unison-nix) - Nix support for the Unison programming language
 - [ckiee/nixfiles](https://github.com/ckiee/nixfiles) - Nix configuration files
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [clhodapp/nix-runner](https://github.com/clhodapp/nix-runner) - Tidy shell shebangs with nix flakes
@@ -3366,6 +3370,7 @@
 
 ## Python 
 
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
