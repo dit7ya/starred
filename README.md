@@ -3458,7 +3458,7 @@
 - [JayZhang42/FederatedGPT-Shepherd](https://github.com/JayZhang42/FederatedGPT-Shepherd) - Shepherd: A foundational framework enabling federated instruction tuning for large language models
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
-- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - sbomnix is home to various command line tools that aim to help with software supply chain challenges
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
