@@ -456,6 +456,7 @@
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
@@ -778,7 +779,7 @@
 - [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
 - [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
 - [commercial-emacs/xlsp](https://github.com/commercial-emacs/xlsp) - A serious take on LSP for emacs.
-- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs
+- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
@@ -1594,6 +1595,7 @@
 
 ## HTML 
 
+- [Iconscout/unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 - [nixlang-wiki/nixos-landscape](https://github.com/nixlang-wiki/nixos-landscape) - The Landscape of NixOS and associated projects
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
@@ -1815,7 +1817,6 @@
 - [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [Mobile-IoT-Security-Lab/HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - HideDroid is an Android app that allows the per-app anonymization of collected personal data according to a privacy level chosen by the user.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -1861,6 +1862,8 @@
 
 ## JavaScript 
 
+- [alienkitty/space.js](https://github.com/alienkitty/space.js) - 🛸 Minimal monospace UI
+- [KilDesu/brefer](https://github.com/KilDesu/brefer) - A preprocessor to shorten Svelte 5 reactivity syntax
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
@@ -3449,7 +3452,7 @@
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain LLM apps and agents automagically with FastApi. LLMops
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
-- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram document, any file/folder from rclone supported clouds and direct links + all yt-dlp supported sites, then u
+- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader s
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain apps in production using Jina & FastAPI
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
@@ -3652,7 +3655,7 @@
 - [AnubisLMS/Anubis](https://github.com/AnubisLMS/Anubis) - Distributed LMS for automating Computing Science Courses From NYU
 - [mody5bundle/capps](https://github.com/mody5bundle/capps) - Run containerized, rootless applications with podman
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [samuela/cuda-nix-testsuite](https://github.com/samuela/cuda-nix-testsuite) - 
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
@@ -4859,6 +4862,7 @@
 
 ## Shell 
 
+- [imincik/nix-utils](https://github.com/imincik/nix-utils) - Handy nix scripts
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to allow you to use Python "normally" in NixOS
 - [z11i/github-copilot-cli.fish](https://github.com/z11i/github-copilot-cli.fish) - Make GitHub Copilot CLI's alias work for Fish shell
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -5090,7 +5094,7 @@
 - [the-dataface/figma-plugin-svelte-vite](https://github.com/the-dataface/figma-plugin-svelte-vite) - Build a Figma plugin using Svelte + Vite + TypeScript
 - [Thiagolino8/svelte-enhanced-transitions](https://github.com/Thiagolino8/svelte-enhanced-transitions) - Enhance your svelte transitions
 - [jose-donato/sprite-your-svgs](https://github.com/jose-donato/sprite-your-svgs) - 
-- [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+- [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
 - [Hugo-Dz/svelte-rust](https://github.com/Hugo-Dz/svelte-rust) - A simple example to run Rust 🦀 code in your Svelte application.
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
@@ -5161,6 +5165,7 @@
 
 ## Swift 
 
+- [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Apple Silicon.
 - [AvdLee/Roadmap](https://github.com/AvdLee/Roadmap) - Publish your roadmap inside your app and allow users to vote for upcoming features
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
@@ -5194,6 +5199,8 @@
 
 ## TypeScript 
 
+- [washingtonpost/wpds-ui-kit](https://github.com/washingtonpost/wpds-ui-kit) - WPDS's UiKit coded in React using Stitches, Radix UI and more! Also home to our docs site
+- [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [unpreset/unocss-preset-useful](https://github.com/unpreset/unocss-preset-useful) - Integrate and useful preset.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [thefrontside/effection](https://github.com/thefrontside/effection) - Structured concurrency and effects for JavaScript
@@ -5218,7 +5225,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [Snazzah/stub](https://github.com/Snazzah/stub) - A self-hostable modified fork of Dub: An open-source link shortener.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -5399,7 +5406,7 @@
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
@@ -5546,7 +5553,7 @@
 - [monoid-privacy/monoid](https://github.com/monoid-privacy/monoid) - Open-source data privacy
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
