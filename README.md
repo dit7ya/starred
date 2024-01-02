@@ -663,7 +663,7 @@
 - [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self-Hosted Stadia: Play with your friends online from any device and at any time
 - [AnimMouse/frp-flyapp](https://github.com/AnimMouse/frp-flyapp) - Fast reverse proxy on fly.io
 - [itopia-inc/spaces-images](https://github.com/itopia-inc/spaces-images) - Pre-configured images for itopia Spaces (IDEs, CLIs, settings, etc.)
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
@@ -2537,6 +2537,7 @@
 
 ## Kotlin 
 
+- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for both rooted and non-rooted devices with a built-in terminal, analytics panel and an independent custom theme engine, developed with purely cust
 - [Rhovas/Interpreter](https://github.com/Rhovas/Interpreter) - The interpreter for Rhovas, a programming language for API design and enforcement.
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -3424,6 +3425,7 @@
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [nate-xyz/conjure](https://github.com/nate-xyz/conjure) - Magically transform your images.
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -4262,6 +4264,7 @@
 
 ## Rust 
 
+- [oddlama/elewrap](https://github.com/oddlama/elewrap) - 🥙 Controlled static privilege escalation utility with baked-in authentication rules. The most restrictive and lightweight replacement for sudo, doas or please.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) - Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
@@ -5287,7 +5290,6 @@
 - [MatrixAI/Polykey](https://github.com/MatrixAI/Polykey) - Polykey Core Library - Open Source Decentralized Secret Sharing System for Zero Trust Delegation of Authority
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [ossjs/release](https://github.com/ossjs/release) - Minimalistic, opinionated, and predictable release automation tool.
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
