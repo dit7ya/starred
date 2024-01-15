@@ -1225,7 +1225,7 @@
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [hpcng/warewulf](https://github.com/hpcng/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Usage Metering for AI, DevOps, and Billing. Built for engineers to collect and aggregate millions of events in real-time.
+- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [numtide/nits](https://github.com/numtide/nits) - Nix & NATS
@@ -1598,7 +1598,7 @@
 - [denbeigh2000/coder-templates](https://github.com/denbeigh2000/coder-templates) - Coder workspace templates, focused on NixOS.
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [garutilorenzo/k3s-oci-cluster](https://github.com/garutilorenzo/k3s-oci-cluster) - Deploy a Kubernetes cluster for free, using k3s and Oracle always free resources
-- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
+- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 
 ## HTML 
 
@@ -5185,7 +5185,7 @@
 
 ## Swift 
 
-- [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Apple Silicon.
+- [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [AvdLee/Roadmap](https://github.com/AvdLee/Roadmap) - Publish your roadmap inside your app and allow users to vote for upcoming features
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
@@ -5193,7 +5193,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
-- [filipeisho/breathe](https://github.com/filipeisho/breathe) - breathe is a (distraction-free) peripheral breath trainer, it helps you breathe correctly so you can stay calm and focus on what matters.
+- [fififly/breathe](https://github.com/fififly/breathe) - breathe is a (distraction-free) peripheral breath trainer, it helps you breathe correctly so you can stay calm and focus on what matters.
 
 ## Tcl 
 
