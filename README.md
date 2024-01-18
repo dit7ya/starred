@@ -1271,7 +1271,6 @@
 - [auth0/auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Elevate Your Command Line Experience.
 - [casbin/casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
@@ -1799,7 +1798,6 @@
 
 ## Haxe 
 
-- [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [NQNStudios/kisslang](https://github.com/NQNStudios/kisslang) - A type-safe, compiled Lisp for Haxe programs
 
@@ -3559,6 +3557,7 @@
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -4276,6 +4275,7 @@
 
 ## Rust 
 
+- [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [donovanglover/hyprdim](https://github.com/donovanglover/hyprdim) - Automatically dim windows in Hyprland when switching between them.
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A Screenshot Annotation Tool inspired by Swappy and Flameshot.
@@ -4355,7 +4355,7 @@
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrames for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [Kirottu/watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool.
@@ -4490,7 +4490,7 @@
 - [helsinki-systems/harmonia](https://github.com/helsinki-systems/harmonia) - Nix binary cache implemented in rust using libnix-store
 - [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - A distributed system for running WebSocket services at scale.
 - [rraval/git-nomad](https://github.com/rraval/git-nomad) - Synchronize work-in-progress git branches in a light weight fashion
 - [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
 - [mre/zerocal](https://github.com/mre/zerocal) - 🚫📆 Serverless calendar built with shuttle.rs
@@ -5223,8 +5223,8 @@
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
 - [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call
-- [projen/projen](https://github.com/projen/projen) - A new generation of project generators
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [washingtonpost/wpds-ui-kit](https://github.com/washingtonpost/wpds-ui-kit) - WPDS's UiKit coded in React using Stitches, Radix UI and more! Also home to our docs site
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [unpreset/unocss-preset-useful](https://github.com/unpreset/unocss-preset-useful) - Integrate and useful preset.
@@ -5233,7 +5233,7 @@
 - [tombroomfield/CanIKit](https://github.com/tombroomfield/CanIKit) - The missing SvelteKit Authorization library!
 - [paoloricciuti/sveltekit-view-transition](https://github.com/paoloricciuti/sveltekit-view-transition) - Start using view transitions without any hassle!
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
-- [StellateHQ/fuse.js](https://github.com/StellateHQ/fuse.js) - Fuse: The opinionated framework for creating typesafe data layers
+- [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
 - [yumauri/effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector ☄️ to sync stores with `localStorage` (or `sessionStorage`)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [animotionjs/motion](https://github.com/animotionjs/motion) - 🔥 Svelte animation library
@@ -5347,7 +5347,7 @@
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
-- [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Docs for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [igorkamyshev/farfetched](https://github.com/igorkamyshev/farfetched) - The advanced data fetching tool for web applications
@@ -5383,7 +5383,7 @@
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can truly self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [cerebral/overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
@@ -5509,6 +5509,7 @@
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
+- [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
@@ -5599,7 +5600,7 @@
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [DanilaFe/matrix-highlight](https://github.com/DanilaFe/matrix-highlight) - A decentralized and federated way of annotating the web based on Matrix.
