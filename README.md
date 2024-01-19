@@ -2413,7 +2413,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [ericgroom/Subreddit-Search](https://github.com/ericgroom/Subreddit-Search) - A webextension to easily search subreddits
 - [arkadiyt/zoom-redirector](https://github.com/arkadiyt/zoom-redirector) - Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [solobat/paodin](https://github.com/solobat/paodin) - Chrome / Firefox browser extension that integrates word translation, sentences collection, and words memory
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [corbindavenport/peek](https://github.com/corbindavenport/peek) - Preview documents, videos, music, and more with a mouse hover.
@@ -3103,7 +3103,7 @@
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [abatilo/actions-poetry](https://github.com/abatilo/actions-poetry) - GitHub Actions for Python projects using poetry
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
+- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools) - Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
@@ -4348,7 +4348,7 @@
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [adaszko/complgen](https://github.com/adaszko/complgen) - Generate bash/fish/zsh completions from a single declarative grammar familiar from man pages
 - [tembo-io/tembo](https://github.com/tembo-io/tembo) - Postgres for everything
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable gtk-layer-shell wlroots/sway bar written in Rust.
