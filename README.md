@@ -8,7 +8,6 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [Arc](#arc)
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
@@ -130,10 +129,6 @@
 
 - [laarc/laarc](https://github.com/laarc/laarc) - https://www.laarc.io/
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Assembly 
 
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
@@ -179,7 +174,6 @@
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
@@ -412,6 +406,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -1638,6 +1633,7 @@
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [jlopp/lopp.net](https://github.com/jlopp/lopp.net) - Personal web site of Jameson Lopp
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
@@ -2704,6 +2700,7 @@
 - [rvolosatovs/nixify](https://github.com/rvolosatovs/nixify) - Simple and extensible nix build library for real-world projects
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [rustshop/flakebox](https://github.com/rustshop/flakebox) - Flakebox is to your Rust project dev environment, what NixOS is to your OS, or home-manager to your home directory.
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [yvan-sraka/contracts](https://github.com/yvan-sraka/contracts) - 
 - [replit/nixmodules](https://github.com/replit/nixmodules) - 
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -4302,7 +4299,6 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
-- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [Nacho114/harpoon](https://github.com/Nacho114/harpoon) - Zellij plugin to quickly navigate your panes (clone of nvim's harpoon)
@@ -4602,7 +4598,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The SQL streaming database. Engineered to offer the simplest and most cost-efficient way for event stream processing, analytics, and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for streaming data. Event stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -5608,7 +5604,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validations and serializations through transformation
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
@@ -5845,7 +5841,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
@@ -6094,7 +6090,7 @@
 - [ifreund/waylock](https://github.com/ifreund/waylock) - A small screenlocker for Wayland compositors
 - [Javyre/wf-lua](https://github.com/Javyre/wf-lua) - Lua as an advanced configuration language for wayfire
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
-- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
+- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
