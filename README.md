@@ -1962,7 +1962,7 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [justinoverton/plottoriffic](https://github.com/justinoverton/plottoriffic) - Generate story plots based on Plotto
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is secure reverse proxy that empowers web app virtualization via zero trust remote browsing and a secure document gateway. Embeddable, secure, unrestricted, multiplayer iframes on any dev
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is a secure browser isolation system that powers web app virtualization via zero trust remote browsing and a secure document gateway. In effect a secure reverse proxy or CORS-proxy. Embed
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -2225,7 +2225,7 @@
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
+- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
@@ -5266,7 +5266,7 @@
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - The Graph of Everything - Federated architecture for any API service
 - [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌍 Vixeny: A runtime-agnostic, performance-centric library championing functional purity for modern web development.
 - [sstur/nbit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [Rezact/Rezact](https://github.com/Rezact/Rezact) - A JavaScript Framework/Library (call it what you want) that blends the best of svelte, solid, react, and many others.
 - [configu/configu](https://github.com/configu/configu) - a simple, modern, and secure standard for managing and collaborating software configurations ⚙️✨.
