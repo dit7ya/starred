@@ -257,7 +257,7 @@
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [landley/toybox](https://github.com/landley/toybox) - toybox
@@ -1174,7 +1174,7 @@
 
 ## Go 
 
-- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop integration
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop integration client
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -1814,10 +1814,10 @@
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [nedlir/OfficerBreaker](https://github.com/nedlir/OfficerBreaker) - OOXML password remover
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
-- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool
+- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 - [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [Mobile-IoT-Security-Lab/HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - HideDroid is an Android app that allows the per-app anonymization of collected personal data according to a privacy level chosen by the user.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -1900,7 +1900,7 @@
 - [microlinkhq/keyvhq](https://github.com/microlinkhq/keyvhq) - Simple key-value storage with support for multiple backends.
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [SpongeBed81/sveltix](https://github.com/SpongeBed81/sveltix) - Better state management for Svelte & Sveltekit.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [piranha/twinspark-js](https://github.com/piranha/twinspark-js) - Declarative enhancement for HTML: simple, composable, lean.
 - [functionalscript/functionalscript](https://github.com/functionalscript/functionalscript) - FunctionalScript is a purely functional subset of JavaScript
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
@@ -1975,7 +1975,6 @@
 - [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication
 - [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [finos/regular-table](https://github.com/finos/regular-table) - A regular &lt;table&gt; library, for async and virtual data models.
 - [skayo/svelte-tiny-virtual-list](https://github.com/skayo/svelte-tiny-virtual-list) - A tiny but mighty list virtualization library for Svelte, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
@@ -2944,6 +2943,7 @@
 
 ## Others 
 
+- [43081j/ecosystem-cleanup](https://github.com/43081j/ecosystem-cleanup) - A place to keep track of ongoing efforts to clean up the JS ecosystem
 - [janniks/awesome-personal-search-engines](https://github.com/janniks/awesome-personal-search-engines) - A Collection of Awesome Personal Search Engines and Related Projects
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [idank/spankbd](https://github.com/idank/spankbd) - 
@@ -3404,6 +3404,7 @@
 
 ## Python 
 
+- [imincik/nix-utils](https://github.com/imincik/nix-utils) - Handy nix scripts
 - [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
@@ -3484,7 +3485,7 @@
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-- [metavoicexyz/tortoise-tts](https://github.com/metavoicexyz/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
+- [metavoiceio/tortoise-tts](https://github.com/metavoiceio/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [risicle/nix-heuristic-gc](https://github.com/risicle/nix-heuristic-gc) - A more discerning cousin of nix-collect-garbage
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
@@ -3528,7 +3529,7 @@
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [pycob/pyvibe](https://github.com/pycob/pyvibe) - Generate styled HTML pages from Python
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
@@ -4347,7 +4348,7 @@
 - [tembo-io/tembo](https://github.com/tembo-io/tembo) - Postgres for everything
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable gtk-layer-shell wlroots/sway bar written in Rust.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -4355,7 +4356,7 @@
 - [Kirottu/watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool.
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -4595,7 +4596,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -4629,7 +4630,7 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jhbabon/scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made with rust
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
-- [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (backtick). Also, support switching between apps with Alt+Tab.
+- [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [terhechte/postsack](https://github.com/terhechte/postsack) - Visually cluster your emails by sender, domain, and more to identify waste
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
@@ -4878,7 +4879,6 @@
 ## Shell 
 
 - [planetscale/ghcommit-action](https://github.com/planetscale/ghcommit-action) - GitHub Action to commit files to a git branch using the ghcommit utility
-- [imincik/nix-utils](https://github.com/imincik/nix-utils) - Handy nix scripts
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to allow you to use Python "normally" in NixOS
 - [z11i/github-copilot-cli.fish](https://github.com/z11i/github-copilot-cli.fish) - Make GitHub Copilot CLI's alias work for Fish shell
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -5213,6 +5213,7 @@
 
 ## TypeScript 
 
+- [snowfallorg/whats-in-my-store](https://github.com/snowfallorg/whats-in-my-store) - Get the packages from NixPkgs found in your system's Nix Store
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
 - [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
@@ -5313,7 +5314,7 @@
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites :tada:
 - [sdekna/svelte-capacitor-store](https://github.com/sdekna/svelte-capacitor-store) - A whole new svelte stores implementation that persists its values using capacitor storage on native devices, and indexedDB/localStorage otherwise.
 - [Bewinxed/svetch](https://github.com/Bewinxed/svetch) - Auto-Generated typesafe client & API docs generator for your Serverless Application (Svelte First)
-- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
+- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -5549,6 +5550,7 @@
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded in any web apps.
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
@@ -5586,7 +5588,7 @@
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building collaborative editors and applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [samrum/vite-plugin-web-extension](https://github.com/samrum/vite-plugin-web-extension) - A vite plugin for generating cross browser platform, ES module based web extensions.
 - [Dakad/sveltesse-webext](https://github.com/Dakad/sveltesse-webext) - ⚡️ WebExtension + Vite + Svelte Starter Template
@@ -6049,7 +6051,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [wilfredinni/javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
+- [wilfredinni/javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - All-inclusive Javascript cheatsheet
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [vitogit/lichess-tactics-generator](https://github.com/vitogit/lichess-tactics-generator) - Generate chess tactics from your own lichess games.
 
