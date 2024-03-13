@@ -1879,6 +1879,7 @@
 
 ## JavaScript 
 
+- [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
@@ -2979,6 +2980,7 @@
 
 ## Others 
 
+- [pilcrowOnPaper/copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [43081j/ecosystem-cleanup](https://github.com/43081j/ecosystem-cleanup) - A place to keep track of ongoing efforts to clean up the JS ecosystem
@@ -3445,6 +3447,7 @@
 
 ## Python 
 
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3 and Groq(mixtral-8x7b) using Python on Zeabur, fly.io and Replit.
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
@@ -4320,6 +4323,8 @@
 
 ## Rust 
 
+- [NAlexPear/pg_branch](https://github.com/NAlexPear/pg_branch) - Experimental Postgres extension for quickly branching databases through file system snapshots
+- [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [typst/svg2pdf](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 - [elfo-rs/elfo](https://github.com/elfo-rs/elfo) - Your next actor system
@@ -5167,6 +5172,8 @@
 
 ## Svelte 
 
+- [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - cmdk, but for Svelte ✨
+- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [webuildsociety/svelte-headless](https://github.com/webuildsociety/svelte-headless) - Example Svelte headless CMS
 - [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️
 - [svecosystem/paneforge](https://github.com/svecosystem/paneforge) - Resizable pane components for Svelte.
@@ -5294,6 +5301,12 @@
 
 ## TypeScript 
 
+- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+- [sibiraj-s/svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) - Svelte components for tiptap v2
+- [sveltor/nextlint](https://github.com/sveltor/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support
+- [hyoban/unocss-preset-shadcn](https://github.com/hyoban/unocss-preset-shadcn) - Use shadcn ui with UnoCSS
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [evoluhq/evolu](https://github.com/evoluhq/evolu) - Local-first platform designed for privacy, ease of use, and no vendor lock-in
 - [pilcrowOnPaper/arctic](https://github.com/pilcrowOnPaper/arctic) - OAuth 2.0 clients for popular providers
