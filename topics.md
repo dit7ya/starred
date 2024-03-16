@@ -1324,6 +1324,7 @@
 
 ## chatgpt 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3 and Groq(mixtral-8x7b) using Python on Zeabur, fly.io and Replit.
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
@@ -1519,6 +1520,7 @@
 
 ## cli 
 
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
 - [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -2012,6 +2014,7 @@
 
 ## css 
 
+- [mateoroldos/tokenbase](https://github.com/mateoroldos/tokenbase) - Create, manage and distribute design tokens.
 - [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 - [williamtroup/Syntax.js](https://github.com/williamtroup/Syntax.js) - 💻 A lightweight, and easy-to-use, JavaScript library for code syntax highlighting!
@@ -2526,7 +2529,7 @@
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -2598,6 +2601,8 @@
 
 ## docker 
 
+- [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3 and Groq(mixtral-8x7b) using Python on Zeabur, fly.io and Replit.
 - [konradmalik/darwin-docker](https://github.com/konradmalik/darwin-docker) - nix-darwin module to run docker
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
@@ -3506,7 +3511,7 @@
 - [timokau/nix-bisect](https://github.com/timokau/nix-bisect) - Bisect nix builds. Status: alpha/proof of concept. You'll probably have to dig into the implementation if you want to use it. Built for personal use, lightly maintained. PRs welcome. Issues welcome, b
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
@@ -3947,6 +3952,7 @@
 
 ## graphql 
 
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
 - [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
@@ -4525,6 +4531,7 @@
 
 ## homebrew 
 
+- [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 
@@ -4767,6 +4774,7 @@
 
 ## javascript 
 
+- [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr) - Build packages using pnpm with nix
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
 - [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js) - JavaScript LaTeX to HTML5 translator
@@ -4860,7 +4868,7 @@
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching module for JavaScript.
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -5545,7 +5553,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [AlfioEmanueleFresta/xdg-credentials-portal](https://github.com/AlfioEmanueleFresta/xdg-credentials-portal) - FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust; includes a proposal for a new D-Bus Portal interface for FIDO2, accessible from Flatpak apps and Snaps 🔑
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland compositor written in rust
@@ -5947,6 +5955,7 @@
 
 ## macos 
 
+- [cmacrae/flakelight-darwin](https://github.com/cmacrae/flakelight-darwin) - A Darwin module for flakelight
 - [wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Take color-accurate timelapses of your screens and cameras on MacOS
 - [konradmalik/darwin-docker](https://github.com/konradmalik/darwin-docker) - nix-darwin module to run docker
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
@@ -5969,7 +5978,7 @@
 - [woelper/oculante](https://github.com/woelper/oculante) - A minimalistic crossplatform image viewer written in rust
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -6137,6 +6146,7 @@
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
@@ -6226,7 +6236,6 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -6282,6 +6291,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
+- [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - kat's configuration flake
@@ -6426,6 +6436,7 @@
 
 ## node 
 
+- [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr) - Build packages using pnpm with nix
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
 - [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌍 Vixeny: A runtime-agnostic, performance-centric library championing functional purity for modern web development.
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse
@@ -6470,6 +6481,7 @@
 
 ## nodejs 
 
+- [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr) - Build packages using pnpm with nix
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [Runroom/design-tokens](https://github.com/Runroom/design-tokens) - Runroom implementation of Figma design tokens
@@ -6658,6 +6670,7 @@
 
 ## open-source 
 
+- [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
 - [overte-org/overte](https://github.com/overte-org/overte) - Overte open source virtual worlds platform.
@@ -6752,6 +6765,19 @@
 
 ## others 
 
+- [qwacko/skGuard](https://github.com/qwacko/skGuard) - 
+- [nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community [maintainer=@IogaMaster]
+- [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+- [knarkzel/bix](https://github.com/knarkzel/bix) - Use Nix to build project and run it with Bun
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript SDK and runtime for building Fastly Compute applications
+- [vercel/edge-runtime](https://github.com/vercel/edge-runtime) - Developing, testing, and defining the runtime Web APIs for Edge infrastructure.
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres
+- [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - cmdk, but for Svelte ✨
 - [hyoban/unocss-preset-shadcn](https://github.com/hyoban/unocss-preset-shadcn) - Use shadcn ui with UnoCSS
 - [NAlexPear/pg_branch](https://github.com/NAlexPear/pg_branch) - Experimental Postgres extension for quickly branching databases through file system snapshots
@@ -6921,7 +6947,7 @@
 - [tnthung/better-svelte-writable](https://github.com/tnthung/better-svelte-writable) - 
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar for the typst typesetting language with a focus on correctness
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
@@ -8553,7 +8579,7 @@
 - [mola-T/timp](https://github.com/mola-T/timp) - Timp - The first multithread library
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [fidgetingbits/fidgetingbits-talon](https://github.com/fidgetingbits/fidgetingbits-talon) - Talon voice config focused on Linux and Mac.
-- [TalonCommunity/Wiki](https://github.com/TalonCommunity/Wiki) - Wiki for Talon beta
+- [TalonCommunity/Wiki](https://github.com/TalonCommunity/Wiki) - Community maintained wiki for Talon Voice
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [georapbox/ReadMore.js](https://github.com/georapbox/ReadMore.js) - JavaScript library that adds a 'read more' functionality on the text blocks that is applied to.
 - [niklasf/python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine comm
@@ -9058,6 +9084,7 @@
 
 ## package-manager 
 
+- [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
@@ -10306,6 +10333,7 @@
 
 ## rust 
 
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [elfo-rs/elfo](https://github.com/elfo-rs/elfo) - Your next actor system
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
@@ -10418,7 +10446,7 @@
 - [edneville/please](https://github.com/edneville/please) - please, a sudo clone
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
@@ -10715,7 +10743,7 @@
 - [nozaq/awesome-yubikey](https://github.com/nozaq/awesome-yubikey) - Curated list of awesome Yubikey resources, open source projects, tools and tutorials.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source security data pipelines.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
@@ -10828,7 +10856,7 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -10895,6 +10923,7 @@
 
 ## serverless 
 
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
@@ -11473,6 +11502,7 @@
 
 ## terminal 
 
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -12334,7 +12364,7 @@
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting sorted by minimal plan price
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
