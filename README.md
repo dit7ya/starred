@@ -709,7 +709,7 @@
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [m1dnight/exbin](https://github.com/m1dnight/exbin) - A pastebin clone written in Elixir/Phoenix.
 - [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) - Building native-like Elixir apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView!
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [still-ex/still](https://github.com/still-ex/still) - A composable Elixir static site generator
 - [bitwalker/distillery](https://github.com/bitwalker/distillery) - Simplify deployments in Elixir with OTP releases!
 - [derek-zhou/liv](https://github.com/derek-zhou/liv) - Web mail of your own
@@ -1892,7 +1892,7 @@
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS-from-CSS™) 🌬️
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [tncrazvan/sveltekit-sse](https://github.com/tncrazvan/sveltekit-sse) - Server Sent Events with SvelteKit
 - [ErikGartner/dTree](https://github.com/ErikGartner/dTree) - A library for visualizing data trees with multiple parents, such as family trees. Built on top of D3.
@@ -1925,6 +1925,7 @@
 - [remarkjs/remark-directive](https://github.com/remarkjs/remark-directive) - remark plugin to support directives
 - [WebReflection/nonchalance](https://github.com/WebReflection/nonchalance) - The easiest way to augment DOM builtin elements.
 - [Xe/nixexpr](https://github.com/Xe/nixexpr) - Nix expressions for JavaScript
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [drudru/ansi_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
