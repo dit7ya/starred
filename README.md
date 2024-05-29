@@ -366,7 +366,7 @@
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
-- [zkSNACKs/WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+- [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
@@ -735,7 +735,7 @@
 - [oestrich/aino](https://github.com/oestrich/aino) - An HTTP framework built on top of elli
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [uesteibar/neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir
-- [slab/delta-elixir](https://github.com/slab/delta-elixir) - Simple yet expressive format to describe contents and changes 🗃
+- [slab/delta-elixir](https://github.com/slab/delta-elixir) - Elixir implementation of Delta, the JSON format for describing rich-text content and their changes
 - [witchcrafters/witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir
 - [fika-lang/fika](https://github.com/fika-lang/fika) - A statically typed functional programming language for the web.
 - [livebook-dev/kino](https://github.com/livebook-dev/kino) - Client-driven interactive widgets for Livebook
@@ -6124,7 +6124,7 @@
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
