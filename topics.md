@@ -712,6 +712,7 @@
 
 ## automation 
 
+- [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations & Jupyter-notebooks style interface
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -728,7 +729,7 @@
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [botcity-dev/botcity-framework-core-python](https://github.com/botcity-dev/botcity-framework-core-python) - BotCity Framework - Python
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [garutilorenzo/k3s-oci-cluster](https://github.com/garutilorenzo/k3s-oci-cluster) - Deploy a Kubernetes cluster for free, using k3s and Oracle always free resources
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
@@ -3716,7 +3717,7 @@
 
 ## github-api 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX/UI & i18n support. Free & open source. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX & i18n support. Open source & free. Made with Svelte.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
@@ -3743,7 +3744,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
-- [hyprland-community/Hyprkeys](https://github.com/hyprland-community/Hyprkeys) - A simple, scriptable keybind retrieval utility for Hyprland  [maintainer=@NotAShelf]
+- [hyprland-community/Hyprkeys](https://github.com/hyprland-community/Hyprkeys) - A simple, scriptable keybind retrieval utility for Hyprland  [maintainer=none]
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -3784,7 +3785,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
@@ -3927,7 +3928,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
@@ -6376,6 +6377,7 @@
 
 ## monitoring 
 
+- [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations & Jupyter-notebooks style interface
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
@@ -11575,7 +11577,7 @@
 - [efstajas/svelte-stored-writable](https://github.com/efstajas/svelte-stored-writable) - ✍️💾😎 A simple drop-in extension of Svelte's writable that stores and restores its contents using localStorage.
 - [ghostebony/svelte-virtual](https://github.com/ghostebony/svelte-virtual) - Virtual List and Grid components for Svelte
 - [suhaildawood/SvelteKit-integrated-WebSocket](https://github.com/suhaildawood/SvelteKit-integrated-WebSocket) - First-class support for WebSockets within SvelteKit by attaching a WebSocket server to the global state.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX/UI & i18n support. Free & open source. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX & i18n support. Open source & free. Made with Svelte.
 - [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL client
 - [vnphanquang/svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [jacob-8/kitbook](https://github.com/jacob-8/kitbook) - Documentation, Prototyping, Inspection & Testing Workbench Tool for Svelte (SvelteKit Storybook alternative)
@@ -11936,7 +11938,7 @@
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [btholt/complete-intro-to-react-v7](https://github.com/btholt/complete-intro-to-react-v7) - The Complete Intro to React v7 and Intermediate React v4 as taught on Frontend Masters
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -12543,7 +12545,7 @@
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
