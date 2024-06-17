@@ -162,6 +162,7 @@
 
 ## C 
 
+- [jarusll/keydogger](https://github.com/jarusll/keydogger) - 
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -1399,7 +1400,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -2784,6 +2785,7 @@
 
 ## Nix 
 
+- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [AdoPi/shoji-nix](https://github.com/AdoPi/shoji-nix) - Manage your SSH keys with Nix
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
@@ -4530,7 +4532,7 @@
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Generate bash/fish/zsh completions from a single declarative grammar familiar from man pages
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Generate bash/fish/zsh in a declarative way without writing shell scripts
 - [tembo-io/tembo](https://github.com/tembo-io/tembo) - Goodbye Database Sprawl, Hello Postgres.
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
@@ -5304,7 +5306,7 @@
 - [LeoDog896/svelte-monaco](https://github.com/LeoDog896/svelte-monaco) - svelte + monaco integration
 - [manhhungpc/ubuntu2204-svelte](https://github.com/manhhungpc/ubuntu2204-svelte) - Recreating Ubuntu 22.04 with Svelte
 - [WailAbou/shadcn-svelte-nodep](https://github.com/WailAbou/shadcn-svelte-nodep) - No dependecy port of Shadcn for Svelte
-- [Tronic247/svelte-ripple-action](https://github.com/Tronic247/svelte-ripple-action) - Svelte Ripple Action
+- [Posandu/svelte-ripple-action](https://github.com/Posandu/svelte-ripple-action) - Svelte Ripple Action
 - [ntsd/svelte-tex](https://github.com/ntsd/svelte-tex) - Svelte component to convert TeX/LaTeX to MathML or SVG
 - [the-dataface/figma-plugin-svelte-vite](https://github.com/the-dataface/figma-plugin-svelte-vite) - Build a Figma plugin using Svelte + Vite + TypeScript
 - [Thiagolino8/svelte-enhanced-transitions](https://github.com/Thiagolino8/svelte-enhanced-transitions) - Enhance your svelte transitions
