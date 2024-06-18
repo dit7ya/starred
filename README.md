@@ -110,6 +110,7 @@
 - [TeX](#tex)
 - [Toit](#toit)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -162,7 +163,7 @@
 
 ## C 
 
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - 
+- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -1437,7 +1438,7 @@
 - [brimdata/zed](https://github.com/brimdata/zed) - A novel data lake based on super-structured data
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
@@ -2785,6 +2786,7 @@
 
 ## Nix 
 
+- [nixos-rocm/nixos-rocm](https://github.com/nixos-rocm/nixos-rocm) - NixOS support for the ROCm graphics stack (rocm.github.io)
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [AdoPi/shoji-nix](https://github.com/AdoPi/shoji-nix) - Manage your SSH keys with Nix
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
@@ -3609,7 +3611,7 @@
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [JayZhang42/FederatedGPT-Shepherd](https://github.com/JayZhang42/FederatedGPT-Shepherd) - Shepherd: A foundational framework enabling federated instruction tuning for large language models
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
@@ -6287,6 +6289,10 @@
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+
+## Typst 
+
+- [cab404/resume.typ](https://github.com/cab404/resume.typ) - My resume, maybe your next template?
 
 ## V 
 
