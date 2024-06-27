@@ -172,6 +172,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace
@@ -216,7 +217,6 @@
 - [metheon/qmk_layout](https://github.com/metheon/qmk_layout) - My QMK layout
 - [andrewjrae/kyria-keymap](https://github.com/andrewjrae/kyria-keymap) - My QMK keymap for the SplitKB Kyria
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
@@ -448,6 +448,7 @@
 - [havogt/cmakels](https://github.com/havogt/cmakels) - A language server for CMake and an LSP implementation in C++
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source security data pipelines.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -1263,7 +1264,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Ground Control for 3rd Party APIs
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - A tool to automatically generate a NixOS config from a Docker Compose project.
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [zapier/prom-aggregation-gateway](https://github.com/zapier/prom-aggregation-gateway) - An aggregating push gateway for Prometheus
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -1679,6 +1680,7 @@
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+- [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
@@ -1708,6 +1710,7 @@
 - [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [EanNewton/Awesome-Keebs](https://github.com/EanNewton/Awesome-Keebs) - A collection of keyboards & things.
 - [boldreader/boldreader](https://github.com/boldreader/boldreader) - 
 - [abishekmuthian/startuptoolchain](https://github.com/abishekmuthian/startuptoolchain) - Best tool for your startup task, A toolchain for your entire startup.
@@ -2174,7 +2177,7 @@
 - [fabcotech/dappy](https://github.com/fabcotech/dappy) - Dappy browser is a next-generation web browser that works without DNS and without TLS Certificate Authorities, instead it uses blockchain and co-resolution for ultra-accuracy and security. It is equip
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 53 plugins. 1341 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 53 plugins. 1342 rules. React, Vue, Node, and pure JS/TS.
 - [hmarr/grephub](https://github.com/hmarr/grephub) - 🔍 Search GitHub repositories with regexes
 - [dmester/jdenticon](https://github.com/dmester/jdenticon) - Javascript library for generating identicons. Running in the browser and on Node.js.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
@@ -3451,7 +3454,6 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [learn-anything/forums](https://github.com/learn-anything/forums) - Awesome Forums
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [myTerminal/world-of-emacs](https://github.com/myTerminal/world-of-emacs) - A brief guide for getting into and through the world of Emacs
 - [ieure/hyperspace-el](https://github.com/ieure/hyperspace-el) - Get there from here
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
@@ -3531,6 +3533,9 @@
 
 ## Python 
 
+- [marmistrz/askhole-contrib](https://github.com/marmistrz/askhole-contrib) - Extra cards for askhole
+- [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [mezbaul-h/june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
@@ -3547,7 +3552,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3, Gemini and Groq using Python on Zeabur, fly.io and Replit.
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
@@ -3635,7 +3640,7 @@
 - [Wytamma/write-the](https://github.com/Wytamma/write-the) - AI-powered Documentation and Test Generation Tool
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [risicle/nix-heuristic-gc](https://github.com/risicle/nix-heuristic-gc) - A more discerning cousin of nix-collect-garbage
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
@@ -4419,6 +4424,8 @@
 
 ## Rust 
 
+- [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures
+- [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -5371,7 +5378,6 @@
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [pstanoev/simple-svelte-autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) - Simple Autocomplete / typeahead component for Svelte
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -5540,7 +5546,6 @@
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [Rolands-Laucis/Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework for the Web
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [gravity-ui/yagr](https://github.com/gravity-ui/yagr) - Yet another graph renderer
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
@@ -6327,6 +6332,7 @@
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [mwgkgk/dotfiles](https://github.com/mwgkgk/dotfiles) - vim, vifm, tmux, fzf, fish, sxhkd
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 
 ## Vue 
