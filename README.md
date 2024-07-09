@@ -184,7 +184,6 @@
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A darktable fork minus the bloat plus some design vision.
 - [GaijinEntertainment/daScript](https://github.com/GaijinEntertainment/daScript) - daScript - high-performance statically strong typed scripting language
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar for the typst typesetting language with a focus on correctness
@@ -410,6 +409,7 @@
 - [DreamMaoMao/hycov](https://github.com/DreamMaoMao/hycov) - hyprland overview mode plugin,a new tile window workflow
 - [Acly/krita-ai-tools](https://github.com/Acly/krita-ai-tools) - Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.
 - [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [overte-org/overte](https://github.com/overte-org/overte) - Overte open source virtual worlds platform.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -744,7 +744,7 @@
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [m1dnight/exbin](https://github.com/m1dnight/exbin) - A pastebin clone written in Elixir/Phoenix.
 - [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) - Building native-like Elixir apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView!
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [still-ex/still](https://github.com/still-ex/still) - A composable Elixir static site generator
 - [bitwalker/distillery](https://github.com/bitwalker/distillery) - Simplify deployments in Elixir with OTP releases!
 - [derek-zhou/liv](https://github.com/derek-zhou/liv) - Web mail of your own
@@ -1852,7 +1852,7 @@
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [raviksharma/bartosz-basics-of-haskell](https://github.com/raviksharma/bartosz-basics-of-haskell) - Code and exercises from Bartosz Milewski's Basics of Haskell Tutorial
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
@@ -3202,7 +3202,7 @@
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
-- [Explosion-Scratch/missAnneThorpe-starred-this-repo](https://github.com/Explosion-Scratch/missAnneThorpe-starred-this-repo) - Star to change the repo title to your username!
+- [Explosion-Scratch/quervyloll-is-a-unicorn](https://github.com/Explosion-Scratch/quervyloll-is-a-unicorn) - Star to change the repo title to your username!
 - [e3w2q/su120-keyboard](https://github.com/e3w2q/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [garnix-io/issues](https://github.com/garnix-io/issues) - Public issue tracker for garnix.io
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -4471,6 +4471,7 @@
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
@@ -4577,7 +4578,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [rustshop/npcnix](https://github.com/rustshop/npcnix) - Control your NixOS instances system configuration from a centrally managed location
 - [RhizomeDB/rs-rhizome](https://github.com/RhizomeDB/rs-rhizome) - 
-- [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
@@ -5080,6 +5081,7 @@
 
 ## Shell 
 
+- [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
 - [planetscale/ghcommit-action](https://github.com/planetscale/ghcommit-action) - GitHub Action to commit files to a git branch using the ghcommit utility
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to allow you to use Python "normally" in NixOS
@@ -5433,6 +5435,7 @@
 
 ## TypeScript 
 
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [bryanmylee/svelte-render](https://github.com/bryanmylee/svelte-render) - Manage complex Svelte behaviors outside of templates with full type safety.
 - [bryanmylee/svelte-subscribe](https://github.com/bryanmylee/svelte-subscribe) - Subscribe to non top-level stores in your Svelte template
 - [vincjo/datatables](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte
@@ -5500,7 +5503,6 @@
 - [okcontract/cells](https://github.com/okcontract/cells) - Simplified reactive functional programming for the web
 - [ocluf/justship](https://github.com/ocluf/justship) - A svelte 5 and sveltekit saas boilerplate. Including database, authentication, email, analytics,  and landing page components.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [snowfallorg/whats-in-my-store](https://github.com/snowfallorg/whats-in-my-store) - Get the packages from NixPkgs found in your system's Nix Store
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
@@ -6157,7 +6159,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb) - Jest preset for MongoDB in-memory server
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
@@ -6288,7 +6290,7 @@
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [supertorpe/chessendgametraining](https://github.com/supertorpe/chessendgametraining) - Chess Endgame Traininng: app to practice a variety of well organized set of chess endgames. From elementary to the most complex endgames, you can practice until you learn how to face all of them.
+- [supertorpe/chessendgametraining](https://github.com/supertorpe/chessendgametraining) - Chess Endgame Training: app to practice a variety of well organized set of chess endgames. From elementary to the most complex endgames, you can practice until you learn how to face all of them.
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) - A browser extension that lets you click with your keyboard.
