@@ -408,7 +408,7 @@
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to ksqlDB and Apache Flink, 🚀 powered by ClickHouse.
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
-- [jerrymaolong/hycov](https://github.com/jerrymaolong/hycov) - hyprland overview mode plugin,a new tile window workflow
+- [DreamMaoMao/hycov](https://github.com/DreamMaoMao/hycov) - hyprland overview mode plugin,a new tile window workflow
 - [Acly/krita-ai-tools](https://github.com/Acly/krita-ai-tools) - Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.
 - [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -439,7 +439,7 @@
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [nix-community/nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
@@ -1238,6 +1238,7 @@
 
 ## Go 
 
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
@@ -1293,7 +1294,7 @@
 - [webmeshproj/webmesh](https://github.com/webmeshproj/webmesh) - A simple, distributed, zero-configuration WireGuard mesh solution
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
@@ -1898,6 +1899,7 @@
 
 ## Java 
 
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [SonarSource/sonarlint-language-server](https://github.com/SonarSource/sonarlint-language-server) - Language Server for SonarLint VSCode
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
@@ -1949,7 +1951,7 @@
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [synchrony/smsn](https://github.com/synchrony/smsn) - Semantic Synchrony. An experiment in cognitive and sensory augmentation.
-- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: the polymorphic database powered by types
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the polymorphic database powered by types
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [adgad/kboard](https://github.com/adgad/kboard) - Android keyboard for fast responses
@@ -3615,7 +3617,7 @@
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [tinted-theming/base24](https://github.com/tinted-theming/base24) - Base24/ Base16 can be used to easily generate your favourite theme for your favourite application. Many of the template repositories provide theme files that you can copy/ import into said application
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
@@ -4106,7 +4108,7 @@
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [scastillo/not-youtube-dl](https://github.com/scastillo/not-youtube-dl) - This is not youtube-dl
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [WassimBenzarti/colab-ssh](https://github.com/WassimBenzarti/colab-ssh) - Connect to Google Colab using SSH
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
@@ -4389,7 +4391,7 @@
 - [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system [mirror of main repo at https://git.matthewbutterick.com/mbutterick/pollen]
 - [mbutterick/beautiful-racket](https://github.com/mbutterick/beautiful-racket) - Resources for the “Beautiful Racket” book [moved to https://git.matthewbutterick.com/mbutterick/beautiful-racket]
 - [racketscript/racketscript](https://github.com/racketscript/racketscript) - Racket to JavaScript Compiler
-- [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
+- [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, packages, and more.
 
 ## Reason 
 
@@ -4525,7 +4527,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) - 🦚  A web-app pentesting suite written in rust .
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
@@ -5344,7 +5346,7 @@
 - [Carza-104/apple-svelte](https://github.com/Carza-104/apple-svelte) - UI component library for Svelte based on Apple's Human Interface design language.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
-- [WardPearce/Purplix.io](https://github.com/WardPearce/Purplix.io) - Purplix is an open-source collection of tools dedicated to user privacy and creating trust with your audience.
+- [WardPearce/Syncpad](https://github.com/WardPearce/Syncpad) - SyncPad is a privacy-focused, end-to-end encrypted note-taking and surveying tool.
 - [cuire/svelte-grid-extended](https://github.com/cuire/svelte-grid-extended) - A draggable and resizable grid layout, for Svelte
 - [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
@@ -5467,6 +5469,7 @@
 
 ## TypeScript 
 
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, and autocomplete extensions for CodeMirror + TypeScript
 - [aidenybai/pattycake](https://github.com/aidenybai/pattycake) - Zero-runtime pattern matching
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
@@ -5885,7 +5888,7 @@
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [revolist/svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Svelte  data grid spreadsheet best best features and performance from excel
