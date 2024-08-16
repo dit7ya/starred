@@ -723,7 +723,7 @@
 ## Elixir 
 
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
-- [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
+- [phoenixframework/flame](https://github.com/phoenixframework/flame) - Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
 - [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
@@ -1285,6 +1285,7 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1575,7 +1576,6 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
@@ -1962,11 +1962,13 @@
 
 ## JavaScript 
 
+- [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [snowfallorg/drift](https://github.com/snowfallorg/drift) - Update Nix Flake package sources.
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
@@ -2857,7 +2859,6 @@
 - [rvolosatovs/nixify](https://github.com/rvolosatovs/nixify) - Simple and extensible nix build library for real-world projects
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [rustshop/flakebox](https://github.com/rustshop/flakebox) - Flakebox is to your Rust project dev environment, what NixOS is to your OS, or home-manager to your home directory.
-- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [yvan-sraka/contracts](https://github.com/yvan-sraka/contracts) - 
 - [replit/nixmodules](https://github.com/replit/nixmodules) - 
@@ -2975,7 +2976,7 @@
 - [on-nix/python](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix!
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@thiagokokada]
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [blitz/tuxedo-nixos](https://github.com/blitz/tuxedo-nixos) - Tuxedo Control Center Derivation and Module for NixOS
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
@@ -3562,6 +3563,7 @@
 
 ## Python 
 
+- [bolna-ai/bolna](https://github.com/bolna-ai/bolna) - End-to-end platform for building voice first multimodal agents
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
@@ -3646,7 +3648,7 @@
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [poe-platform/poe-protocol](https://github.com/poe-platform/poe-protocol) - The Poe bot protocol
 - [nalgeon/pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
@@ -4497,7 +4499,7 @@
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - Ethersync enables real-time co-editing of local text files.
 - [sophiajt/june](https://github.com/sophiajt/june) - 
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data l
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data 
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
@@ -4910,7 +4912,7 @@
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [mqudsi/syngesture](https://github.com/mqudsi/syngesture) - Swipes and gestures for Linux with the MT multitouch protocol
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [sayanarijit/yamlfun](https://github.com/sayanarijit/yamlfun) - [Proof of Concept] Embedded functional scripting language with YAML ¯\_(ツ)_/¯
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
@@ -4976,6 +4978,7 @@
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
@@ -5500,6 +5503,13 @@
 
 ## TypeScript 
 
+- [jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that deletes your news feed and replaces it with a nice quote
+- [HiDeoo/starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Starlight plugin to validate internal links
+- [HiDeoo/starlight-versions](https://github.com/HiDeoo/starlight-versions) - Starlight plugin to version documentation pages
+- [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+- [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [Bewinxed/river.ts](https://github.com/Bewinxed/river.ts) - Easy, Composable, and type-safe Server-Sent Events (SSE)
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
@@ -5526,7 +5536,6 @@
 - [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) - 🚀  Improve the Developer Experience of console
 - [TahaSh/veloxi](https://github.com/TahaSh/veloxi) - UI engine for building smooth interactions in the browser
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
