@@ -1671,7 +1671,7 @@
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
 ## Groovy 
@@ -1721,7 +1721,7 @@
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
-- [HoangTuan110/subreply-css](https://github.com/HoangTuan110/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
+- [tsklxiv/subreply-css](https://github.com/tsklxiv/subreply-css) - A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -1962,6 +1962,8 @@
 
 ## JavaScript 
 
+- [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
+- [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
@@ -2201,6 +2203,7 @@
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [glitchdotcom/friendly-words](https://github.com/glitchdotcom/friendly-words) - The Glitch word list, packaged into an NPM module for easy use.
 - [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [fabcotech/dappy](https://github.com/fabcotech/dappy) - Dappy browser is a next-generation web browser that works without DNS and without TLS Certificate Authorities, instead it uses blockchain and co-resolution for ultra-accuracy and security. It is equip
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
@@ -2654,6 +2657,7 @@
 
 ## Kotlin 
 
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is the first full-stack session replay and API call exploration tool. Using WireQuery, you get a holistic overview of how an issue came into existence.
 - [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast player for Android in Kotlin with androidx.media3
 - [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent 
@@ -3914,7 +3918,6 @@
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) - Trading strategy for the Freqtrade crypto bot
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
@@ -5503,6 +5506,7 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that deletes your news feed and replaces it with a nice quote
 - [HiDeoo/starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Starlight plugin to validate internal links
 - [HiDeoo/starlight-versions](https://github.com/HiDeoo/starlight-versions) - Starlight plugin to version documentation pages
@@ -5817,7 +5821,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
-- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [ElMassimo/vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - 🖼 Image Presets for Vite.js apps
