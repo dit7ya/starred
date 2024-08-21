@@ -30,7 +30,6 @@
 - [Dart](#dart)
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
-- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
@@ -282,6 +281,7 @@
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -405,7 +405,6 @@
 - [zakk4223/hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) - Easymotion, for hyprland
 - [2hdddg/zenway](https://github.com/2hdddg/zenway) - WIP sway bar alternative that is not really a bar but an overlay displayed on top of workspaces
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
-- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript SDK and runtime for building Fastly Compute applications
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to ksqlDB and Apache Flink, 🚀 powered by ClickHouse.
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -572,6 +571,7 @@
 
 ## CSS 
 
+- [joeltg/react-lezer-highlighter](https://github.com/joeltg/react-lezer-highlighter) - A tiny syntax highlighter for React using Lezer parsers
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [tobiasahlin/bendable](https://github.com/tobiasahlin/bendable) - Fluid & adaptive type with composable CSS utilities
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -717,10 +717,6 @@
 - [appleboy/telegram-action](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## Earthly 
-
-- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
-
 ## Elixir 
 
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
@@ -808,6 +804,7 @@
 - [LazerJesus/EVA](https://github.com/LazerJesus/EVA) - The ghost in my sh.el - Emacs Virtual Assistant (EVA)
 - [nix-community/nix-ts-mode](https://github.com/nix-community/nix-ts-mode) - An Emacs major mode for editing Nix expressions, powered by tree-sitter [maintainer=@remi-gelinas]
 - [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - Emacs support for Typst.
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [xcapaldi/ob-d2](https://github.com/xcapaldi/ob-d2) - Org-Babel support for evaluating d2 diagram scripting language
 - [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
 - [elizagamedev/xkcd-303-mode.el](https://github.com/elizagamedev/xkcd-303-mode.el) - Emacs minor mode for explaining why you're not working
@@ -1243,6 +1240,7 @@
 
 ## Go 
 
+- [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source microVMs orchestrator.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
@@ -1463,7 +1461,7 @@
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [brimdata/zed](https://github.com/brimdata/zed) - A novel data lake based on super-structured data
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
@@ -1553,7 +1551,6 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [pallavJha/chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes
@@ -1608,7 +1605,7 @@
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [SpectralOps/senv](https://github.com/SpectralOps/senv) - Friends don't let friends leak secrets on their terminal window :see_no_evil:
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
+- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo [maintainers=@zimbatm,@brianmcgee]
 - [hackstream/zettel](https://github.com/hackstream/zettel) - A notes organizer - based on Zettelkasten methodology.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
@@ -1984,6 +1981,7 @@
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [lispx/lispx](https://github.com/lispx/lispx) - Ultralight Lisp for the Web
 - [typicode/mistcss](https://github.com/typicode/mistcss) - 💧 Write atomic components using only CSS! (JS-from-CSS™)
+- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript SDK and runtime for building Fastly Compute applications
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -2469,7 +2467,6 @@
 - [brumm/tako](https://github.com/brumm/tako) - Tako replaces the default Github repository file list with an expandable file tree and file preview for rapid exploration of repositories.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [LayBacc/rumin-web-clipper](https://github.com/LayBacc/rumin-web-clipper) - Web clipper browser extension for saving highlights, screenshots, and automatically extracting content from web pages.
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Tichael/GoodSwipe](https://github.com/Tichael/GoodSwipe) - Implementation of touchpad and touchscreen gesture to go back and forward, with feedback, inspired by the same built in function on Google Chrome.
 - [az0/linkgopher](https://github.com/az0/linkgopher) - Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
@@ -3490,7 +3487,6 @@
 - [myTerminal/world-of-emacs](https://github.com/myTerminal/world-of-emacs) - A brief guide for getting into and through the world of Emacs
 - [ieure/hyperspace-el](https://github.com/ieure/hyperspace-el) - Get there from here
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
-- [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
 - [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [dit7ya/awesome-irl](https://github.com/dit7ya/awesome-irl) - A curated list of awesome Inverse Reinforcement Learning resources.
@@ -3539,7 +3535,6 @@
 ## PLpgSQL 
 
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 
 ## Pascal 
 
@@ -3656,7 +3651,6 @@
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain LLM apps and agents automagically with FastApi. LLMops
@@ -4466,6 +4460,7 @@
 
 ## Rust 
 
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
@@ -4530,7 +4525,7 @@
 - [MagmaWM/MagmaWM](https://github.com/MagmaWM/MagmaWM) - A versatile and customizable Window Manager and Wayland Compositor
 - [seliumlabs/selium](https://github.com/seliumlabs/selium) - An extremely dev-friendly, composable messaging platform
 - [wingbackapp/kind](https://github.com/wingbackapp/kind) - Costless typed identifiers backed by UUID, with kind readable in serialized versions
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
@@ -4876,7 +4871,7 @@
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [TyberiusPrime/anysnake2](https://github.com/TyberiusPrime/anysnake2) - Leverage nix to build fully reproducible containers for scientific work
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
-- [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
+- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
@@ -5507,6 +5502,9 @@
 
 ## TypeScript 
 
+- [valyentdev/software-citadel](https://github.com/valyentdev/software-citadel) - Software Citadel is an open-source cloud platform for developers.
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
+- [KarimAziev/chrome-emacs](https://github.com/KarimAziev/chrome-emacs) - Chrome and Firefox extension designed for bi-directional editing from Emacs, providing cursor and scroll synchronization, auto-major mode detection, and support for most online editors.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that deletes your news feed and replaces it with a nice quote
@@ -5542,7 +5540,7 @@
 - [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) - 🚀  Improve the Developer Experience of console
 - [TahaSh/veloxi](https://github.com/TahaSh/veloxi) - UI engine for building smooth interactions in the browser
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -5605,6 +5603,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [dzhng/llm-api](https://github.com/dzhng/llm-api) - Fully typed & consistent chat APIs for OpenAI, Anthropic, Groq, and Azure's chat models for browser, edge, and node environments.
 - [functional-ui/functional-ui-kit](https://github.com/functional-ui/functional-ui-kit) - Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [cellajs/cella](https://github.com/cellajs/cella) - TypeScript template to build local-first SaaS with hono + pg + drizzle + electric-sql + react + shadcn.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
@@ -5645,7 +5644,7 @@
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open Source alternative to Webflow, check out our CMS launch https://webstudio.is/cms
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - The web builder for advanced sites. An open-source visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
 - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [ardov/huetone](https://github.com/ardov/huetone) - A tool to create accessible color systems
@@ -5824,6 +5823,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform that makes it easy and fast to build custom integrations in python.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [ElMassimo/vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - 🖼 Image Presets for Vite.js apps
@@ -6387,7 +6387,7 @@
 - [rohit-gohri/zomato-telegram-bot](https://github.com/rohit-gohri/zomato-telegram-bot) - A simple inline telegram bot that searches for restaurants nearby, deployed using ZEIT now
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [ulangi/ulangi](https://github.com/ulangi/ulangi) - Ulangi is a language flashcards app with spaced repetition system and more.
 - [larskarbo/ankibot](https://github.com/larskarbo/ankibot) - Telegram Bot for Anki Sound Recording
 - [akosbalasko/zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper) - Zookeeper for your Zettelkasten folder
@@ -6522,6 +6522,7 @@
 
 ## templ 
 
+- [valyentdev/ferdinand](https://github.com/valyentdev/ferdinand) - Open-source email delivery service for developers.
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 
 
