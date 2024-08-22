@@ -106,7 +106,6 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [Toit](#toit)
 - [TypeScript](#typescript)
@@ -148,6 +147,9 @@
 
 ## Astro 
 
+- [cxa/astro-inline-svg](https://github.com/cxa/astro-inline-svg) - Inline SVG into Astro templates.
+- [lorenzolewis/starlight-utils](https://github.com/lorenzolewis/starlight-utils) - 🧰 Utilities to use with your 🌟 Starlight site.
+- [trueberryless/starlight-view-modes](https://github.com/trueberryless/starlight-view-modes) - Starlight plugin adding view mode capabilities to your documentation website.
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 
@@ -217,6 +219,7 @@
 - [metheon/qmk_layout](https://github.com/metheon/qmk_layout) - My QMK layout
 - [andrewjrae/kyria-keymap](https://github.com/andrewjrae/kyria-keymap) - My QMK keymap for the SplitKB Kyria
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
@@ -454,7 +457,6 @@
 - [havogt/cmakels](https://github.com/havogt/cmakels) - A language server for CMake and an LSP implementation in C++
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Tenzir is the data pipeline engine for security teams.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -571,7 +573,6 @@
 
 ## CSS 
 
-- [joeltg/react-lezer-highlighter](https://github.com/joeltg/react-lezer-highlighter) - A tiny syntax highlighter for React using Lezer parsers
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [tobiasahlin/bendable](https://github.com/tobiasahlin/bendable) - Fluid & adaptive type with composable CSS utilities
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -1687,6 +1688,7 @@
 
 ## HTML 
 
+- [excalidraw/virgil](https://github.com/excalidraw/virgil) - The font that powers Excalidraw
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - Unicons by IconScout offers 7,000+ free 3D and animated icons plus icon fonts in line, monochrome, solid and thin line styles. Use them in your web, iOS or Android design projects.
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
@@ -1960,6 +1962,7 @@
 
 ## JavaScript 
 
+- [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
@@ -2657,7 +2660,7 @@
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is the first full-stack session replay and API call exploration tool. Using WireQuery, you get a holistic overview of how an issue came into existence.
 - [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast player for Android in Kotlin with androidx.media3
-- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent 
+- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（开源 AI  编程助手） with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Do
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other panels with an independent custom theme eng
 - [Rhovas/Interpreter](https://github.com/Rhovas/Interpreter) - The interpreter for Rhovas, a programming language for API design and enforcement.
@@ -2824,6 +2827,7 @@
 
 ## Nix 
 
+- [nix-community/flake-firefox-nightly](https://github.com/nix-community/flake-firefox-nightly) - this provides an auto-updating flake for firefox-nightly-bin from nixpkgs-mozilla [maintainer=@colemickens, @Artturin]
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
@@ -3584,7 +3588,7 @@
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [rustedpy/result](https://github.com/rustedpy/result) - A simple Rust like Result type for Python 3. Fully type annotated.
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -4641,7 +4645,7 @@
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [javierhonduco/sweeper](https://github.com/javierhonduco/sweeper) - 🧹🧹🧹 File expiration for any filesystem
@@ -5319,6 +5323,7 @@
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [jlmcgraw/apply_powertop_recommended_settings](https://github.com/jlmcgraw/apply_powertop_recommended_settings) - Creates a shell script to automatically apply powertop's recommended power settings under Linux
+- [MaskRay/Config](https://github.com/MaskRay/Config) - My config for gentoo linux, xmonad, vim, emacs, git, mutt, newsbeuter, tmux, pentadactyl, npm, idesk, xbindkeys, ...
 - [moustacheful/myrmidon](https://github.com/moustacheful/myrmidon) - A rofi task / command executor
 - [losoliveirasilva/rofigen](https://github.com/losoliveirasilva/rofigen) - Rofi menu generator
 - [jbriales/xkb-extended-keys](https://github.com/jbriales/xkb-extended-keys) - Boosts your performance mapping useful keys within reach
@@ -5407,6 +5412,7 @@
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [coracle-social/coracle](https://github.com/coracle-social/coracle) - A Nostr client that makes relays a first-class concept
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
+- [spences10/svead](https://github.com/spences10/svead) - Svead 🍺, a component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags, and schema.org data.
 - [Gibbu/svoast](https://github.com/Gibbu/svoast) - A simple toast component for Svelte.
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
@@ -5478,10 +5484,6 @@
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [tryhardfifi/breathe](https://github.com/tryhardfifi/breathe) - breathe is a (distraction-free) peripheral breath trainer, it helps you breathe correctly so you can stay calm and focus on what matters.
 
-## Tcl 
-
-- [MaskRay/Config](https://github.com/MaskRay/Config) - My config for gentoo linux, xmonad, vim, emacs, git, mutt, newsbeuter, tmux, pentadactyl, npm, idesk, xbindkeys, ...
-
 ## TeX 
 
 - [TinyVG/specification](https://github.com/TinyVG/specification) - The specification for TinyVG. This is the central authority for the file system
@@ -5502,7 +5504,12 @@
 
 ## TypeScript 
 
-- [valyentdev/software-citadel](https://github.com/valyentdev/software-citadel) - Software Citadel is an open-source cloud platform for developers.
+- [mesqueeb/copy-anything](https://github.com/mesqueeb/copy-anything) - An optimised way to copy'ing (cloning) an Object or Array. A small and simple integration
+- [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
+- [mesqueeb/sha-anything](https://github.com/mesqueeb/sha-anything) - A tiny TS utility to sha256 anything, including objects
+- [withastro/wormhole](https://github.com/withastro/wormhole) - 
+- [HiDeoo/starlight-blog](https://github.com/HiDeoo/starlight-blog) - Starlight plugin to add a blog to your documentation
+- [joeltg/react-lezer-highlighter](https://github.com/joeltg/react-lezer-highlighter) - A tiny syntax highlighter for React using Lezer parsers
 - [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
 - [KarimAziev/chrome-emacs](https://github.com/KarimAziev/chrome-emacs) - Chrome and Firefox extension designed for bi-directional editing from Emacs, providing cursor and scroll synchronization, auto-major mode detection, and support for most online editors.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
@@ -5848,7 +5855,6 @@
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [betwixt-labs/tempo](https://github.com/betwixt-labs/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [components-ai/css.gui](https://github.com/components-ai/css.gui) - Visual development environment for CSS
-- [spences10/svead](https://github.com/spences10/svead) - Svead 🍺, a component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags, and schema.org data.
 - [oekazuma/svelte-meta-tags](https://github.com/oekazuma/svelte-meta-tags) - Svelte Meta Tags provides components designed to help you manage SEO for Svelte projects.
 - [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap) - Sitemap generator for SvelteKit. Small helper which scans your SvelteKit routes and generates static sitemap.xml
 - [lezer-parser/generator](https://github.com/lezer-parser/generator) - Parser generator for the lezer incremental parser
