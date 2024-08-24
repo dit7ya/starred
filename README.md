@@ -399,7 +399,6 @@
 
 ## C++ 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [dawsers/hyprscroller](https://github.com/dawsers/hyprscroller) - Hyprland layout plugin providing a scrolling layout like PaperWM
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [locaal-ai/obs-localvocal](https://github.com/locaal-ai/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
@@ -539,7 +538,7 @@
 - [RogueScholar/fingerprint-gui](https://github.com/RogueScholar/fingerprint-gui) - Use fingerprint readers with a Linux desktop environment
 - [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -573,6 +572,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [tobiasahlin/bendable](https://github.com/tobiasahlin/bendable) - Fluid & adaptive type with composable CSS utilities
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -788,7 +788,7 @@
 ## Emacs Lisp 
 
 - [Artawower/orgnote.el](https://github.com/Artawower/orgnote.el) - Package for syncing roam notes with external second brain service.
-- [emacsomancer/org-roam-daily-reflection](https://github.com/emacsomancer/org-roam-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
+- [emacsomancer/org-daily-reflection](https://github.com/emacsomancer/org-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
 - [rtrppl/orgrr](https://github.com/rtrppl/orgrr) - Orgrr is a minimalist but complete note-taking system for Emacs. Its intended purpose is the creation and management of a Zettelkasten-like system.
 - [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
 - [armindarvish/consult-web](https://github.com/armindarvish/consult-web) - Powerful Web and Omni Search inside Emacs
@@ -844,6 +844,7 @@
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [anticomputer/age.el](https://github.com/anticomputer/age.el) - Transparent age encryption support for Emacs modeled after EPG/EPA
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
 - [samrawal/gpt-emacs-macro](https://github.com/samrawal/gpt-emacs-macro) - Connect GPT-3 to Emacs and run "semantic" kbd macros
 - [ii/emacs-coder](https://github.com/ii/emacs-coder) - 
@@ -1241,6 +1242,8 @@
 
 ## Go 
 
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, etc.) with SQL
+- [valyentdev/ferdinand](https://github.com/valyentdev/ferdinand) - Open-source email delivery service for developers.
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source microVMs orchestrator.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -1714,7 +1717,6 @@
 - [eth-limo/eth.limo](https://github.com/eth-limo/eth.limo) - Infrastructure stack for eth.limo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
@@ -1962,6 +1964,8 @@
 
 ## JavaScript 
 
+- [Microflash/rehype-starry-night](https://github.com/Microflash/rehype-starry-night) - Rehype plugin to highlight code with Starry Night
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -2455,7 +2459,7 @@
 - [diegodlh/unofficial-hypothesis-extension](https://github.com/diegodlh/unofficial-hypothesis-extension) - Unofficial Hypothesis extension.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) - Multi-platform Twitter Client built with React, Redux and Electron
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -2583,7 +2587,7 @@
 
 - [open-spaced-repetition/srs-benchmark](https://github.com/open-spaced-repetition/srs-benchmark) - A benchmark for spaced repetition schedulers/algorithms
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
@@ -4232,7 +4236,6 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -4473,7 +4476,7 @@
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [evilsocket/nerve](https://github.com/evilsocket/nerve) - Instrument any LLM to do actual stuff.
-- [louis030195/screen-pipe](https://github.com/louis030195/screen-pipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [open-spaced-repetition/fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) - FSRS for Rust, including Optimizer and Scheduler
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
@@ -4864,7 +4867,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -5145,6 +5148,7 @@
 
 ## Shell 
 
+- [bfpimentel/dotfiles](https://github.com/bfpimentel/dotfiles) - My dotfiles configuration for MacOS and Linux. Not stable. Just for demo purposes.
 - [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
@@ -5319,7 +5323,7 @@
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
-- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [jlmcgraw/apply_powertop_recommended_settings](https://github.com/jlmcgraw/apply_powertop_recommended_settings) - Creates a shell script to automatically apply powertop's recommended power settings under Linux
@@ -5470,6 +5474,7 @@
 
 ## Swift 
 
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Take color-accurate timelapses of your screens and cameras on MacOS
@@ -5504,6 +5509,9 @@
 
 ## TypeScript 
 
+- [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
+- [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [mesqueeb/copy-anything](https://github.com/mesqueeb/copy-anything) - An optimised way to copy'ing (cloning) an Object or Array. A small and simple integration
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [mesqueeb/sha-anything](https://github.com/mesqueeb/sha-anything) - A tiny TS utility to sha256 anything, including objects
@@ -5637,7 +5645,7 @@
 - [thefrontside/effection](https://github.com/thefrontside/effection) - Structured concurrency and effects for JavaScript
 - [tombroomfield/CanIKit](https://github.com/tombroomfield/CanIKit) - The missing SvelteKit Authorization library!
 - [paoloricciuti/sveltekit-view-transition](https://github.com/paoloricciuti/sveltekit-view-transition) - Start using view transitions without any hassle!
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
 - [yumauri/effector-storage](https://github.com/yumauri/effector-storage) - Module for Effector ☄️ to sync stores with `localStorage` (or `sessionStorage`)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
@@ -6528,7 +6536,6 @@
 
 ## templ 
 
-- [valyentdev/ferdinand](https://github.com/valyentdev/ferdinand) - Open-source email delivery service for developers.
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 
 
