@@ -321,7 +321,7 @@
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1208,6 +1208,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
@@ -1543,6 +1544,7 @@
 
 ## chrome-extension 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [KarimAziev/chrome-emacs](https://github.com/KarimAziev/chrome-emacs) - Chrome and Firefox extension designed for bi-directional editing from Emacs, providing cursor and scroll synchronization, auto-major mode detection, and support for most online editors.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
@@ -2792,7 +2794,7 @@
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database.
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -2939,6 +2941,7 @@
 
 ## dotfiles 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) - Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [storopoli/flakes](https://github.com/storopoli/flakes) - NixOS/MacOS Nix Minimalist-Hardened-Privacy-oriented Configs
@@ -3458,6 +3461,7 @@
 
 ## firefox 
 
+- [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [KarimAziev/chrome-emacs](https://github.com/KarimAziev/chrome-emacs) - Chrome and Firefox extension designed for bi-directional editing from Emacs, providing cursor and scroll synchronization, auto-major mode detection, and support for most online editors.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that deletes your news feed and replaces it with a nice quote
@@ -4325,6 +4329,8 @@
 
 ## hacktoberfest 
 
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -5831,6 +5837,7 @@
 
 ## linux 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -7256,6 +7263,8 @@
 
 ## others 
 
+- [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+- [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [bfpimentel/dotfiles](https://github.com/bfpimentel/dotfiles) - My dotfiles configuration for MacOS and Linux. Not stable. Just for demo purposes.
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
 - [Microflash/rehype-starry-night](https://github.com/Microflash/rehype-starry-night) - Rehype plugin to highlight code with Starry Night
@@ -7372,7 +7381,7 @@
 - [qwacko/skGuard](https://github.com/qwacko/skGuard) - 
 - [nix-community/templates](https://github.com/nix-community/templates) - Nix flake templates managed by the community [maintainer=@IogaMaster]
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is yet another fast serving framework for large language models and vision language models.
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [knarkzel/bix](https://github.com/knarkzel/bix) - Use Nix to build project and run it with Bun
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
@@ -7834,7 +7843,7 @@
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [idlip/d-nix](https://github.com/idlip/d-nix) - ❄️ Nixyfied Setup with the Power of Org-Mode 👑 Emacs
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [Cerebras/modelzoo](https://github.com/Cerebras/modelzoo) - 
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources.
@@ -10988,7 +10997,7 @@
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
-- [elfo-rs/elfo](https://github.com/elfo-rs/elfo) - Your next actor system
+- [elfo-rs/elfo](https://github.com/elfo-rs/elfo) - An asynchronous distributed actor framework in Rust with robust observability
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a modern and secure command-line tool that simplifies the management of environment variables
@@ -11489,7 +11498,7 @@
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database.
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [ntnj/tunwg](https://github.com/ntnj/tunwg) - Secure private tunnel to your local servers
@@ -11871,7 +11880,7 @@
 
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -11961,7 +11970,7 @@
 - [snuffyDev/svelte-worker-store](https://github.com/snuffyDev/svelte-worker-store) - :zap: Turbocharge your apps with multithreaded Svelte stores.
 - [samuba/awesome-svelte-stores](https://github.com/samuba/awesome-svelte-stores) - A list of awesome Svelte stores
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database.
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
@@ -12560,7 +12569,7 @@
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database.
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [ElianCodes/brutal](https://github.com/ElianCodes/brutal) - A neobrutalism Astro starter theme
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
@@ -12615,7 +12624,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [neuledge/computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 - [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr) - 🔥 Svelte stale while revalidate (SWR) data fetching strategy
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
@@ -13163,6 +13172,7 @@
 
 ## website 
 
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [guyandtheworld/reallyconfused](https://github.com/guyandtheworld/reallyconfused) - Explore, Create and Share Learning Roadmaps in Tech 📍 🚀  🧗 🎒
