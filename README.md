@@ -2007,7 +2007,6 @@
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
-- [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [catdadcode/svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -2838,6 +2837,7 @@
 
 ## Nix 
 
+- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [nix-community/flake-firefox-nightly](https://github.com/nix-community/flake-firefox-nightly) - this provides an auto-updating flake for firefox-nightly-bin from nixpkgs-mozilla [maintainer=@colemickens, @Artturin]
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
@@ -3441,7 +3441,7 @@
 - [swyxio/gpt3-list](https://github.com/swyxio/gpt3-list) - List of things that people are claiming is enabled by GPT3. unverified but links to sources.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [tarsius/elisp-maintainers](https://github.com/tarsius/elisp-maintainers) - Elisp maintainers and how to support them
@@ -3478,7 +3478,7 @@
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
 - [vikaskyadav/awesome-bash-alias](https://github.com/vikaskyadav/awesome-bash-alias) - A curated list of awesome Bash aliases.
 - [alphapapa/transclusion-in-emacs](https://github.com/alphapapa/transclusion-in-emacs) - Resources about implementing transclusion in Emacs
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [Emonshr/goti_layout](https://github.com/Emonshr/goti_layout) - Goti is a Bangla keyboard layout, inspired from Avro, Probhat and Boishakhi layout.
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
@@ -3578,7 +3578,7 @@
 
 ## Python 
 
-- [bolna-ai/bolna](https://github.com/bolna-ai/bolna) - End-to-end platform for building voice first multimodal agents
+- [voxos-ai/bolna](https://github.com/voxos-ai/bolna) - End-to-end platform for building voice first multimodal agents
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
@@ -4887,7 +4887,7 @@
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [TyberiusPrime/anysnake2](https://github.com/TyberiusPrime/anysnake2) - Leverage nix to build fully reproducible containers for scientific work
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
-- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS
+- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
@@ -5031,7 +5031,7 @@
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [wezm/bar](https://github.com/wezm/bar) - A bar that lives in the awesome window manager wibar
@@ -5518,6 +5518,7 @@
 
 ## TypeScript 
 
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
@@ -5664,6 +5665,7 @@
 - [williamtroup/Syntax.js](https://github.com/williamtroup/Syntax.js) - 💻 A lightweight, and easy-to-use, JavaScript library for code syntax highlighting!
 - [Runroom/design-tokens](https://github.com/Runroom/design-tokens) - Runroom implementation of Figma design tokens
 - [d01000100/figma-token-engine](https://github.com/d01000100/figma-token-engine) - Tool that transforms design tokens from Figma to code
+- [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, lightning fast, object pseudo-database for S3-compatible storages using Avro schema
 - [Lissy93/cso](https://github.com/Lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
@@ -5923,7 +5925,7 @@
 - [lezer-parser/lr](https://github.com/lezer-parser/lr) - Incremental parsing system
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [pomber/docusaurus-mdx-2](https://github.com/pomber/docusaurus-mdx-2) - A Docusaurus theme to add support for MDX v2
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [msgpack/msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - @msgpack/msgpack - MessagePack for JavaScript / msgpack.org[JavaScript/TypeScript/ECMA-262]
 - [nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter) - Zoomable, animated scatterplots in the browser that scales over a billion points
