@@ -3645,7 +3645,7 @@
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [InfrHQ/server](https://github.com/InfrHQ/server) - Infr is an autonomous, open-source platform for data collection, storage, & retrieval that you can self-host.
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
@@ -5543,6 +5543,7 @@
 
 ## TypeScript 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [franciscoBSalgueiro/en-croissant](https://github.com/franciscoBSalgueiro/en-croissant) - The Ultimate Chess Toolkit
 - [giacomoran/sveltekit-effect-rpc](https://github.com/giacomoran/sveltekit-effect-rpc) - 
 - [miunau/svelte5-fsm](https://github.com/miunau/svelte5-fsm) - Finite State Machine for Svelte 5
