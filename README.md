@@ -400,6 +400,7 @@
 
 ## C++ 
 
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [dawsers/hyprscroller](https://github.com/dawsers/hyprscroller) - Hyprland layout plugin providing a scrolling layout like PaperWM
@@ -2272,6 +2273,7 @@
 - [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
+- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search through a website's history.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [Treora/dom-highlight-range](https://github.com/Treora/dom-highlight-range) - 
@@ -2836,6 +2838,7 @@
 ## Markdown 
 
 - [yuuire/guide](https://github.com/yuuire/guide) - 🔏 A Complete Guide To Privacy, Security & Anonymity
+- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -2861,6 +2864,8 @@
 
 ## Nix 
 
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A framework for configuring neovim like neovim via nix, and having multiple config profiles. (with example config(s) and in-editor help)
+- [jcszymansk/nixcasks](https://github.com/jcszymansk/nixcasks) - Homebrew casks, nixified
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
@@ -2941,7 +2946,6 @@
 - [NixNeovim/NixNeovim](https://github.com/NixNeovim/NixNeovim) - Configure Neovim with Nix!
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [Xe/iosevka](https://github.com/Xe/iosevka) - The Iosevka Iaso font set
-- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [aakropotkin/flocoPackages](https://github.com/aakropotkin/flocoPackages) - A collection of Node.js+Nix packages created with `floco'.
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code!
@@ -3148,6 +3152,7 @@
 
 ## Others 
 
+- [patsytau/anki_german_a1_vocab](https://github.com/patsytau/anki_german_a1_vocab) - Source for Anki deck "Goethe Institute A1 Wordlist"
 - [mwcvitkovic/neuromodulation_modalities](https://github.com/mwcvitkovic/neuromodulation_modalities) - Every way to change your mind
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
@@ -3347,7 +3352,6 @@
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [dundalek/awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
 - [liveviews/liveviews](https://github.com/liveviews/liveviews) - Phoenix LiveView workalikes for different languages and frameworks
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -3623,7 +3627,7 @@
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
-- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Automate development gruntwork like code reviews, patching and documentation with LLM workflows.
+- [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Automate code reviews, patching and documentation with self-hosted LLM workflows.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -3855,7 +3859,7 @@
 - [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [botcity-dev/botcity-framework-core-python](https://github.com/botcity-dev/botcity-framework-core-python) - BotCity Framework - Python
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -4515,6 +4519,7 @@
 
 ## Rust 
 
+- [simmsb/rusty-dilemma](https://github.com/simmsb/rusty-dilemma) - Firmware for the Dilemma (or really any rp2040 split keyboard) written in Rust
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
 - [thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico) - A Lightweight Electron App Container
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
@@ -4587,7 +4592,7 @@
 - [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [quodlibetor/git-instafix](https://github.com/quodlibetor/git-instafix) - Amend old git commits with a simple UI.
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
-- [smallcloudai/refact-lsp](https://github.com/smallcloudai/refact-lsp) - LSP server for Refact, suitable for Sublime Text, and other editors
+- [smallcloudai/refact-lsp](https://github.com/smallcloudai/refact-lsp) - Rust executable for Refact Agent, it lives inside your IDE and keeps AST and VecDB indexes up to date, offers agentic tools for an AI model to call. Yes, it works as a LSP server from IDE point of vie
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [sopa0/hyprsome](https://github.com/sopa0/hyprsome) - Awesome-like workspaces for Hyprland
@@ -5166,7 +5171,7 @@
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
