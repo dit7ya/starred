@@ -313,7 +313,7 @@
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
@@ -360,7 +360,7 @@
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,800 downloads.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -427,7 +427,7 @@
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [hishark/Patterns-for-Coding-Questions](https://github.com/hishark/Patterns-for-Coding-Questions) - https://www.educative.io/courses/grokking-the-coding-interview
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
+- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [Networks-Learning/memorize](https://github.com/Networks-Learning/memorize) - Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
@@ -1517,7 +1517,7 @@
 - [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,800 downloads.
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
@@ -2399,7 +2399,7 @@
 - [man-group/ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
 - [ralsei/sawzall](https://github.com/ralsei/sawzall) - A grammar of data manipulation for Racket.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
@@ -2453,7 +2453,7 @@
 - [naver/lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
-- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
+- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## data-visualization 
@@ -2506,7 +2506,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
@@ -3033,9 +3033,9 @@
 - [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
 - [cyntheticfox/nixfiles](https://github.com/cyntheticfox/nixfiles) - NixOS configuration files, meant to be easily cloned down and propagated for standard use
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
-- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, without home-manager
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -4105,7 +4105,7 @@
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework
@@ -4433,15 +4433,16 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Automate code reviews, patching and documentation with self-hosted LLM workflows.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [resonatehq/resonate](https://github.com/resonatehq/resonate) - a dead simple programming model for the cloud
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [smallcloudai/refact-lsp](https://github.com/smallcloudai/refact-lsp) - Rust executable for Refact Agent, it lives inside your IDE and keeps AST and VecDB indexes up to date, offers agentic tools for an AI model to call. Yes, it works as a LSP server from IDE point of vie
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -5195,7 +5196,7 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [emacs-lsp/dap-mode](https://github.com/emacs-lsp/dap-mode) - Emacs :heart: Debug Adapter Protocol
-- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
+- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## javafx 
@@ -6033,7 +6034,7 @@
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting sorted by minimal plan price
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
@@ -6052,7 +6053,7 @@
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [samvel1024/kbct](https://github.com/samvel1024/kbct) - Keyboard keycode mapping utility for Linux supporting layered configuration
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, without home-manager
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -6262,7 +6263,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
@@ -6427,7 +6428,7 @@
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
 - [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -6460,7 +6461,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -6987,7 +6988,7 @@
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [typicode/mistcss](https://github.com/typicode/mistcss) - 💧 Write atomic components using only CSS! (JS-from-CSS™)
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
@@ -7331,7 +7332,7 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -7496,6 +7497,7 @@
 
 ## others 
 
+- [rmcrackan/AudiobookHub](https://github.com/rmcrackan/AudiobookHub) - Software resources for improving audiobook management
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
 - [tqwewe/kameo](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 - [semnix/semnix](https://github.com/semnix/semnix) - Monorepo for Semantically Versioned Releases of Crucial Nix Dependencies
@@ -7512,7 +7514,6 @@
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico) - A Lightweight Electron App Container
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [taylorai/aiq](https://github.com/taylorai/aiq) - ai for jq
 - [fzakaria/nix-auto-follow](https://github.com/fzakaria/nix-auto-follow) - A script to achieve automatically following all flake inputs for Nix
 - [liuweiGL/vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
@@ -7521,7 +7522,7 @@
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [paoloricciuti/optimistikit](https://github.com/paoloricciuti/optimistikit) - Optimistic UI in sveltekit made easy
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
-- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [mwcvitkovic/neuromodulation_modalities](https://github.com/mwcvitkovic/neuromodulation_modalities) - Every way to change your mind
 - [noperator/sol](https://github.com/noperator/sol) - A de-minifier (formatter, exploder, beautifier) for shell one-liners
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
@@ -7648,7 +7649,6 @@
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications (WIP)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [2hdddg/zenway](https://github.com/2hdddg/zenway) - WIP sway bar alternative that is not really a bar but an overlay displayed on top of workspaces
 - [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
 - [Gako358/neovim](https://github.com/Gako358/neovim) - Neovim config for NixOS
@@ -8245,7 +8245,7 @@
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
-- [luavreis/org-mode-hs](https://github.com/luavreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [lucasvreis/org-mode-hs](https://github.com/lucasvreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [saadeghi/design-systems](https://github.com/saadeghi/design-systems) - A list of famous design systems, design languages and guidelines
 - [google-deepmind/dramatron](https://github.com/google-deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
@@ -10301,7 +10301,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
@@ -10850,7 +10850,7 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [uwu/simple-monaco](https://github.com/uwu/simple-monaco) - Monaco as easy to use UI components
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - 💧 Write atomic components using only CSS! (JS-from-CSS™)
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -11110,7 +11110,7 @@
 
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -11260,6 +11260,7 @@
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [simmsb/rusty-dilemma](https://github.com/simmsb/rusty-dilemma) - Firmware for the Dilemma (or really any rp2040 split keyboard) written in Rust
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [ryanccn/morlana](https://github.com/ryanccn/morlana) - nix-darwin utilities
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
@@ -11345,7 +11346,7 @@
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
@@ -12235,7 +12236,7 @@
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [sonyarianto/sveltekit-monaco-editor](https://github.com/sonyarianto/sveltekit-monaco-editor) - Simple and quick demo about how to integrate Monaco Editor in SvelteKit. Boring to see all samples mostly on React!
 - [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) - 🚀  Improve the Developer Experience of console
-- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
+- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [vincjo/datatables](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite) - Svelte 5 Infinite Loader using Runes
@@ -12451,7 +12452,7 @@
 - [braden-w/whispering](https://github.com/braden-w/whispering) - 
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
+- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
@@ -12823,7 +12824,7 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [mylesmmurphy/prettify-ts](https://github.com/mylesmmurphy/prettify-ts) - Prettify TypeScript: Better Type Previews
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
