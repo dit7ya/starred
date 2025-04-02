@@ -307,7 +307,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
@@ -333,7 +333,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -357,7 +357,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -401,7 +401,6 @@
 - [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
@@ -531,7 +530,7 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android supporting contents from YouTube and YT Music as well as normal podcasts.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other features with an custom theme engine, devel
 - [rvolosatovs/nixify](https://github.com/rvolosatovs/nixify) - Simple and extensible nix build library for real-world projects
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -579,7 +578,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [Tadashi-Hikari/Sapphire-Assistant-Framework](https://github.com/Tadashi-Hikari/Sapphire-Assistant-Framework) - An extensible framework for creating Android Assistants on-device. It does not require Google services or network connectivity
 - [nschnettler/Compose-Scrobbler](https://github.com/nschnettler/Compose-Scrobbler) - Scrobble is a wip music tracking and browsing app. It uses the Lastf.fm and spotify APIs to deliver data. The whole UI is created using Jetpack compose.
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to Last.fm, ListenBrainz, Libre.fm, Maloja, Pleroma or to a file
 - [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android
 - [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 - [SimpleMobileTools/Simple-SMS-Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - An easy and quick way of managing SMS and MMS messages without ads.
@@ -677,7 +676,7 @@
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -767,7 +766,7 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -826,7 +825,7 @@
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [botcity-dev/botcity-framework-core-python](https://github.com/botcity-dev/botcity-framework-core-python) - BotCity Framework - Python
@@ -2032,7 +2031,7 @@
 
 ## code 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [williamtroup/Syntax.js](https://github.com/williamtroup/Syntax.js) - 💻 A lightweight, and easy-to-use, JavaScript library for code syntax highlighting!
 - [laurentpayot/verticalize](https://github.com/laurentpayot/verticalize) - A pipe-like function to verticalize your JavaScript code
@@ -3753,7 +3752,7 @@
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [gridaco/code](https://github.com/gridaco/code) - Design to Code Engine
@@ -3803,6 +3802,7 @@
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [Rolands-Laucis/Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) Web API framework
@@ -3813,7 +3813,7 @@
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
@@ -4047,7 +4047,7 @@
 
 ## github 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
@@ -4260,7 +4260,7 @@
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [resonatehq/resonate](https://github.com/resonatehq/resonate) - Resonate Server - A CLI, Durable Promise store, and Task Framework
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -5255,7 +5255,7 @@
 
 ## ios 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -6480,7 +6480,7 @@
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -6513,7 +6513,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for AI & LLM systems
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
@@ -6543,7 +6543,6 @@
 - [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
@@ -6625,7 +6624,7 @@
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: The bridge between ML and Ops. https://zenml.io.
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
@@ -7040,7 +7039,7 @@
 - [MellowPlayer/MellowPlayer](https://github.com/MellowPlayer/MellowPlayer) - Cloud music integration for your desktop (Mirror)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to Last.fm, ListenBrainz, Libre.fm, Maloja, Pleroma or to a file
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 
 ## mysql 
@@ -7309,7 +7308,7 @@
 - [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -8574,7 +8573,7 @@
 - [canva-public/js2nix](https://github.com/canva-public/js2nix) - Node.js modules installation using Nix
 - [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
-- [soficshift/org-mode-hs](https://github.com/soficshift/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [estradilua/org-mode-hs](https://github.com/estradilua/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [saadeghi/design-systems](https://github.com/saadeghi/design-systems) - A list of famous design systems, design languages and guidelines
 - [google-deepmind/dramatron](https://github.com/google-deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
@@ -10438,7 +10437,7 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [c2FmZQ/c2FmZQ](https://github.com/c2FmZQ/c2FmZQ) - Securely encrypt, store, and share files, including but not limited to pictures and videos.
 - [WardPearce/Syncpad](https://github.com/WardPearce/Syncpad) - SyncPad is a privacy-focused, end-to-end encrypted note-taking app.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -10609,7 +10608,7 @@
 - [alishobeiri/thread](https://github.com/alishobeiri/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -10638,7 +10637,7 @@
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agent-integrated systems
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
@@ -12225,7 +12224,7 @@
 - [sorbayhq/sorbay](https://github.com/sorbayhq/sorbay) - Open source asynchronous video communication
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self-Hosted Stadia: Play with your friends online from any device and at any time
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
@@ -13330,7 +13329,7 @@
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
 - [primatejs/primate](https://github.com/primatejs/primate) - Web framework focused on flexibility and developer freedom
 - [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [ocluf/justship](https://github.com/ocluf/justship) - A svelte 5 and sveltekit saas boilerplate. Including database, authentication, email, analytics
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
@@ -13478,7 +13477,6 @@
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [ivanhofer/sveltekit-typescript-showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) - This repository shows how Svelte and SvelteKit work together with TypeScript.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
