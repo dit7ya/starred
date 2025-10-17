@@ -327,6 +327,7 @@
 
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
@@ -336,7 +337,7 @@
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [aorwall/moatless-tools](https://github.com/aorwall/moatless-tools) - 
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
@@ -623,11 +624,11 @@
 
 ## android 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [soupslurpr/Transcribro](https://github.com/soupslurpr/Transcribro) - Private and on-device speech recognition keyboard and service for Android.
 - [DevelopmentCool2449/onyx-emacs](https://github.com/DevelopmentCool2449/onyx-emacs) - Onyx Emacs - An emacs android configuration for note taking with org-mode and markdown
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download on all your devices
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
@@ -4106,7 +4107,7 @@
 
 ## flutter 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download on all your devices
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -4153,7 +4154,7 @@
 
 ## framework 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [typeconf/typeconf](https://github.com/typeconf/typeconf) - Make small changes without deploying your app. Define feature flags, prompts, or any experiments right in Typescript!
@@ -4943,6 +4944,7 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
@@ -4951,6 +4953,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
@@ -5086,6 +5089,7 @@
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [slipHQ/run-wasm](https://github.com/slipHQ/run-wasm) - Run WASM based code executions in the browser easily
+- [dodona-edu/papyros](https://github.com/dodona-edu/papyros) - 📜 Scratchpad for Python and JS, running in the browser.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -5648,7 +5652,7 @@
 
 ## ios 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [Tozaburo/liquid-glass-svelte](https://github.com/Tozaburo/liquid-glass-svelte) - Svelte component to implement Apple’s Liquid Glass.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -6593,7 +6597,7 @@
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download on all your devices
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
@@ -6866,7 +6870,7 @@
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [runebookai/tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [mjrusso/wingman](https://github.com/mjrusso/wingman) - Emacs package for LLM-assisted code/text completion
@@ -7399,7 +7403,7 @@
 
 ## mobile 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
@@ -7810,7 +7814,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
@@ -8297,7 +8301,6 @@
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [steveyegge/efrit](https://github.com/steveyegge/efrit) - A native elisp coding agent running in Emacs
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
 - [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create a NixOS VM using Lima
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint) - ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
@@ -9234,7 +9237,6 @@
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [ApryseSDK/web-to-pdf](https://github.com/ApryseSDK/web-to-pdf) - Convert any web technology to PDF (HTML to PDF, html2pdf)
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
-- [dodona-edu/papyros](https://github.com/dodona-edu/papyros) - 📜 Scratchpad for Python and JS, running in the browser.
 - [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
@@ -10805,7 +10807,7 @@
 ## p2p 
 
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download on all your devices
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -12054,7 +12056,7 @@
 - [reaviz/reagraph](https://github.com/reaviz/reagraph) - 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
@@ -14814,7 +14816,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
@@ -15042,7 +15044,7 @@
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Just pick a Torrent, stream and download on all your devices
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
