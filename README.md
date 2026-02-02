@@ -1427,7 +1427,7 @@
 - [webmeshproj/webmesh](https://github.com/webmeshproj/webmesh) - A simple, distributed, zero-configuration WireGuard mesh solution
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
@@ -3853,7 +3853,7 @@
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 - [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) - An MCP server that autonomously evaluates web applications.
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code
 - [Picovoice/orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning
@@ -4434,7 +4434,7 @@
 - [rougier/numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
 - [alqamahjsr/Algorithms](https://github.com/alqamahjsr/Algorithms) - leetcode.com , algoexpert.io solutions in python and swift
 - [partho-maple/coding-interview-gym](https://github.com/partho-maple/coding-interview-gym) - leetcode.com , algoexpert.io solutions in python and swift
-- [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
+- [rougier/org-agenda-python](https://github.com/rougier/org-agenda-python) - Org agenda in the console
 - [sharadbhat/Zomatopy](https://github.com/sharadbhat/Zomatopy) - A Python wrapper for the Zomato API.
 - [mr-karan/swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) - Analyse your swiggy orders 🍔
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -5518,7 +5518,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [darakian/ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
-- [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
+- [pier-cli/pier](https://github.com/pier-cli/pier) - A CLI to organize and run short Unix shell scripts
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [kurtlawrence/papyrus](https://github.com/kurtlawrence/papyrus) - (Rust) repl
@@ -6208,7 +6208,7 @@
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
-- [Bewinxed/river.ts](https://github.com/Bewinxed/river.ts) - Easy, Composable, and type-safe Server-Sent Events (SSE)
+- [Bewinxed/river.ts](https://github.com/Bewinxed/river.ts) - Easy, Composable, and type-safe Server-Sent Events (SSE) & Websocket Messages
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
