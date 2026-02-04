@@ -368,7 +368,7 @@
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [politza/pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [leahneukirchen/snooze](https://github.com/leahneukirchen/snooze) - run a command at a particular time
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
@@ -2550,7 +2550,7 @@
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra 
+- [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
@@ -2912,6 +2912,7 @@
 
 ## Lua 
 
+- [koreader/contrib](https://github.com/koreader/contrib) - Collection of non-official plugins designed for KOReader
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb]
 - [HLANoVR/HLA-NoVR](https://github.com/HLANoVR/HLA-NoVR) - NoVR mod for Half-Life: Alyx
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
@@ -4923,6 +4924,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [open-spaced-repetition/fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) - FSRS for Rust, including Optimizer and Scheduler
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
@@ -5996,7 +5998,7 @@
 - [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [aperturerobotics/goscript](https://github.com/aperturerobotics/goscript) - Go to TypeScript transpiler
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
-- [majcheradam/ocrbase](https://github.com/majcheradam/ocrbase) - 📄 PDF -&gt;.MD/.JSON API & SDK for PaddleOCR-VL with structured data extraction. Self-hostable.
+- [ocrbase-hq/ocrbase](https://github.com/ocrbase-hq/ocrbase) - 📄 PDF -&gt;.MD/.JSON API & SDK for PaddleOCR-VL with structured data extraction. Self-hostable.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
@@ -6228,7 +6230,6 @@
 - [jacobparis-insiders/sly](https://github.com/jacobparis-insiders/sly) - Monorepo for Sly CLI
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML + SCIM support this afternoon.
 - [ai-ng/swift](https://github.com/ai-ng/swift) - Fast voice assistant powered by Groq, Cartesia, and Vercel.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
 - [open-spaced-repetition/ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) - ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD.
 - [kubk/memo-card](https://github.com/kubk/memo-card) - MemoCard - Award winning Telegram app for improving memory with spaced repetition
