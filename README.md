@@ -190,6 +190,7 @@
 
 - [bruce-hill/tomo](https://github.com/bruce-hill/tomo) - Tomorrow's language
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI inference engine for mobile devices & wearables
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [ubisoft/Chroma](https://github.com/ubisoft/Chroma) - Chroma (developed by Ubisoft) is a one-stop solution for detecting color blindness-related issues in games. It replicates Protanopia, Deuteranopia, and Tritanopia filters over the game screen, helping
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
@@ -425,7 +426,6 @@
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI inference engine for mobile devices & wearables
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
@@ -1845,7 +1845,7 @@
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system 🎨 🩷
 - [lissomware/css](https://github.com/lissomware/css) - Lissom.CSS is a classless, minimalist, accessible, and themeable CSS library
-- [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
+- [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - A soft-spoken desktop environment. Harmonizing Hyprland’s logic with a gentle, minimalist aesthetic.
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [medialab/iwanthue](https://github.com/medialab/iwanthue) - Colors for data scientists.
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -3050,7 +3050,7 @@
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + zellij + neovim
-- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create a NixOS VM using Lima
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [ryuheechul/dotfiles](https://github.com/ryuheechul/dotfiles) - my dotfiles
@@ -3201,7 +3201,6 @@
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [ceedubs/unison-nix](https://github.com/ceedubs/unison-nix) - Nix support for the Unison programming language
-- [ckiee/nixfiles](https://github.com/ckiee/nixfiles) - Nix configuration files
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
@@ -3557,7 +3556,7 @@
 - [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Aquila-Network/awesome-aquila-network](https://github.com/Aquila-Network/awesome-aquila-network) - Everyting you need to know about Aquila Network Neural Search Ecosystem. Official repositories, client libraries, ecosystem projects, boilerplate, tutorials, learning and more..
 - [Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) - A repository which contains my current Nix (flake-based) setup!
 - [crev-dev/crev](https://github.com/crev-dev/crev) - Socially scalable Code REView and recommendation system that we desperately need. See http://github.com/crev-dev/cargo-crev for real implemenation.
@@ -3942,7 +3941,7 @@
 - [openinterpreter/aifs](https://github.com/openinterpreter/aifs) - Local semantic search. Stupidly simple.
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
@@ -4844,6 +4843,7 @@
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -4852,6 +4852,7 @@
 - [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust
 - [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use
@@ -4865,7 +4866,7 @@
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [noahbald/oxvg](https://github.com/noahbald/oxvg) - Rust alternative to SVGO and (eventually) InkScape
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix
@@ -6033,7 +6034,6 @@
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming.
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
@@ -6050,7 +6050,6 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
 - [yowainwright/pastoralist](https://github.com/yowainwright/pastoralist) - A CLI for magically shepherding package.json overrides 👩🏽‍🌾
 - [cloudflare/playwright-mcp](https://github.com/cloudflare/playwright-mcp) - Playwright MCP fork that works with Cloudflare Browser Rendering
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [colinhacks/zshy](https://github.com/colinhacks/zshy) - 🐒 Bundler-free build tool for TypeScript libraries. Powered by tsc.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -6112,7 +6111,7 @@
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
@@ -6280,7 +6279,7 @@
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [xkcd/incredible](https://github.com/xkcd/incredible) - A massive collaborative rube goldberg machine.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [opengovern/opensecurity](https://github.com/opengovern/opensecurity) - opensecurity: open-source security and compliance. See and secure your cloud, containers, code, networks, deployments, devices. Define your rules, get precise checks, fix gaps fast. Streamlined audits
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
@@ -6321,7 +6320,7 @@
 - [functional-ui/functional-ui-kit](https://github.com/functional-ui/functional-ui-kit) - Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine and offline support using pg, node, hono, drizzle, react, electric-sync, tanstack.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
