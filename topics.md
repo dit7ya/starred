@@ -336,7 +336,6 @@
 - [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [fubark/cosmic](https://github.com/fubark/cosmic) - A platform for computing and creating applications.
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 
 ## agent 
@@ -2820,6 +2819,7 @@
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
+- [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A curated knowledge base to build, run and mature a SOC (including CSIRT).
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -3055,7 +3055,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -8447,7 +8447,7 @@
 
 ## nosql 
 
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
@@ -8726,6 +8726,7 @@
 
 ## others 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
@@ -9391,7 +9392,7 @@
 - [MoomFE/unocss-preset-extra](https://github.com/MoomFE/unocss-preset-extra) - UnoCSS 扩展, 提供类名简写及额外一些样式预设
 - [unocss-community/unocss-preset-theme](https://github.com/unocss-community/unocss-preset-theme) - The dynamic theme presets for UnoCSS.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
-- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale setup to Fly.io
+- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [outfoxxed/hy3](https://github.com/outfoxxed/hy3) - Hyprland plugin for an i3 / sway like manual tiling layout
@@ -9497,7 +9498,7 @@
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
-- [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
+- [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to kill processes and containers running on specified ports.
 - [nilp0inter/tortoise-tts-flake](https://github.com/nilp0inter/tortoise-tts-flake) - A Nix flake to run tortoise-tts
 - [markomanninen/tortoise-tts-fast](https://github.com/markomanninen/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
@@ -9567,7 +9568,6 @@
 - [tigrisdata-archive/tigris](https://github.com/tigrisdata-archive/tigris) - Tigris is a globally distributed, multi-cloud object storage service with built-in support for the S3 API. It uses Dynamic Data Placement and Access-Based Rebalancing to deliver low-latency access wor
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
-- [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [idlip/d-nix](https://github.com/idlip/d-nix) - ❄️ Nixyfied Setup with the Power of Org-Mode 👑 Emacs
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
@@ -12882,7 +12882,7 @@
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
@@ -13607,7 +13607,7 @@
 
 ## serverless 
 
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
