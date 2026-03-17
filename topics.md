@@ -1903,7 +1903,7 @@
 - [KarimAziev/chrome-emacs](https://github.com/KarimAziev/chrome-emacs) - Chrome and Firefox extension designed for bi-directional editing from Emacs, providing cursor and scroll synchronization, auto-major mode detection, and support for most online editors.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
@@ -2020,7 +2020,7 @@
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -5275,7 +5275,6 @@
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
@@ -5373,7 +5372,6 @@
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [Kipper-Lang/Kipper](https://github.com/Kipper-Lang/Kipper) - The Kipper programming language for comprehensive and all-round type safety on the web 🦊✨ Made at HTL Leonding & JKU Linz ~ Open Dev Releases
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -9505,7 +9503,7 @@
 - [nilp0inter/tortoise-tts-flake](https://github.com/nilp0inter/tortoise-tts-flake) - A Nix flake to run tortoise-tts
 - [markomanninen/tortoise-tts-fast](https://github.com/markomanninen/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [svelteness/kit-docs](https://github.com/svelteness/kit-docs) - Documentation integration for SvelteKit.
 - [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
@@ -11704,6 +11702,7 @@
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
+- [Kipper-Lang/Kipper](https://github.com/Kipper-Lang/Kipper) - The Kipper programming language for comprehensive and all-round type safety on the web 🦊✨ Made at HTL Leonding & JKU Linz ~ Open Dev Releases
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [JasonSteving99/claro-lang](https://github.com/JasonSteving99/claro-lang) - Claro Lang
@@ -12452,7 +12451,7 @@
 - [uwu/simple-monaco](https://github.com/uwu/simple-monaco) - Monaco as easy to use UI components
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -13323,7 +13322,7 @@
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [yowainwright/pastoralist](https://github.com/yowainwright/pastoralist) - A CLI for automatically shepherding package.json overrides 👩🏽‍🌾
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -13994,7 +13993,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [uwu/simple-monaco](https://github.com/uwu/simple-monaco) - Monaco as easy to use UI components
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 - [sibiraj-s/svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) - Svelte components for tiptap v2
@@ -14812,7 +14811,7 @@
 - [mylesmmurphy/prettify-ts](https://github.com/mylesmmurphy/prettify-ts) - Prettify TypeScript: Better Type Previews
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
@@ -15445,7 +15444,7 @@
 - [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) - 🚀  Improve the Developer Experience of console
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [uwu/simple-monaco](https://github.com/uwu/simple-monaco) - Monaco as easy to use UI components
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
