@@ -383,7 +383,7 @@
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [realme-kernel-opensource/Realme2Pro-kernel-source](https://github.com/realme-kernel-opensource/Realme2Pro-kernel-source) - 
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [sharpbracket/redshift](https://github.com/sharpbracket/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 
 ## C# # 
 
@@ -1829,7 +1829,6 @@
 
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) - Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [wd-David/react-svelte5](https://github.com/wd-David/react-svelte5) - Mix-and-matching React & Svelte 5
 - [excalidraw/virgil](https://github.com/excalidraw/virgil) - The old-font that powered Excalidraw. Now replaced by Excalifont.
@@ -1945,6 +1944,7 @@
 
 ## Haskell 
 
+- [yannick-cw/korb](https://github.com/yannick-cw/korb) - REWE delivery CLI
 - [dschrempf/magix](https://github.com/dschrempf/magix) - Build, cache, and run possibly compiled scripts with dependencies using the Nix package manager
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
@@ -2054,7 +2054,7 @@
 
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [vladimirshefer/ChessGrinder](https://github.com/vladimirshefer/ChessGrinder) - ChessGrinder is a chess club web application
-- [dochia-dev/dochia-cli](https://github.com/dochia-dev/dochia-cli) - Dochia automatically generates and executes negative and boundary testing so you can focus on creative problem-solving. Because nobody wants to debug why their "enterprise-grade" API can't handle a si
+- [dochia-dev/dochia-cli](https://github.com/dochia-dev/dochia-cli) - Dochia automatically generates and executes negative and boundary testing so you and your AI agents can focus on building. Because nobody wants to debug why their "enterprise-grade" API can't handle a
 - [DotFox/capbac-bls](https://github.com/DotFox/capbac-bls) - 
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [mooltiverse/nyx](https://github.com/mooltiverse/nyx) - The one stop semantic release tool
@@ -2553,7 +2553,7 @@
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
@@ -2926,7 +2926,7 @@
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
@@ -3344,7 +3344,9 @@
 - [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [tobilg/awesome-cloudflare-containers](https://github.com/tobilg/awesome-cloudflare-containers) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [indestructible-type/Bodoni](https://github.com/indestructible-type/Bodoni) - Bodoni* by indestructible type*
 - [unocss-community/awesome-unocss](https://github.com/unocss-community/awesome-unocss) - ⚡️ A curated list of awesome things related to UnoCSS
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -3817,7 +3819,7 @@
 ## Python 
 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
 - [murtaza-nasir/whisperx-asr-service](https://github.com/murtaza-nasir/whisperx-asr-service) - 
 - [ibehnam/shellock](https://github.com/ibehnam/shellock) - Real-time CLI flag explainer for fish shell
@@ -5027,7 +5029,7 @@
 - [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij
 - [rvcas/room](https://github.com/rvcas/room) - A Zellij plugin for quickly searching and switching tabs 🖤
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
@@ -6010,6 +6012,7 @@
 - [fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes) - Themes for CodeMirror 6
 - [mikekelly/claude-sneakpeek](https://github.com/mikekelly/claude-sneakpeek) - Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode.
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
+- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [aperturerobotics/goscript](https://github.com/aperturerobotics/goscript) - Go to TypeScript transpiler
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [ocrbase-hq/ocrbase](https://github.com/ocrbase-hq/ocrbase) - 📄 PDF -&gt;.MD/.JSON API & SDK for PaddleOCR-VL with structured data extraction. Self-hostable.
@@ -6079,7 +6082,7 @@
 - [StudentOfJS/svelte5-mcp](https://github.com/StudentOfJS/svelte5-mcp) - A specialized Model Context Protocol (MCP) server for Svelte 5 frontend development
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -6970,7 +6973,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [cfworker/cfworker](https://github.com/cfworker/cfworker) - A collection of packages optimized for Cloudflare Workers and service workers.
 - [fab-spec/fab](https://github.com/fab-spec/fab) - 💎 FAB project specification & monorepo
