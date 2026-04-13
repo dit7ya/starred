@@ -1325,7 +1325,7 @@
 - [jrswab/axe](https://github.com/jrswab/axe) - A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.
 - [Use-Tusk/fence](https://github.com/Use-Tusk/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A streaming multimodal database for Edge AI, and Edge Computing.
@@ -4859,7 +4859,7 @@
 - [shihanng/zellij-pane-picker](https://github.com/shihanng/zellij-pane-picker) - Quickly switch, star, and jump to panes with customizable keyboard shortcuts
 - [b0o/zjstatus-hints](https://github.com/b0o/zjstatus-hints) - 💡 A Zellij plugin adding key binding hints for zjstatus
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [NLnetLabs/roto](https://github.com/NLnetLabs/roto) - (Codeberg mirror) The statically-typed, compiled embedded scripting language for Rust, used by Rotonda.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -6003,6 +6003,7 @@
 
 ## TypeScript 
 
+- [halfwhey/claudraband](https://github.com/halfwhey/claudraband) - Claude Code for the Power User
 - [rjcorwin/cook](https://github.com/rjcorwin/cook) - A simple CLI for orchestrating Claude Code, Codex, and OpenCode
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [DenchHQ/DenchClaw](https://github.com/DenchHQ/DenchClaw) - Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need.
