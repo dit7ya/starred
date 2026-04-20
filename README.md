@@ -4886,7 +4886,7 @@
 - [thewh1teagle/mc](https://github.com/thewh1teagle/mc) - Modern file copying
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
@@ -5237,7 +5237,7 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+- [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
 - [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
@@ -5608,7 +5608,7 @@
 
 ## Shell 
 
-- [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates, native binary default, and Node.js/Bun alternatives
+- [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 - [PACHAKUTlQ/ClaudeCage](https://github.com/PACHAKUTlQ/ClaudeCage) - Claude Code running in sandbox. Packed as single portable executable with no dependency. Has better performance than official version.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
