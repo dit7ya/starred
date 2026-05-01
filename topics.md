@@ -494,7 +494,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -639,7 +639,8 @@
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -2084,7 +2085,7 @@
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
-- [resonatehq/resonate-legacy-server](https://github.com/resonatehq/resonate-legacy-server) - Distributed Async Await — Durable Executions, Dead Simple
+- [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -2359,7 +2360,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source microVMs orchestrator.
-- [resonatehq/resonate-legacy-server](https://github.com/resonatehq/resonate-legacy-server) - Distributed Async Await — Durable Executions, Dead Simple
+- [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -2910,7 +2911,6 @@
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [uwdata/arquero](https://github.com/uwdata/arquero) - Query processing and transformation of array-backed data tables.
 - [uwdata/flechette](https://github.com/uwdata/flechette) - Fast, lightweight access to Apache Arrow data.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -3400,7 +3400,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -3576,7 +3576,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
-- [resonatehq/resonate-legacy-server](https://github.com/resonatehq/resonate-legacy-server) - Distributed Async Await — Durable Executions, Dead Simple
+- [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
@@ -5045,7 +5045,6 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
-- [resonatehq/resonate-legacy-server](https://github.com/resonatehq/resonate-legacy-server) - Distributed Async Await — Durable Executions, Dead Simple
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
@@ -5434,7 +5433,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [resonatehq/resonate-legacy-server](https://github.com/resonatehq/resonate-legacy-server) - Distributed Async Await — Durable Executions, Dead Simple
+- [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -7717,7 +7716,7 @@
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -11968,7 +11967,7 @@
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -13083,6 +13082,7 @@
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safer applications.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [rustedpy/result](https://github.com/rustedpy/result) - NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
@@ -14318,7 +14318,7 @@
 ## swift 
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
