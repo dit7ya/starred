@@ -770,7 +770,7 @@
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android supporting contents from YouTube and YT Music as well as normal podcasts.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, de
@@ -783,7 +783,7 @@
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - An open-source on-device voice IME (keyboard) for Android using the Vosk library.
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -2899,7 +2899,7 @@
 ## dart 
 
 - [BillDietrich/fake_contacts](https://github.com/BillDietrich/fake_contacts) - Create fake phone contacts, to do data-poisoning.
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
@@ -4491,7 +4491,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [gridaco/code](https://github.com/gridaco/code) - Design to Code Engine
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -6106,7 +6106,7 @@
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
@@ -6157,7 +6157,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, de
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -6892,7 +6892,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [Rhovas/Interpreter](https://github.com/Rhovas/Interpreter) - The interpreter for Rhovas, a programming language for API design and enforcement.
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
@@ -7990,7 +7990,7 @@
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -9650,7 +9650,7 @@
 - [nilp0inter/tortoise-tts-flake](https://github.com/nilp0inter/tortoise-tts-flake) - A Nix flake to run tortoise-tts
 - [markomanninen/tortoise-tts-fast](https://github.com/markomanninen/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [svelteness/kit-docs](https://github.com/svelteness/kit-docs) - Documentation integration for SvelteKit.
 - [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
