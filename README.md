@@ -1344,7 +1344,7 @@
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 - [pottekkat/sandbox-mcp](https://github.com/pottekkat/sandbox-mcp) - A Model Context Protocol (MCP) server that enables LLMs to run ANY code safely in isolated Docker containers.
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Oper
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -1880,6 +1880,7 @@
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
+- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
@@ -3534,7 +3535,6 @@
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
@@ -6585,7 +6585,7 @@
 - [Mokshit06/sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte (like Tetris)
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [lezer-parser/import-tree-sitter](https://github.com/lezer-parser/import-tree-sitter) - Helps import tree-sitter grammars
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [replit/codemirror-interact](https://github.com/replit/codemirror-interact) - 
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
