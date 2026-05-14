@@ -1593,7 +1593,7 @@
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
@@ -2137,7 +2137,6 @@
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -3850,7 +3849,7 @@
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 - [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) - An MCP server that autonomously evaluates web applications.
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural (2-way) voice conversations with Claude Code
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code
 - [Picovoice/orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) - The Official Model Context Protocol (MCP) server for Kagi search & other tools.
@@ -4945,7 +4944,7 @@
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [Winston-cs/zellij-jump-list](https://github.com/Winston-cs/zellij-jump-list) - Just like how Vim, Neovim, and Emacs users have a jump list for different navigation, now Zellij users can have that as well!
 - [karimould/zellij-forgot](https://github.com/karimould/zellij-forgot) - A Zellij plugin to remember your keybinds and all the other things you want to remember
@@ -6082,6 +6081,7 @@
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -6089,7 +6089,7 @@
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+- [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
@@ -6362,7 +6362,7 @@
 - [williamtroup/Syntax.js](https://github.com/williamtroup/Syntax.js) - 💻 A lightweight, and easy-to-use, JavaScript library for code syntax highlighting!
 - [Runroom/design-tokens](https://github.com/Runroom/design-tokens) - Runroom implementation of Figma design tokens
 - [d01000100/figma-token-engine](https://github.com/d01000100/figma-token-engine) - Tool that transforms design tokens from Figma to code
-- [Lissy93/cso](https://github.com/Lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks
+- [lissy93/cso](https://github.com/lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks
 - [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Agent native MCP Gateway for governance and security
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
@@ -7136,7 +7136,7 @@
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) - A browser extension that lets you click with your keyboard.
 - [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [tabwrangler/tabwrangler](https://github.com/tabwrangler/tabwrangler) - A browser extension that automatically closes your unused tabs so you can focus on the tabs that matter
@@ -7194,7 +7194,7 @@
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
