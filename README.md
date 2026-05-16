@@ -1931,7 +1931,6 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [johnchandlerburnham/hpfp](https://github.com/johnchandlerburnham/hpfp) - Exercises and Projects for Haskell Programming from First Principles by Allen & Moronuki
-- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [c-okelly/anki-remote-decks](https://github.com/c-okelly/anki-remote-decks) - Addon for Anki - Creating remote decks in Google Docs
@@ -2468,7 +2467,6 @@
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [mechaniac/Map-of-Javascript](https://github.com/mechaniac/Map-of-Javascript) - Javascript on one sheet. (and one for algorithms)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [moonad/Formality-tmp](https://github.com/moonad/Formality-tmp) - 
@@ -2717,6 +2715,7 @@
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -3160,7 +3159,6 @@
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [foo-dogsquared/nix-overlay-guix](https://github.com/foo-dogsquared/nix-overlay-guix) - A package and module for using GNU Guix on Nix(OS).
 - [rikhuijzer/cache-install](https://github.com/rikhuijzer/cache-install) - Use the GitHub Actions cache for Nix packages
-- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [mpontus/templates](https://github.com/mpontus/templates) - 
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
@@ -4816,7 +4814,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -4929,7 +4927,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [open-spaced-repetition/fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) - FSRS for Rust, including Optimizer and Scheduler
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed inference for mobile, desktop and server.
@@ -4987,7 +4985,7 @@
 - [seliumlabs/selium](https://github.com/seliumlabs/selium) - A software framework and runtime for building scalable, connected applications
 - [wingbackapp/kind](https://github.com/wingbackapp/kind) - Costless typed identifiers backed by UUID, with kind readable in serialized versions
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -5640,6 +5638,7 @@
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
 - [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.
@@ -6103,7 +6102,7 @@
 - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [TanStack/db](https://github.com/TanStack/db) - The reactive client store for your API.
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
@@ -6122,7 +6121,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [quansync-dev/quansync](https://github.com/quansync-dev/quansync) - "Superposition" between sync and async
 - [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
@@ -6975,6 +6974,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
