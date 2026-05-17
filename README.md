@@ -641,6 +641,7 @@
 - [caiorss/Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
 - [diego-vicente/org-css](https://github.com/diego-vicente/org-css) - An org-mode compatible stylesheet
 - [jessekelly881/Rethink](https://github.com/jessekelly881/Rethink) - Another in the line of beautiful css themes for org exports using professional web development techniques. Targeted at clean, technical content.
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mattdark/reveal.js-gallery](https://github.com/mattdark/reveal.js-gallery) - A gallery for your reveal.js presentations
 - [maateen/bangla-web-fonts](https://github.com/maateen/bangla-web-fonts) - Making the web more beautiful, fast, and open through great Bengali typography.
@@ -2715,7 +2716,6 @@
 - [codeforequity-at/botium-speech-processing](https://github.com/codeforequity-at/botium-speech-processing) - Botium Speech Processing
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
-- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -4927,7 +4927,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [open-spaced-repetition/fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) - FSRS for Rust, including Optimizer and Scheduler
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed inference for mobile, desktop and server.
@@ -6060,7 +6060,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [fullofcaffeine/EspressoBar](https://github.com/fullofcaffeine/EspressoBar) - Your org repo's focus area. A persistent workbench for what matters right now. For emacs/orgmode enthusiasts.
 - [tstyche/tstyche](https://github.com/tstyche/tstyche) - Everything You Need for Type Testing.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [textcortex/claude-code-sandbox](https://github.com/textcortex/claude-code-sandbox) - Run Claude Code safely in local Docker containers without having to approve every permission (Archived, see Spritz repo for the continuation of this project)
@@ -6963,7 +6963,7 @@
 - [alienzhou/web-highlighter](https://github.com/alienzhou/web-highlighter) - ✨ A no-runtime dependency lib for text highlighting & persistence on any website ✨🖍️
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [370417/fancyground](https://github.com/370417/fancyground) - Custom arrows and square highlights for lichess.org
