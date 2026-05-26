@@ -1797,7 +1797,7 @@
 ## c-plus-plus 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C++ package manager and build system
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
@@ -3004,7 +3004,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
+- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 
@@ -3080,7 +3080,7 @@
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
-- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
+- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -3106,7 +3106,7 @@
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
-- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
+- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -3561,7 +3561,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight and powerful workflow engine that comes with a Web UI. Define workflows in a declarative YAML format. Self-contained and no DBMS is required. Use any AI agent to manage your workflows.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [typeconf/typeconf](https://github.com/typeconf/typeconf) - Make small changes without deploying your app. Define feature flags, prompts, or any experiments right in Typescript!
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
@@ -6526,7 +6526,6 @@
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [emacs-lsp/lsp-sonarlint](https://github.com/emacs-lsp/lsp-sonarlint) - lsp-mode :heart: sonarlint
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
@@ -10933,7 +10932,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, Demucs, BS-RoFormer. Built with React and Django.
+- [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, Demucs, BS-RoFormer. Started in 2019.
 - [justinbarclay/elegant-agenda-mode](https://github.com/justinbarclay/elegant-agenda-mode) - My only agenda is to be more elegant.
 - [jukefoxer/Signal-Android](https://github.com/jukefoxer/Signal-Android) - Fork from the JohanW fork of Signal, a private messenger for Android. It adds the option to import Whatsapp conversations. The purpose of this fork is to make the transition to Signal easier. It was c
 - [offerspill/advent-of-chess](https://github.com/offerspill/advent-of-chess) - Offerspill's advent calendar
@@ -11529,7 +11528,7 @@
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C++ package manager and build system
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 - [lure-sh/lure](https://github.com/lure-sh/lure) - The community repository missing from your Linux distro
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -13416,7 +13415,7 @@
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @eureka-cpu]
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
+- [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) - Hypergraph is a data structure library to create a directed hypergraph in which a hyperedge can join any number of vertices.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit.
 - [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
@@ -13705,7 +13704,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight and powerful workflow engine that comes with a Web UI. Define workflows in a declarative YAML format. Self-contained and no DBMS is required. Use any AI agent to manage your workflows.
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
