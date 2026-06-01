@@ -1800,7 +1800,7 @@
 ## c-plus-plus 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C and C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
@@ -10237,7 +10237,7 @@
 - [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
 - [mmguero/mirotalk](https://github.com/mmguero/mirotalk) - Real-time video call, chat and screen sharing. Purely browser-based, powered by WebRTC.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [Explosion-Scratch/kkhaustov-is-awesome](https://github.com/Explosion-Scratch/kkhaustov-is-awesome) - Star to change the repo title to your username!
+- [Explosion-Scratch/O957-starred-this-repo](https://github.com/Explosion-Scratch/O957-starred-this-repo) - Star to change the repo title to your username!
 - [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
@@ -11535,7 +11535,7 @@
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C and C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 - [lure-sh/lure](https://github.com/lure-sh/lure) - The community repository missing from your Linux distro
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
