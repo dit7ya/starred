@@ -12664,7 +12664,7 @@
 - [franciscoBSalgueiro/en-croissant](https://github.com/franciscoBSalgueiro/en-croissant) - The Ultimate Chess Toolkit
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
-- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - The type-safe way to build multi-step experiences in React.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [ai-ng/swift](https://github.com/ai-ng/swift) - Fast voice assistant powered by Groq, Cartesia, and Vercel.
 - [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) - 🚀  Improve the Developer Experience of console
@@ -12905,7 +12905,7 @@
 
 ## react-native 
 
-- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
+- [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - The type-safe way to build multi-step experiences in React.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [evoluhq/evolu](https://github.com/evoluhq/evolu) - TypeScript library and local-first platform
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
