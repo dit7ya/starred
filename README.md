@@ -2051,7 +2051,6 @@
 
 ## Java 
 
-- [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [vladimirshefer/ChessGrinder](https://github.com/vladimirshefer/ChessGrinder) - ChessGrinder is a chess club web application
 - [dochia-dev/dochia-cli](https://github.com/dochia-dev/dochia-cli) - Dochia automatically generates and executes negative and boundary testing so you and your AI agents can focus on building. Because nobody wants to debug why their "enterprise-grade" API can't handle a
 - [DotFox/capbac-bls](https://github.com/DotFox/capbac-bls) - 
@@ -2249,7 +2248,7 @@
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [bramstein/fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.
 - [evanw/polywasm](https://github.com/evanw/polywasm) - A JavaScript polyfill for WebAssembly
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 200 powerful ESLint rules
 - [microlinkhq/www](https://github.com/microlinkhq/www) - Generate screenshots, PDFs, previews and scrape content via a browserless API. No Puppeteer clusters to manage. Open source roots, enterprise scale.
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -2835,13 +2834,14 @@
 
 ## Kotlin 
 
+- [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [kson-org/kson](https://github.com/kson-org/kson) - A 💌 to the humans maintaining computer configurations
 - [soupslurpr/Transcribro](https://github.com/soupslurpr/Transcribro) - Private and on-device speech recognition keyboard and service for Android.
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 - [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is the first full-stack session replay and API call exploration tool. Using WireQuery, you get a holistic overview of how an issue came into existence.
 - [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android supporting contents from YouTube and YT Music as well as normal podcasts.
 - [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
@@ -3861,6 +3861,7 @@
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4o
 - [hasura/promptql-mcp](https://github.com/hasura/promptql-mcp) - Model Context Protocol (MCP) server for Hasura PromptQL
 - [Chivo-Systems/Shinar](https://github.com/Chivo-Systems/Shinar) - Open Source AI Calling Transcriptions, Summaries, and Analytics built on OpenAI Whisper
@@ -4811,7 +4812,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
@@ -5396,7 +5397,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [MiSawa/xq](https://github.com/MiSawa/xq) - Pure rust implementation of jq
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
@@ -6097,7 +6098,6 @@
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Blakintosh/svelte-flexiboards](https://github.com/Blakintosh/svelte-flexiboards) - The headless drag-and-drop toolkit for Svelte.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [MartinBspheroid/vite-static-assets-plugin](https://github.com/MartinBspheroid/vite-static-assets-plugin) - Better DX for working with static files in Vite projects using Typescript
 - [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS) - Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching. Also works for mobile!
 - [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
