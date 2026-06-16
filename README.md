@@ -742,7 +742,7 @@
 - [itopia-inc/spaces-images](https://github.com/itopia-inc/spaces-images) - Pre-configured images for itopia Spaces (IDEs, CLIs, settings, etc.)
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
 - [appleboy/telegram-action](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
@@ -1477,6 +1477,7 @@
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
+- [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL framework
 - [broodjeaap/go-watch](https://github.com/broodjeaap/go-watch) - A Go change detection server that can notify through various platforms
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
@@ -2834,7 +2835,7 @@
 
 ## Kotlin 
 
-- [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
+- [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - A powerful Whisper AI keyboard for reliable speech transcription
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [kson-org/kson](https://github.com/kson-org/kson) - A 💌 to the humans maintaining computer configurations
 - [soupslurpr/Transcribro](https://github.com/soupslurpr/Transcribro) - Private and on-device speech recognition keyboard and service for Android.
@@ -3947,6 +3948,7 @@
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [InfrHQ/server](https://github.com/InfrHQ/server) - Infr is an autonomous, open-source platform for data collection, storage, & retrieval that you can self-host.
@@ -3954,7 +3956,6 @@
 - [durableOne/orgmunge](https://github.com/durableOne/orgmunge) - 
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [zhudotexe/kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for tool-calling language models. (NLP-OSS @ EMNLP 2023)
 - [mljar/plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook.
 - [bsilverthorn/maccarone](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python ⏪⏩
@@ -5012,6 +5013,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) - 🦚  A web-app pentesting suite written in rust .
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
@@ -6332,7 +6334,7 @@
 - [alexyakir/functional-ui-kit](https://github.com/alexyakir/functional-ui-kit) - Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine for offline and realtime use. Postgres, openapi & react-query are foundational layers.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
@@ -6375,7 +6377,6 @@
 - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [ardov/huetone](https://github.com/ardov/huetone) - A tool to create accessible color systems
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [Snazzah/stub](https://github.com/Snazzah/stub) - A self-hostable modified fork of Dub: An open-source link shortener.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -6602,7 +6603,6 @@
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - [NOT MAINTAINING ANYMORE] A framework for Svelte Utilities 💡 Current status: 87 utilities.
 - [efstajas/svelte-stored-writable](https://github.com/efstajas/svelte-stored-writable) - ✍️💾😎 A simple drop-in extension of Svelte's writable that stores and restores its contents using localStorage.
 - [suhaildawood/SvelteKit-integrated-WebSocket](https://github.com/suhaildawood/SvelteKit-integrated-WebSocket) - First-class support for WebSockets within SvelteKit by attaching a WebSocket server to the global state.
-- [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL framework
 - [jacob-8/kitbook](https://github.com/jacob-8/kitbook) - Documentation, Prototyping, Inspection & Testing Workbench Tool for Svelte (SvelteKit Storybook alternative)
 - [ssssota/svelte-exmarkdown](https://github.com/ssssota/svelte-exmarkdown) - Svelte component to render markdown.
 - [exposr/exposrd](https://github.com/exposr/exposrd) - 🚀 Horizontally scalable reverse tunnel relay server for exposing services behind NAT/Firewalls without port forwarding (Self-hosted cloudflared/ngrok alternative).
@@ -6920,7 +6920,7 @@
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - [practice-dev/practice-dev](https://github.com/practice-dev/practice-dev) - Practice programming at https://practice.dev!
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
