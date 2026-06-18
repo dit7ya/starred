@@ -2173,7 +2173,7 @@
 - [snowfallorg/drift](https://github.com/snowfallorg/drift) - Update Nix Flake package sources.
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [js-joda/js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [rose-pine/surfingkeys](https://github.com/rose-pine/surfingkeys) - Soho vibes for Surfingkeys
@@ -4888,7 +4888,7 @@
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.
 - [bnprks/mcfly-fzf](https://github.com/bnprks/mcfly-fzf) - Integrate Mcfly with fzf to combine a solid command history database with a widely-loved fuzzy search UI
-- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
+- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
 - [gitext-rs/git-branch-stash](https://github.com/gitext-rs/git-branch-stash) - Manage snapshots of your working directory
@@ -5893,7 +5893,7 @@
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [zerodevx/svelte-img](https://github.com/zerodevx/svelte-img) - High-performance responsive/progressive images for SvelteKit
 - [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER) - ✒︎ Simply Awesome Blog Starter built with SvelteKit and Love ❤
 - [snuffyDev/svelte-worker-store](https://github.com/snuffyDev/svelte-worker-store) - :zap: Turbocharge your apps with multithreaded Svelte stores.
@@ -6403,7 +6403,7 @@
 - [Rezact/Rezact](https://github.com/Rezact/Rezact) - A JavaScript Framework/Library (call it what you want) that blends the best of svelte, solid, react, and many others.
 - [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
+- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - Sitemap focused on ease of use and making it impossible to forget to add your paths. For SvelteKit (and TanStack Start soon!)
 - [okupter/kitforstartups](https://github.com/okupter/kitforstartups) - The Open Source SvelteKit SaaS boilerplate.
 - [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
