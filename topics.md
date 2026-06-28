@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -396,6 +397,16 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## agent-skills 
+
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Agent native MCP Gateway for governance and security
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
 ## agents 
 
@@ -1806,7 +1817,7 @@
 ## c-plus-plus 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system, inspired by Cargo
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
@@ -2080,6 +2091,7 @@
 
 ## claude-code 
 
+- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -9013,7 +9025,6 @@
 - [vladimirshefer/ChessGrinder](https://github.com/vladimirshefer/ChessGrinder) - ChessGrinder is a chess club web application
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [groeneveld/mdma-guide](https://github.com/groeneveld/mdma-guide) - A manual for MDMA therapy based on memory reconsolidation.
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras) - Useful CSS custom functions using the new @​function rule
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -10241,7 +10252,7 @@
 - [cobcobs/tridactyl](https://github.com/cobcobs/tridactyl) - Soho vibes for Tridactyl
 - [troyp/.tridactyl](https://github.com/troyp/.tridactyl) - Tridactyl config folder
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
 - [mmguero/mirotalk](https://github.com/mmguero/mirotalk) - Real-time video call, chat and screen sharing. Purely browser-based, powered by WebRTC.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -11543,7 +11554,7 @@
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [scarf-sh/scarf](https://github.com/scarf-sh/scarf) - An environment manager and development tool powered by Nomia.
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system, inspired by Cargo
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 - [lure-sh/lure](https://github.com/lure-sh/lure) - The community repository missing from your Linux distro
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -13746,7 +13757,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
