@@ -1992,7 +1992,7 @@
 - [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
 - [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [qfpl/applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [BurntSushi/erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [pkamenarsky/replica](https://github.com/pkamenarsky/replica) - A remote virtual DOM library for Haskell
@@ -3044,6 +3044,7 @@
 - [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS/Linux via Lima
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
+- [ryuheechul/dotfiles](https://github.com/ryuheechul/dotfiles) - my dotfiles
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [nvmd/nixos-raspberrypi](https://github.com/nvmd/nixos-raspberrypi) - Nix flake for a fully declarative NixOS on Raspberry Pi
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
@@ -4827,7 +4828,7 @@
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [julianbuettner/zeco](https://github.com/julianbuettner/zeco) - `zellij attach` via the internet, end to end encrypted
 - [landlock-lsm/island](https://github.com/landlock-lsm/island) - Sandboxing tool powered by Landlock
-- [networkmanager-rs/nmrs](https://github.com/networkmanager-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
+- [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
@@ -5616,7 +5617,6 @@
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [Someblueman/hydra](https://github.com/Someblueman/hydra) - POSIX-compliant CLI tool that wraps tmux ≥ 3.0 and git worktree to manage parallel AI coding sessions ("heads")
 - [RchGrav/claudebox](https://github.com/RchGrav/claudebox) - The Ultimate Claude Code Docker Development Environment - Run Claude AI's coding assistant in a fully containerized, reproducible environment with pre-configured development profiles.
-- [ryuheechul/dotfiles](https://github.com/ryuheechul/dotfiles) - my dotfiles
 - [imincik/app-shell](https://github.com/imincik/app-shell) - Add specified programs (apps) on PATH.
 - [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
@@ -5880,7 +5880,6 @@
 - [WardPearce/Purplix-Archive](https://github.com/WardPearce/Purplix-Archive) - 
 - [cuire/svelte-grid-extended](https://github.com/cuire/svelte-grid-extended) - A draggable and resizable grid layout, for Svelte
 - [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components to build highly interactive applications.
-- [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
 - [EMPTYVOID-DEV/SvelteDocsMaker](https://github.com/EMPTYVOID-DEV/SvelteDocsMaker) - Documentation route component  with svelte can be used with astro or sveltekit
 - [tristan-f-r/svelte-monaco](https://github.com/tristan-f-r/svelte-monaco) - svelte + monaco integration
 - [manhhungpc/ubuntu2204-svelte](https://github.com/manhhungpc/ubuntu2204-svelte) - Recreating Ubuntu 22.04 with Svelte
@@ -6334,7 +6333,7 @@
 - [dzhng/llm-api](https://github.com/dzhng/llm-api) - Fully typed & consistent chat APIs for OpenAI, Anthropic, Groq, and Azure's chat models for browser, edge, and node environments.
 - [alexyakir/functional-ui-kit](https://github.com/alexyakir/functional-ui-kit) - Precise Figma & React components. Packed with best practices, unified prop names & consistent design and code.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine for offline and realtime use. Postgres, openapi & react-query are foundational layers.
+- [cellajs/cella](https://github.com/cellajs/cella) - Template to build modern web apps with a classic REST API. Ideal if you need offline & real-time features on day one.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
@@ -6393,6 +6392,7 @@
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [Rolands-Laucis/Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) Web API framework
 - [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components
+- [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
 - [gravity-ui/yagr](https://github.com/gravity-ui/yagr) - Yet another graph renderer
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
