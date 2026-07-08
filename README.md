@@ -1695,7 +1695,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
+- [linagora/cozy-stack](https://github.com/linagora/cozy-stack) - Simple, Versatile, Yours
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
@@ -2787,7 +2787,6 @@
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [NeuromatchAcademy/course-content-dl](https://github.com/NeuromatchAcademy/course-content-dl) - NMA deep learning course
-- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [bhattbhavesh91/cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) - Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India.
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [namangup/colab-terminal](https://github.com/namangup/colab-terminal) - Open a shell in Google Colab
@@ -4004,7 +4003,7 @@
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain LLM apps and agents automagically with FastApi. LLMops
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain apps in production using Jina & FastAPI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [corca-ai/EVAL](https://github.com/corca-ai/EVAL) - EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
@@ -4353,6 +4352,7 @@
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
