@@ -472,7 +472,6 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
@@ -793,7 +792,7 @@
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [jayjun/rambo](https://github.com/jayjun/rambo) - Run your command. Send input. Get output.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) - The GraphQL toolkit for Elixir
 - [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
@@ -1437,7 +1436,7 @@
 - [webmeshproj/webmesh](https://github.com/webmeshproj/webmesh) - A simple, distributed, zero-configuration WireGuard mesh solution
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
@@ -1841,7 +1840,7 @@
 - [groeneveld/mdma-guide](https://github.com/groeneveld/mdma-guide) - A manual for MDMA therapy based on memory reconsolidation.
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) - Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.
 - [wd-David/react-svelte5](https://github.com/wd-David/react-svelte5) - Mix-and-matching React & Svelte 5
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [excalidraw/virgil](https://github.com/excalidraw/virgil) - The old-font that powered Excalidraw. Now replaced by Excalifont.
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
@@ -2135,7 +2134,6 @@
 - [irony/aspipes](https://github.com/irony/aspipes) - 
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [csswizardry/Obs.js](https://github.com/csswizardry/Obs.js) - Context-aware web performance for everyone
-- [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -2234,7 +2232,6 @@
 - [SpongeBed81/sveltix](https://github.com/SpongeBed81/sveltix) - Better state management for Svelte & Sveltekit.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [sansolovyov/twinspark-js](https://github.com/sansolovyov/twinspark-js) - Declarative enhancement for HTML: simple, composable, lean.
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [yjs/y-codemirror.next](https://github.com/yjs/y-codemirror.next) - Collaborative extensions for CodeMirror6
 - [apostrophecms/random-words](https://github.com/apostrophecms/random-words) - Generate one or more common English words. Intended for use as sample text, for example generating random blog posts for testing
@@ -2928,7 +2925,6 @@
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
-- [contrun/infra](https://github.com/contrun/infra) - 
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [samrathchadha/kyoto.nvim](https://github.com/samrathchadha/kyoto.nvim) - kyoto.nvim is a functional, beautiful, and highly customizable neovim configuration
@@ -3227,6 +3223,7 @@
 - [wiltaylor/dotfiles-old](https://github.com/wiltaylor/dotfiles-old) - My personal dotfiles
 - [NixOS/bundlers](https://github.com/NixOS/bundlers) - Aggregated bundlers [maintainer=@tomberek, @Artturin]
 - [teamniteo/nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.
+- [contrun/infra](https://github.com/contrun/infra) - 
 - [sudosubin/home-manager-secrets](https://github.com/sudosubin/home-manager-secrets) - Secrets management for nix home-manager
 - [schuelermine/nixos-repl-setup](https://github.com/schuelermine/nixos-repl-setup) - Load in nix repl to create variables from your NixOS configuration
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -3361,7 +3358,6 @@
 - [mwcvitkovic/neuromodulation_modalities](https://github.com/mwcvitkovic/neuromodulation_modalities) - Every way to change your mind
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -3915,7 +3911,7 @@
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [evilsocket/nerve](https://github.com/evilsocket/nerve) - The Simple Agent Development Kit.
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
-- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open-source adapter between multimodal models and desktop/web GUIs. Record a workflow once, then compile it into a deterministic, self-healing replay (openadapt-flow) — or condition, train, and evalua
+- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Compile a demonstrated GUI workflow into a deterministic, locally executable program. Zero model calls on healthy runs; governed repair; halts instead of guessing. Launcher for openadapt-flow: pip ins
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -3929,6 +3925,7 @@
 - [openinterpreter/aifs](https://github.com/openinterpreter/aifs) - Local semantic search. Stupidly simple.
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -3975,6 +3972,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) - TiDB AI SDK Documentations - https://pingcap.github.io/ai/
@@ -4887,7 +4885,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
@@ -4938,7 +4936,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [ruuda/rcl](https://github.com/ruuda/rcl) - A reasonable configuration language
 - [open-spaced-repetition/fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) - FSRS for Rust, including Optimizer and Scheduler
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed inference for mobile, desktop and server.
@@ -5146,6 +5144,7 @@
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [mrmekon/circadian](https://github.com/mrmekon/circadian) - Suspend-On-Idle Daemon for GNU/Linux Power Management
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
@@ -6054,6 +6053,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [harlan-zw/mdream](https://github.com/harlan-zw/mdream) - ☁️ The fastest HTML to markdown convertor on GitHub. Optimized for LLMs and supports streaming.
+- [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
@@ -6794,7 +6794,7 @@
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React. Maintained by @goodcodeus.
 - [reaviz/reagraph](https://github.com/reaviz/reagraph) - 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus.
-- [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
+- [whitphx/stlite](https://github.com/whitphx/stlite) - Streamlit-Lite; In-browser Streamlit 🎈🚀
 - [CondeNast/atjson](https://github.com/CondeNast/atjson) - atjson is a living content format for annotating content
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [egoist/haya](https://github.com/egoist/haya) - ⚡️ esbuild based dev server and production bundler, it's really fast
