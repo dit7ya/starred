@@ -2080,7 +2080,7 @@
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 - [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [0xdad0/HideDroid](https://github.com/0xdad0/HideDroid) - HideDroid is an Android app that allows the per-app anonymization of collected personal data according to a privacy level chosen by the user.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -3779,7 +3779,7 @@
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## PLpgSQL 
@@ -4118,6 +4118,7 @@
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tom-doerr/codex.fish](https://github.com/tom-doerr/codex.fish) - Supercharge your command line with OpenAI Codex integration. Get AI-powered coding assistance right in your fish shell.
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [jordanisaacs/kernel-development-flake](https://github.com/jordanisaacs/kernel-development-flake) - Nix flake for linux kernel development (formerly kernel-module-flake)
@@ -6313,7 +6314,7 @@
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) - Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
@@ -6766,7 +6767,6 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
