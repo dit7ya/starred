@@ -419,7 +419,7 @@
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
@@ -2286,7 +2286,6 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [justinoverton/plottoriffic](https://github.com/justinoverton/plottoriffic) - Generate story plots based on Plotto
 - [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
@@ -4865,7 +4864,7 @@
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [mschwaig/laut](https://github.com/mschwaig/laut) - A new signature format for Nix - for verifiable provenance data and SBOMs.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix
@@ -6654,6 +6653,7 @@
 - [neuledge/computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
