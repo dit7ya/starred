@@ -393,7 +393,7 @@
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
-- [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
+- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [vesoapp/veso](https://github.com/vesoapp/veso) - Open source media server.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
@@ -1346,7 +1346,7 @@
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.
 - [pottekkat/sandbox-mcp](https://github.com/pottekkat/sandbox-mcp) - A Model Context Protocol (MCP) server that enables LLMs to run ANY code safely in isolated Docker containers.
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can 
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -1561,7 +1561,7 @@
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -1835,7 +1835,6 @@
 
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [groeneveld/mdma-guide](https://github.com/groeneveld/mdma-guide) - A manual for MDMA therapy based on memory reconsolidation.
-- [Equilibria-Network/eq-network](https://github.com/Equilibria-Network/eq-network) - Website for Equilibria
 - [rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js) - Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.
 - [wd-David/react-svelte5](https://github.com/wd-David/react-svelte5) - Mix-and-matching React & Svelte 5
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
@@ -2971,7 +2970,6 @@
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -3028,6 +3026,7 @@
 
 ## Nix 
 
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [denful/ned](https://github.com/denful/ned) - Functional Reactive Programming for Nix based on Cycle.js
 - [dangirsh/tsurf](https://github.com/dangirsh/tsurf) - Surf the supersonic tsunami.
 - [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Packages OpenClaw for nix.
@@ -3840,7 +3839,7 @@
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) - An MCP server that autonomously evaluates web applications.
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) - Natural voice conversations with Claude Code
 - [Picovoice/orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning
@@ -3911,7 +3910,7 @@
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [mezbaul-h/june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [freedmand/semantra-python](https://github.com/freedmand/semantra-python) - Multi-tool for semantic search
 - [openinterpreter/aifs](https://github.com/openinterpreter/aifs) - Local semantic search. Stupidly simple.
@@ -4810,9 +4809,12 @@
 
 ## Rust 
 
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
+- [dirge-code/dirge](https://github.com/dirge-code/dirge) - Dynamic Intent Resolution Grounding Engine
+- [l00sed/termixer](https://github.com/l00sed/termixer) - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [MaySeikatsu/noren](https://github.com/MaySeikatsu/noren) - A sesh-style session manager for zellij - brush through the curtain into any project
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
@@ -5529,7 +5531,6 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
-- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) - https://t.me/av1080trading Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solan
 - [mathlingua/mathlingua](https://github.com/mathlingua/mathlingua) - Mathlingua is a language used to describe mathematical definitions, theorems, conjectures, and axioms in a way that can be easily written, read, and understood by both people and computers.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org
@@ -6007,6 +6008,8 @@
 
 ## TypeScript 
 
+- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
@@ -6062,9 +6065,10 @@
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
+- [Equilibria-Network/eq-network](https://github.com/Equilibria-Network/eq-network) - Website for Equilibria
 - [FiloSottile/typage](https://github.com/FiloSottile/typage) - A TypeScript implementation of the age file encryption format, available as an npm package or as a bundled .js file.
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [possibilities/claude-code-inject](https://github.com/possibilities/claude-code-inject) - 
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [yowainwright/pastoralist](https://github.com/yowainwright/pastoralist) - A CLI for automatically shepherding package.json overrides 👩🏽‍🌾
@@ -6096,7 +6100,7 @@
 - [StudentOfJS/svelte5-mcp](https://github.com/StudentOfJS/svelte5-mcp) - A specialized Model Context Protocol (MCP) server for Svelte 5 frontend development
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -6887,6 +6891,7 @@
 - [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [janosh/svelte-widgets](https://github.com/janosh/svelte-widgets) - Keyboard-friendly, accessible and highly customizable multi-select component
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
