@@ -2592,7 +2592,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [isomorphic-git/lightning-fs](https://github.com/isomorphic-git/lightning-fs) - A lean and fast 'fs' for the browser
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [mdolr/survol](https://github.com/mdolr/survol) - A browser extension to preview any link you hover
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
@@ -4962,6 +4962,7 @@
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [sophiajt/june](https://github.com/sophiajt/june) - 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [resonatehq/resonate](https://github.com/resonatehq/resonate) - Distributed Async Await — Durable Executions, Dead Simple
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -6006,7 +6007,7 @@
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
 - [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
@@ -6306,7 +6307,6 @@
 - [uwu/simple-monaco](https://github.com/uwu/simple-monaco) - Monaco as easy to use UI components
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [xkcd/incredible](https://github.com/xkcd/incredible) - A massive collaborative rube goldberg machine.
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [opengovern/opensecurity](https://github.com/opengovern/opensecurity) - opensecurity: open-source security and compliance. See and secure your cloud, containers, code, networks, deployments, devices. Define your rules, get precise checks, fix gaps fast. Streamlined audits
